@@ -1,0 +1,40 @@
+
+
+# My approach:
+
+1. Data Cleaning
+
+    1. Remove nodes that have more neighbourhood, in that case, we know, celebrities/busineessman have more followers, but the probability to become friend is very lower.
+    2. Considering this concept, i remove all the nodes from training nodes which have newighbours more than 60.
+    3. Change data types of columns, which can describe them better like int8, float16 etc.
+
+2. Feature enginerring, using **Graph** based supervised and unsupervised methods
+
+
+    1. Unsupervised features
+        - Resource Allocation
+        - jaccard Coefficient
+        - Adamic Adar
+        - Prefrential attachment
+
+    2. Katz Rank features
+        - weighted
+        - unweighted
+
+    3. Page Rank feature
+
+    4. User Specific features
+        - create sparse incidence matrix from graph
+        - Run SVD on top of that, to extract low dimensional space vector
+
+3. More Feature engineering
+    - Check the nodes belongs to same community, so using that we have 13 more features
+    - Using distance based method, can be very helpful, Didn't includes, becuase of memory constaint
+
+Using all the above feature engineering, i got 143 features
+
+4. Model building
+    - Used stratified sampling for cv of 5 folds
+    - used Graident Based Model (LightGBM, CatBoost, XGBoost)
+    - Final prediction is blending of all three models.
+    
