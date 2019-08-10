@@ -1,0 +1,86 @@
+
+We have movie rating and vote count for each movie, from there we can find the average rating for each movie.
+Now we can find the 95% percitile quantil;e to consider at least vote count for the recommendation.
+(v/v+m *R)+(m/v+m *C)
+
+where,
+
+    v is the number of votes for the movie
+    m is the minimum votes required to be listed in the chart
+    R is the average rating of the movie
+    C is the mean vote across the whole report
+
+
+
+Popularity Based
+	Searching using 'genre' ==> Animation, Comedy, Family, Romance, Drama..
+	Process: It will find all ID's having 'genre' keyword and using that data, apply the method to calculate the weighted average of the movies.
+
+	==> gen_meta_data[gen_meta_data['genre'] == 'Action']
+	==> build_chart(gen_meta_data,'Romance').head()
+
+
+Content based:
+	used Tagline, Description, Overview
+	Process: Used small_links dataset to extract the tmbdId and create a small dataset using that id and matched in original dataset. 
+	= Further use tagline and overview of movies and extract feature using freq of words(tfidfVectorizer) 
+	= Create sparse matrix of word vectors and Use cosine similarity(This is just the similarity between description of one movie with all other description)
+	= load another small dataset having indices (titles for Id)
+	= sort the similarity matrix for the given title
+	= Choose the top few(20) score and respective indices
+	= get movies name using those indices
+
+	==> get_recommendations('The Godfather').head(10)
+	==> get_recommendations('The Dark Knight').head(10)
+
+
+Content Based (more content):
+	used: genre, keywords, cast, crew
+	keywords ==>  jealousy, toy, boy, friendship, friends, pregnancy, aging, children's book...
+	Director ==> christopher nolan, johnlasseter, ....
+	Actor(Cast) ==> tomhanks, timallen, donrickles,...
+
+	Process:	
+	= Make a list of genre, keywords, cast, crew, descriptions
+	= Extract feature using freq of words(tfidfVectorizer) (Before that use Stemmer to reduce redundancy of the word 
+	Exp: Make walking to walk)
+	= Create sparse matrix of word vectors and Use cosine similarity
+	= Seelect the similarity vector for the given title from matrix and sort it.
+	= Choose the top few(20) score and obtain their respective indices
+	= get movies name using those indices
+
+	==> get_recommendations('The Godfather').head(10)
+
+
+Improved version of the content based :
+	= Get the indices after similarity vector sorting ....
+	= Now use the average counting (weighted rating formula) to get the rating for each movie using information like voting mean, average and year.
+	= Further sort the rating obtain a few top of that recommendation(By doing this, we are removing those negative movie or boring one which is not much liked by the people, even it is produced by top director and actors)
+
+	in improved, i tried to remove bad movies by decreasing thwe percentile of voting and bad movies by good director and actors.
+
+	==> improved_recommendations(small_meta_data,'The Dark Knight')
+
+##########################################
+Our content based engine suffers from some severe limitations. It is only capable of suggesting movies which are close to a certain movie. That is, it is not capable of capturing tastes and providing recommendations across genres.
+##########################################
+
+Collabrative Filtering Approach:
+	= Use user choise and find the similarities between user's choice and On top of that use SVD, which is nothing but the way to predict the missing value. Thus its prediction os basically the user choice(recommended one).
+
+
+
+Hybrid approach:
+	process:
+	= Use title of movie as the history for the user along with user id
+	= Use title to get similarity vector which has been obtained using the description and other content of the movies.
+	= use this sorted small dataset, along with user id, find the similarities between other user's choice with other user.
+	= sort the similarities between users and get recommendation.
+
+	==> hybrid(small_meta_data,1,'Avatar').head(10)
+
+
+
+
+
+
