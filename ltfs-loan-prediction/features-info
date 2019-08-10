@@ -1,0 +1,74 @@
+
+'UniqueID',
+'disbursed_amount',   == corrected
+'asset_cost',         == corrected
+'ltv',                == 'ltv_round_cat' == (very dangerous features)
+'branch_id',          == use for grouping
+'supplier_id',        == use for grouping
+'manufacturer_id',    == use for grouping
+'Current_pincode_ID', == use for grouping
+'Employment.Type',    == corrected
+'State_ID',           == use for grouping
+'Employee_code_ID',   == use for grouping
+'MobileNo_Avl_Flag',  == dropped
+'Aadhar_flag',        ==
+'PAN_flag',           ==
+'VoterID_flag',       ==
+'Driving_flag',       == 
+'Passport_flag',      ==
+'PRI.NO.OF.ACCTS',    == no_of_loans
+'PRI.ACTIVE.ACCTS',   == no_of_acc
+'PRI.OVERDUE.ACCTS',  == no_of_acc_overdue
+'PRI.CURRENT.BALANCE',== negative_income == NEED_HELP(SUSPICIOUS)
+
+'PRI.SANCTIONED.AMOUNT', == NEED_HELP(SUSPICIOUS)
+'PRI.DISBURSED.AMOUNT',  == NEED_HELP(SUSPICIOUS)
+'SEC.NO.OF.ACCTS',       == corrected
+'SEC.ACTIVE.ACCTS',      == corrected
+'SEC.OVERDUE.ACCTS',     == corrected
+'SEC.CURRENT.BALANCE',   == NEED_HELP(SUSPICIOUS)
+'SEC.SANCTIONED.AMOUNT', == NEED_HELP(SUSPICIOUS)
+'SEC.DISBURSED.AMOUNT',  == NEED_HELP(SUSPICIOUS)
+'PRIMARY.INSTAL.AMT',    == Difficult to handle (removed outliers but still distributions is not good)
+'SEC.INSTAL.AMT',        == corrected
+'NO.OF_INQUIRIES',       == no_of_inquiry
+'loan_default',          == 
+'day_of_birth',          == 
+'month_of_birth',        ==
+'year_of_birth',         == corrected
+'credit_hist_year',      == corrected
+'credit_hist_month',     == 
+'loan_tenure_year',      == corrected
+'loan_tenure_month',     ==
+'day_of_disbursal',      == 
+'month_of_disbursal',    == 
+'year_of_disbursal',     == dropped
+'Bureau_desc',           == 
+'bureau_score'           == 
+
+'NEW.ACCTS.IN.LAST.SIX.MONTHS',        == corrected
+'DELINQUENT.ACCTS.IN.LAST.SIX.MONTHS', == corrected
+
+from 'PRI.ACTIVE.ACCTS' & 'PRI.OVERDUE.ACCTS'   == diff_of_acc
+From 'credit_hist_year', &  credit_hist_month', == credit_history
+From 'loan_tenure_year', & 'loan_tenure_month', == loan_tenure
+From 'year_of_birth' & 'year_of_disbursal'      == age_till_disbursal
+
+
+
+
+['pri_sanc', 'assest','pincode','emp_code1_sum','ltv','pri_instal','branch2_min','disbursed_amt','birth_year','bureau_score', 'branch1_max', 'emp_code1_unique', 'pincode2_mean']
+
+['PRI.SANCTIONED.AMOUNT', ==> pri_sanc
+ 'asset_cost',
+ 'Current_pincode_ID',
+ 'emp_code1_sum',
+ 'ltv',
+ 'PRIMARY.INSTAL.AMT',
+ 'branch2_min',
+ 'disbursed_amount',
+ 'year_of_birth',
+ 'bureau_score',
+ 'branch1_max',
+ 'emp_code1_get_unique',
+ 'pincode2_mean']

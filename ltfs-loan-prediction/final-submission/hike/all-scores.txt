@@ -1,0 +1,41 @@
+
+Explained in the submission-detail.txt file in code files
+468_607158_cf_submission-hike-link-prediction.zip
+
+0.865655806366525 ==>> f68_607158_us_submission3.csv.zip
+
+0.864429102664266 ==>> 468_607158_us_catboost_target_50_1_final.csv.zip
+
+0.865655806366525 ==>> 468_607158_us_mix_final.csv.zip
+
+0.864495910151956 ==>> 468_607158_us_lightgbm_target_50_1_final.csv_3jwXf3F.zip
+
+0.865928964688464 ==>> 468_607158_us_xgboost_target_50_1_final.csv.zip
+
+0.864101112359563 ==>> 468_607158_us_all_average.csv.zip
+
+0.863342619951385 ==>> 468_607158_us_cat_average.csv.zip
+
+0.863941433536629 ==>> 468_607158_us_catboost_target_50_11.csv.zip
+
+0.860084643520427 ==>> 468_607158_us_catboost_target_50_2.csv.zip
+
+0.863067761087845 ==>> 468_607158_us_lightgbm_target_50_1.csv.zip
+
+0.863480732951803 ==>> 468_607158_us_lightgbm_target_50_2.csv.zip
+
+0.865413605538966 ==>> 468_607158_us_xgboost_target_50_2.csv.zip
+
+0.863542765991284 ==>> 468_607158_us_catboost_target_50_1.csv.zip
+
+0.864726283678093 ==>> 468_607158_us_xgboost_target_50_1.csv.zip
+
+0.864106193223465 ==>> 468_607158_us_catboost_target2_better.csv.zip
+
+0.864730215467769 ==>> 468_607158_us_xgboost_target_baseline.csv.zip
+
+0.500025853616643 ==>> 468_607158_us_lightgbm_target_baseline.csv.zip
+
+0.730088702640561 ==>> 468_607158_us_catboost_target_baseline.csv.zip
+
+0.499637566546065 ==>>468_607158_us_random_baseline.csv.zip ==>>
