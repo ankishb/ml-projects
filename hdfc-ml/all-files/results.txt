@@ -1,0 +1,15 @@
+cat_thursday: 0.860001
+xgb_try : 85.11755
+cat_try_dummy : 84.95659 
+cat_try_small :  85.79367 
+cat_ensemble :  85.38806 
+direct_ensemble :  85.55250 
+good_cat : 85.91877 
+good_cat2 : 86.08796 
+ens : 84.66444 
+ensemb2 : 85.25499
+ensemb3 : 85.40469
+ensemb4 : 85.73674 
+sub_cat : 86.26687
+ensemb5 : 85.73
+ensemb6 :  85.85186 
