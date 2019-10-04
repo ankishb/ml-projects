@@ -1,2 +1,1 @@
-# ml-projects
-ML, Projects, Paper Implementation, Data Science
+# Link Prediction on Hike’s Social Network

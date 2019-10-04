@@ -1,2 +1,2 @@
-# ml-projects
-ML, Projects, Paper Implementation, Data Science
+# Face Detection and veryfication
+I followed Matching Network technique, to build a Student-Attentdance hardware. I test it on `10` classes. As i have very small dataset, so to train a big CNN model is impossible. To tackle this problem, i designed an architecture with few `1000` of parameters using `network-in-network` approach. I get around `93%` accuracy on my application.

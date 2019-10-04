@@ -1,2 +1,2 @@
-# ml-projects
-ML, Projects, Paper Implementation, Data Science
+# Object Detection contest(flipkart):
+My approach is based on single stage detector like SSD, YOLO. My contribution in this project is to implement the entire pipeline from ground, then undertanding the visual feature utilized by CNN and designed a conditional feature map. It improve the performance score over naive appraoch by `4.2%` . In brief, while forward pass, it check, which feature are account into final prediction and in backward pass it suppress the decision activation for the irrelevant part(such as background) to zero. This lead to it fast convergence of parameters of neural network.
