@@ -1,0 +1,1050 @@
+L0~gs.api.log.60.Sep 09, 2019_10:45 17162 INFO gs.resource.resource_tracker [ req-vleiy-st19-07b8k3-h4bjn-r60qt4 ] Active base files: /var/lib/gs/instances/_base/vleiy-st19-07b8k3-h4bjn-r60qt4
+L1~gs.api.log.14.2019-09-02_07:57 AM 60858 INFO gs.resource.manager [ req-vz2nx-rj0zcy-lem3a-hg2m1-j6zsi ] [ instance: 8ohnb-1gbn-0eyq-1m82u-jvlt ] Instance Destroyed Successfully
+L2~gs.api.compute.log.65.11-09-2019_04:57 AM 72310 INFO gs.api.openstack.compute.wsgi [ req-seht-hxfm7-znf6p1-f1zgu ] [ instance: 9y6vnd-0n37-x3fz-a7s4-e1ajgn ] VM Resumed (Lifecycle Event)
+L3~gs.compute.log.82.07-09-2019_05:17 PM 5534 INFO gs.openapi.server [ req-xms9j-g0zcrh-kd5eu ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 5204 time: 0.1012101
+L4~gs.api.log.15.2019-09-14_16:27 39946 INFO gs.openstack.server [ req-ioxmw-6nub-4yrq2 ] Removing base or swap file: /var/lib/gs/instances/_base/9y6vnd-7vse1y-8qoj-uxnq
+L5~gs.api.compute.log.48.2019-09-14_04:23 PM 1844 INFO gs.api.openstack.compute.wsgi [ req-l8i6v-63u9fq-ydjr7v ] [ instance: 2aque-tn296-yafw5-b5cn-43bt7y ] VM Paused (Lifecycle Event)
+L6~gs.api.log.18_Sep 04, 2019_01:16:00 7874 INFO gs.compute.manager [ req-1aeb-fysr-n7w9u-gyb4k-xp7z ] "POST /v2/fpzkcurqo9xst6i8hn0eam57w3bvj2l1/servers/details HTTP/1.1" status: 404 len: 7929 time: 0.7310731
+L7~gs.compute.log.87.06-09-2019_01:10 PM 71413 INFO gs.openapi.server [ req-251u-ntaj-92h5-tnxuz ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 1021 time: 0.6906691
+L8~gs.api.log.79.2019-09-13_10:30 AM 87076 INFO gs.openstack.server [ req-2pz8-ansf0b-1khtw-za7m ] [ instance: bql5g-1wpskj-er9xy-lf8pr1 ] Instance Destroyed Successfully
+L9~gs.compute.log.85.15-09-2019_11:29 PM 86946 INFO gs.compute.resource_tracker [ req-dwqbe1-9bc6-vla0s-jfinu ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 404 len: 7453 time: 0.8426843
+L10~gs.compute.log.81.14-09-2019_01:49 AM 45273 INFO gs.openstack.wsgi.server [ req-ndrl-53ijn-h9pg ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 404 len: 2438 time: 0.1257126
+L11~gs.compute.log.47.14-09-2019_23:31 68509 INFO gs.api.openapi.compute.wsgi [ req-ioxmw-6nub-4yrq2 ] Total usable disk: 47GB, total allocated disk: 12GB
+L12~gs.compute.log.85.13-09-2019_16:34 32814 INFO gs.compute.manager [ req-qmk5g9-7nxq-6od5mc ] Total usable memory: 85GB, total allocated memory: 4GB
+L13~gs.compute.log.34.15-09-2019_07:20 27141 INFO gs.compute.resource_tracker [ req-4uz8-ubec-rytxe8-8v3qyr ] Total usable disk: 34GB, total allocated disk: 13GB
+L14~gs.api.log.46_Sep 03, 2019_08:30:00 43868 INFO gs.api.openapi.compute.wsgi [ req-sqwbf0-fns8p-guc3-x52i0-m826 ] [ instance: 1zqaf-gux0-jvlt ] Total disk upper-limit not defined, defaulting to unlimited
+L15~gs.api.log.43.Sep 13, 2019_11:10 93308 INFO gs.api.openstack.compute.wsgi [ req-y9mjwk-n1yj-6wl35r-nhwlbg ] Unknown base file: /var/lib/gs/instances/_base/vz2nx-5eva8-78jxq
+L16~gs.compute.log.43.Sep 07, 2019_18:46 10837 INFO gs.compute.resource_tracker [ req-wud8m-x2rl-mvdb8 ] "GET /v2/2019-09-09 meta_data.json HTTP/1.1" status: 404 len: 8748 time: 0.7630763
+L17~gs.api.log.27.Sep 12, 2019_20:17 57118 INFO gs.compute.manager [ req-hjnbup-9abg-258dx-hfujap ] Deleting instance files /var/lib/gs/instances/hjnbup-9abg-258dx-hfujap
+L18~gs.api.log.85.13-09-2019_09:07 73174 INFO gs.api.openstack.compute.wsgi [ req-ioxmw-6nub-4yrq2 ] Unknown base file: /var/lib/gs/instances/_base/8ohnb-1gbn-0eyq-1m82u-jvlt
+L19~gs.api.log.52_Sep 14, 2019_22:28:00 64148 INFO gs.compute.resource_tracker [ req-hjnbup-9abg-258dx-hfujap ] "DELETE /v2/f2nkz19tlogayr3heic4jvb0w785u6xd/servers/details HTTP/1.1" status: 200 len: 9259 time: 0.8628863
+L20~gs.compute.log.87.15-09-2019_23:25 6367 INFO gs.openstack.server [ req-ved5la-a7s4-ydjr7v-y9mjwk ] Total usable disk: 87GB, total allocated disk: 14GB
+L21~gs.api.log.18_07-09-2019_02:35 89418 INFO gs.resource.resource_tracker [ req-dr2nm-n7w9u-7gtvf9-vhgtcd-2i1w ] HTTP exception thrown: No instances found for any event
+L22~gs.compute.log.68.03-09-2019_15:13 40594 INFO gs.resource.claims [ req-jfinu-6hb83-wc27vl-7dxu2 ] "GET /v2/2019-09-05 user_data.json HTTP/1.1" status: 404 len: 5781 time: 0.59996
+L23~gs.compute.log.51.Sep 09, 2019_16:58 6303 INFO gs.api.openstack.compute.wsgi [ req-m826-ntau-qi4yxm-hvtw ] "GET /v2/2019-09-10 user_data.json HTTP/1.1" status: 404 len: 6597 time: 0.3162316
+L24~gs.compute.log.28.15-09-2019_15:38 87033 INFO gs.openapi.server [ req-251u-ntaj-92h5-tnxuz ]
+L25~gs.api.log.60.2019-09-02_11:56 AM 59989 INFO gs.openapi.server [ req-4fsdei-0e1x4b-hg2m1-wrcp-wc27vl ] [ instance: c3mgjr-vz2nx-eqb6yn-lx5g-p5ek ] Instance spawned correctly
+L26~gs.api.log.44_Sep 07, 2019_03:14:00 20661 INFO gs.openapi.wsgi.server [ req-nxlm1-jr7s2-moywpf-c3mgjr ] "DELETE /v2/87zt2vipax3mhey5uj6nkcwr/servers/details HTTP/1.1" status: 202 len: 9612 time: 0.7443744
+L27~gs.compute.log.21.11-09-2019_02:35 PM 51083 INFO gs.compute.manager [ req-vleiy-st19-07b8k3-h4bjn-r60qt4 ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 1895 time: 0.9470947
+L28~gs.compute.log.45.08-09-2019_10:06 94917 INFO gs.api.openstack.compute.wsgi [ req-gyb4k-4nbsil-1ygsj-nji3 ] Total usable vcpus: 45, total allocated vcpus: 8
+L29~gs.compute.log.86.09-09-2019_19:53 67404 INFO gs.openstack.wsgi.server [ req-n7w9u-2i1w-b0u4v-ahegn ] "GET /v2/2019-09-07 user_data.json HTTP/1.1" status: 201 len: 6957 time: 0.2943294
+L30~gs.api.log.26.08-09-2019_03:17 78318 INFO gs.resource.manager [ req-9tci3b-lxad0-wc27vl ] Removing base or swap file: /var/lib/gs/instances/_base/7uy6-g195y-q89b-cn6d-vwctu
+L31~gs.compute.log.54.08-09-2019_12:38 33300 INFO gs.resource.manager [ req-p5tb-1eq4-gbocui ] "GET /v2/2019-09-14 meta_data.json HTTP/1.1" status: 404 len: 9149 time: 0.7429743
+L32~gs.api.log.39.2019-09-09_06:32 PM 89190 INFO gs.compute.manager [ req-ovjcx-krg2v9-p5tb-6fcpz3-82nm9w ] [ instance: k9ewd-a7nq-e7bt8n ] swap instance creation successfully
+L33~gs.api.compute.log.91.15-09-2019_01:27 PM 45891 INFO gs.resource.resource_tracker [ req-9fqgh-6g9t-xdt1u-5zws ] [ instance: i6qn3-7aqk-snx5kr-50frl-8v3qyr ] VM Stopped (Lifecycle Event)
+L34~gs.api.log.91_12-09-2019_15:40 8914 INFO gs.openstack.server [ req-i6qn3-fb9lk-jvlt-k4n8-vla0s ] HTTP exception thrown: No instances found for any event
+L35~gs.api.compute.log.13.2019-09-08_12:30 PM 70483 INFO gs.api.openstack.compute.wsgi [ req-2x0buc-x2sl-2u03 ] [ instance: b7con1-ansf0b-hgusmt ] VM Started (Lifecycle Event)
+L36~gs.compute.log.87.11-09-2019_15:47:00 55809 INFO gs.api.openapi.compute.wsgi [ req-i6qn3-7aqk-snx5kr-50frl-8v3qyr ] [ instance: 0eyq-ws0mh-rytxe8-du3mf ] Takes 746 seconds to deallocate network for instance
+L37~gs.api.log.26.Sep 03, 2019_09:50 PM 6009 INFO gs.openstack.wsgi.server [ req-z210-n80j6-1ygsj-cmhkf9-s2ft ] Removing base or swap file: /var/lib/gs/instances/_base/j1yt-0n37-nji3-xkf8
+L38~gs.compute.log.10.10-09-2019_12:04 73812 INFO gs.openapi.server [ req-05jdm-ej4rb-6arqu-cn6d ] "GET /v2/2019-09-06 meta_data.json HTTP/1.1" status: 201 len: 8842 time: 0.139914
+L39~gs.api.compute.log.48.09-09-2019_04:23 PM 80226 INFO gs.api.openapi.compute.wsgi [ req-p5tb-zcg4a-gyb4k-iz71 ] [ instance: sqwbf0-fns8p-guc3-x52i0-m826 ] VM Resumed (Lifecycle Event)
+L40~gs.api.log.91.Sep 12, 2019_08:44 7794 INFO gs.compute.manager [ req-krg2v9-er9xy-iz71 ] Deleting instance files /var/lib/gs/instances/krg2v9-er9xy-iz71
+L41~gs.compute.log.92.Sep 12, 2019_04:28 44314 INFO gs.openapi.server [ req-tdsx-rvkx-x52i0 ] "GET /v2/2019-09-11 vendor_data.json HTTP/1.1" status: 201 len: 9259 time: 0.7135714
+L42~gs.api.log.56_Sep 15, 2019_08:30:00 51016 INFO gs.resource.manager [ req-rpa9o-92h5-gd4ks ] [ instance: y9mjwk-6do12x-5eva8-gqds-64ugji ] Total memory limit not specified, defaulting to unlimited
+L43~gs.api.log.79.Sep 14, 2019_23:10 72996 INFO gs.api.openapi.compute.wsgi [ req-tdsx-rvkx-x52i0 ] Removing base or swap file: /var/lib/gs/instances/_base/659m7-pt2zo-eqb6yn
+L44~gs.compute.log.76.10-09-2019_09:22 AM 47901 INFO gs.resource.manager [ req-8qoj-gbdq0k-nhwlbg-vla0s-x3fz ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 2940 time: 0.0366037
+L45~gs.compute.log.58.14-09-2019_10:25 97600 INFO gs.api.openstack.compute.wsgi [ req-q2kdp-0x7vr-igbe5 ]
+L46~gs.api.log.23_11-09-2019_07:20 36149 INFO gs.api.openstack.compute.wsgi [ req-8913pu-2aque-5l1ne ] HTTP exception thrown: No instances found for any event
+L47~gs.api.log.36_11-09-2019_18:16 43250 INFO gs.compute.resource_tracker [ req-7nxq-4nbsil-4fsdei-cm93ef-mvdb8 ] HTTP exception thrown: No instances found for any event
+L48~gs.compute.log.95.06-09-2019_15:38 22153 INFO gs.openstack.server [ req-53ijn-fipw-ufwp-4ih9m ]
+L49~gs.api.log.68_Sep 02, 2019_11:24:00 6367 INFO gs.openstack.server [ req-4fsdei-ydjr7v-h4bjn ] "GET /v2/3zosx1m928rvu5tq/servers/details HTTP/1.1" status: 204 len: 9027 time: 0.1307131
+L50~gs.compute.log.64.07-09-2019_08:42 PM 31038 INFO gs.api.openapi.compute.wsgi [ req-6od5mc-e6ba-xd16 ] [ instance: wrcp-8aqge-z7ugl6 ] Takes 4525 seconds to deallocate network for instance
+L51~gs.api.compute.log.59.2019-09-09_01:26 PM 38960 INFO gs.openapi.server [ req-dw0s-4vtbmc-vhgtcd-vz2nx-xkf8 ] [ instance: i6qn3-fb9lk-jvlt-k4n8-vla0s ] VM Paused (Lifecycle Event)
+L52~gs.api.log.97.Sep 10, 2019_03:10 74340 INFO gs.resource.manager [ req-e8uxd-ax5skc-251u-sn08-6purm ] Base or swap file too young to remove: /var/lib/gs/instances/_base/y9mjwk-6do12x-5eva8-gqds-64ugji
+L53~gs.api.log.13_Sep 15, 2019_23:51:00 13691 INFO gs.resource.resource_tracker [ req-ydjr7v-jk6v1l-iv6no ] "POST /v2/8t50l2r1pqwhoex3vmzi4dcnab9ukfjg/servers/details HTTP/1.1" status: 200 len: 1427 time: 0.3939394
+L54~gs.compute.log.36.15-09-2019_05:38 PM 78758 INFO gs.api.openapi.compute.wsgi [ req-zwa26p-3g0j6-myq6t-epdv4-o74f ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 2090 time: 0.1117112
+L55~gs.compute.log.43.05-09-2019_13:32 7615 INFO gs.api.openstack.compute.wsgi [ req-wxf6-vbk5lj-4v2d ] "GET /v2/2019-09-10 meta_data.json HTTP/1.1" status: 201 len: 9568 time: 0.1667167
+L56~gs.compute.log.83.09-09-2019_21:18 52139 INFO gs.compute.resource_tracker [ req-659m7-51oy-gyb4k-iejl9-khe4zp ] Total usable vcpus: 83, total allocated vcpus: 13
+L57~gs.api.log.60.05-09-2019_09:32 68033 INFO gs.openapi.server [ req-2pz8-ansf0b-1khtw-za7m ] Base or swap file too young to remove: /var/lib/gs/instances/_base/2aque-tn296-yafw5-b5cn-43bt7y
+L58~gs.api.log.85.2019-09-01_12:55 AM 4915 INFO gs.api.openapi.compute.wsgi [ req-8sa2-moywpf-glde ] [ instance: cb8v-q7rzio-l8ejk ] Instance Destroyed Successfully
+L59~gs.compute.log.89_2019-09-10_09:38:00 31521 INFO gs.openstack.wsgi.server [ req-7jmh-yafw5-lxad0 ] Creating event network-vif-plugged: for instance
+L60~gs.api.log.45.08-09-2019_03:19 67198 INFO gs.api.openstack.compute.wsgi [ req-sy65tl-vxb0tn-wxf6-yp0io-h0m2 ] Deleting instance files /var/lib/gs/instances/sy65tl-vxb0tn-wxf6-yp0io-h0m2
+L61~gs.api.log.15.2019-09-12_02:01:00 77456 INFO gs.api.openapi.compute.wsgi [ req-57sy1o-nv8jct-bql5g-lx5g-6fcpz3 ] Removing base or swap file: /var/lib/gs/instances/_base/cb4ngr-cnklvu-5ji8-ktiqb-4nbsil
+L62~gs.api.log.77_Sep 10, 2019_03:59:00 46777 INFO gs.compute.resource_tracker [ req-8ohnb-1gbn-0eyq-1m82u-jvlt ] [ instance: ib4t3-enwlc-vbk5lj-hwy80 ] VM limit not defined, defaulting to max
+L63~gs.api.log.19_07-09-2019_17:53 43615 INFO gs.openapi.server [ req-rytxe8-why1-mzou ] HTTP exception thrown: No instances found for any event
+L64~gs.api.log.99_2019-09-11_21:30:00 47672 INFO gs.resource.manager [ req-37c9b-h0m2-h0kd-lf8pr1-ndrl ] [ instance: 1zqaf-gux0-jvlt ] Total disk upper-limit not defined, defaulting to unlimited
+L65~gs.compute.log.99.10-09-2019_11:07 46039 INFO gs.api.openstack.compute.wsgi [ req-t8i3f-4dsm6h-0n37 ] Total usable disk: 99GB, total allocated disk: 8GB
+L66~gs.api.log.34_04-09-2019_20:49 52499 INFO gs.compute.resource_tracker [ req-n7w9u-lp7ie4-6od5mc-8vpj ] HTTP exception thrown: No entry found for any event
+L67~gs.api.log.62.11-09-2019_08:55:00 59989 INFO gs.openapi.wsgi.server [ req-9bc6-d5fmv-guc3-a9ix ] Removing base or swap file: /var/lib/gs/instances/_base/l89bg-f1zgu-sqwbf0-r60qt4-yafw5
+L68~gs.api.log.73_01-09-2019_14:23 97625 INFO gs.resource.claims [ req-e8p6fh-57sy1o-4agu ] HTTP exception thrown: No entry found for any event
+L69~gs.api.log.48.2019-09-05_11:40 PM 58504 INFO gs.openapi.wsgi.server [ req-3fmy-l89bg-yafw5-yp0io ] [ instance: i805py-yuikx0-1apj2-9fqgh-hwy80 ] Instance spawned correctly
+L70~gs.api.log.41_Sep 15, 2019_01:51:00 85659 INFO gs.compute.manager [ req-7dxu2-1khtw-4t85u ] [ instance: 2clbx-7zyp9-0v4wr-9jx42-1fdm7 ] VM limit not defined, defaulting to max
+L71~gs.api.log.13_09-09-2019_03:57 86798 INFO gs.resource.manager [ req-1ht782-ej4rb-lf8pr1 ] HTTP exception thrown: No entry found for any event
+L72~gs.api.log.79_2019-09-04_16:34:00 13183 INFO gs.resource.manager [ req-rsjok9-7kwbx-qi4yxm ] [ instance: 9a7mre-gyb4k-8913pu ] vcpu limit not specified, default to unlimited
+L73~gs.api.log.53_Sep 04, 2019_17:46:00 7379 INFO gs.resource.claims [ req-b7con1-ansf0b-hgusmt ] [ instance: sngw-5bkrt-3g0j6 ] VM limit not defined, defaulting to max
+L74~gs.api.log.98.Sep 14, 2019_07:31 32139 INFO gs.resource.resource_tracker [ req-hjnbup-9abg-258dx-hfujap ] Active base files: /var/lib/gs/instances/_base/hjnbup-9abg-258dx-hfujap
+L75~gs.api.log.28_Sep 07, 2019_12:10:00 11242 INFO gs.resource.resource_tracker [ req-lem3a-rhezju-igbe5-ioxmw ] "DELETE /v2/gvpthsumkqf8odlabcinwr09613e5x7z/servers/details HTTP/1.1" status: 202 len: 9508 time: 0.1889189
+L76~gs.compute.log.90.04-09-2019_19:27 50675 INFO gs.resource.claims [ req-659m7-pt2zo-eqb6yn ] Total usable vcpus: 90, total allocated vcpus: 11
+L77~gs.api.log.92.2019-09-05_12:12 AM 78085 INFO gs.resource.claims [ req-cb4ngr-cnklvu-5ji8-ktiqb-4nbsil ] [ instance: rhezju-6hb83-7vse1y ] swap instance creation successfully
+L78~gs.api.log.27.2019-09-11_09:22 AM 19568 INFO gs.openstack.wsgi.server [ req-o20nek-lx5g-9bc6 ] [ instance: rq1a-vla0s-57sy1o ] swap instance creation successfully
+L79~gs.compute.log.93_2019-09-10_08:28:00 6391 INFO gs.compute.manager [ req-vleiy-b5cn-l0ieb ] Creating event network-vif-plugged: for instance
+L80~gs.compute.log.92.02-09-2019_07:46 62807 INFO gs.api.openstack.compute.wsgi [ req-ydjr7v-c3mgjr-u9qae ]
+L81~gs.api.compute.log.35.Sep 02, 2019_01:14 AM 43499 INFO gs.api.openapi.compute.wsgi [ req-y8zx-gyb4k-znquk ] [ instance: awy8e3-v47k-z210-0n37 ] VM Stopped (Lifecycle Event)
+L82~gs.api.log.38_Sep 11, 2019_12:58:00 15507 INFO gs.openapi.server [ req-3oh07-iz71-ufwp ] "GET /v2/nso0aiv4f7db8m16/servers/details HTTP/1.1" status: 204 len: 9029 time: 0.9813981
+L83~gs.api.log.72.2019-09-04_08:56 PM 92955 INFO gs.openstack.server [ req-guc3-cm93ef-hjwo27 ] [ instance: uh29c-b5cn-j602eg-6fcpz3 ] Instance spawned correctly
+L84~gs.compute.log.62.02-09-2019_19:10 23366 INFO gs.compute.manager [ req-gyb4k-4nbsil-1ygsj-nji3 ] Total usable memory: 62GB, total allocated memory: 7GB
+L85~gs.api.compute.log.29.Sep 02, 2019_12:51 PM 80968 INFO gs.compute.resource_tracker [ req-hfujap-564sz-a7s4-59rz-o74f ] [ instance: 8zl7-gkya-8vpj-j602eg ] VM Resumed (Lifecycle Event)
+L86~gs.api.log.51_04-09-2019_09:30 9991 INFO gs.api.openstack.compute.wsgi [ req-x2rl-v3fcs-uab0iz-j1yt ] HTTP exception thrown: No instances found for any event
+L87~gs.api.log.78_Sep 04, 2019_20:44:00 57344 INFO gs.openstack.wsgi.server [ req-nxlm1-jr7s2-moywpf-c3mgjr ] [ instance: 560z-ntaj-2i1w-hliy2-s5mc2 ] vcpu limit not specified, default to unlimited
+L88~gs.compute.log.89.Sep 04, 2019_08:53 7481 INFO gs.openstack.server [ req-8ohnb-1gbn-0eyq-1m82u-jvlt ] "GET /v2/2019-09-03 meta_data.json HTTP/1.1" status: 404 len: 9604 time: 0.1227123
+L89~gs.api.log.68.2019-09-08_10:46 PM 53145 INFO gs.openapi.server [ req-9bc6-d5fmv-guc3-a9ix ] [ instance: az74cj-28du-6fcpz3-tn296-il7e ] Instance spawned correctly
+L90~gs.compute.log.24.15-09-2019_01:47 33510 INFO gs.openstack.wsgi.server [ req-d7bus-cn6d-6g4iw0-1yaqrz ] "GET /v2/2019-09-15 vendor_data.json HTTP/1.1" status: 404 len: 2560 time: 0.4083408
+L91~gs.api.log.32_2019-09-03_13:32:00 67150 INFO gs.openapi.wsgi.server [ req-e8uxd-ihqrcx-wxf6 ] [ instance: 3poj-st19-r1qyx-kw0tiv ] Total disk upper-limit not defined, defaulting to unlimited
+L92~gs.compute.log.26.Sep 02, 2019_10:59 48394 INFO gs.api.openstack.compute.wsgi [ req-7nxq-6do12x-pt2zo ] "GET /v2/2019-09-06 vendor_data.json HTTP/1.1" status: 201 len: 8858 time: 0.7560756
+L93~gs.api.log.74.2019-09-01_04:37 AM 21859 INFO gs.openstack.server [ req-yuikx0-q89b-vwctu-zcg4a-6exg9o ] [ instance: bztu59-5zws-njros0-07b8k3 ] Instance spawned correctly
+L94~gs.api.log.87.Sep 08, 2019_05:43 47672 INFO gs.openapi.wsgi.server [ req-d7zuw6-uh29c-54er ] Removable base files: /var/lib/gs/instances/_base/ndrl-5eva8-a0um-ydp4fa-mn76
+L95~gs.api.log.80.2019-09-07_07:03 PM 96822 INFO gs.resource.resource_tracker [ req-57sy1o-8913pu-tfzd ] Base or swap file too young to remove: /var/lib/gs/instances/_base/xtqs-wud8m-za7m-sgnvfi
+L96~gs.api.log.14_Sep 10, 2019_22:40:00 91144 INFO gs.resource.manager [ req-n7w9u-wst3yd-6do12x-vhgtcd-zrbjc8 ] "DELETE /v2/ibzrjqvwgf380eaox41d9n52/servers/details HTTP/1.1" status: 404 len: 5437 time: 0.7268727
+L97~gs.api.log.60.2019-09-06_02:14 AM 19754 INFO gs.resource.claims [ req-2clbx-7zyp9-0v4wr-9jx42-1fdm7 ] [ instance: kzunes-rvkx-258dx-ntaj-ndrl ] Instance spawned correctly
+L98~gs.compute.log.19.06-09-2019_08:54 PM 88926 INFO gs.api.openstack.compute.wsgi [ req-2clbx-7zyp9-0v4wr-9jx42-1fdm7 ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 693 time: 0.7705771
+L99~gs.api.log.22_Sep 14, 2019_19:15:00 43249 INFO gs.resource.resource_tracker [ req-rb23-1k8xh-05jdm-nv1ui-fipw ] [ instance: 9tci3b-vxb0tn-bql5g ] VM limit not defined, defaulting to max
+L100~gs.api.log.37.2019-09-11_14:29:00 96822 INFO gs.openstack.wsgi.server [ req-wud8m-x2rl-mvdb8 ] Removing base or swap file: /var/lib/gs/instances/_base/rhezju-6hb83-7vse1y
+L101~gs.api.log.19.Sep 04, 2019_12:23 84154 INFO gs.api.openapi.compute.wsgi [ req-b7con1-z4rqj7-n80j6 ] Active base files: /var/lib/gs/instances/_base/b7con1-z4rqj7-n80j6
+L102~gs.compute.log.15_2019-09-03_17:26:00 56146 INFO gs.api.openstack.compute.wsgi [ req-8zl7-072ft-v47k-o20nek-fb9lk ] Creating event network-vif-plugged: for instance
+L103~gs.api.log.92_2019-09-05_14:13:00 8320 INFO gs.resource.resource_tracker [ req-nxlm1-0v4wr-ydjr7v ] [ instance: hjnbup-pt2zo-n8jsx-nji3-4d8fin ] VM limit not defined, defaulting to max
+L104~gs.compute.log.98.10-09-2019_02:22 7897 INFO gs.resource.claims [ req-9tci3b-vxb0tn-bql5g ] "GET /v2/2019-09-07 vendor_data.json HTTP/1.1" status: 404 len: 9307 time: 0.6226623
+L105~gs.api.log.79_2019-09-08_21:59:00 84291 INFO gs.resource.claims [ req-rhezju-7vse1y-9jx42-jk6v1l ] [ instance: ovjcx-l89bg-guc3 ] vcpu limit not specified, default to unlimited
+L106~gs.compute.log.57_2019-09-06_22:31:00 11312 INFO gs.openapi.wsgi.server [ req-bql5g-1wpskj-er9xy-lf8pr1 ] Creating event network-vif-plugged: for instance
+L107~gs.api.log.28.11-09-2019_03:46 PM 55126 INFO gs.resource.claims [ req-a9oemu-1pje6m-4v2d-6do12x ] Removing base or swap file: /var/lib/gs/instances/_base/2x0buc-x2sl-2u03
+L108~gs.api.log.96_2019-09-04_11:17:00 94589 INFO gs.openstack.wsgi.server [ req-kz6vg-ax5skc-5zws-5u3f-a7s4 ] [ instance: tfzd-xtqs-9abg-y9a5i ] vcpu limit not specified, default to unlimited
+L109~gs.api.log.95_2019-09-07_03:41:00 57729 INFO gs.resource.manager [ req-7phq-x2sl-xtqs ] [ instance: 6hb83-mn76-i6qn3-cgksh2-1ygsj ] Total memory limit not specified, defaulting to unlimited
+L110~gs.api.log.12_11-09-2019_02:36 69979 INFO gs.openstack.wsgi.server [ req-h9pg-9jx42-2aque-5zery-moywpf ] HTTP exception thrown: No entry found for any event
+L111~gs.compute.log.76_2019-09-13_20:57:00 53446 INFO gs.compute.manager [ req-bztu59-a7s4-sxer ] Creating event network-vif-plugged: for instance
+L112~gs.compute.log.24.Sep 08, 2019_18:16 3016 INFO gs.resource.claims [ req-sxer-1pje6m-jk6v1l ] "GET /v2/2019-09-15 user_data.json HTTP/1.1" status: 404 len: 4989 time: 0.8289829
+L113~gs.api.log.27_Sep 04, 2019_04:18:00 16915 INFO gs.openapi.server [ req-jlb62-q2b5x-92h5-hvtw-jd74zt ] [ instance: a0um-ugkq-6x7z5 ] Total memory limit not specified, defaulting to unlimited
+L114~gs.api.compute.log.26.Sep 10, 2019_06:18 PM 5910 INFO gs.openstack.server [ req-vleiy-st19-07b8k3-h4bjn-r60qt4 ] [ instance: 12hy-du3mf-wbsqd-m826 ] VM Paused (Lifecycle Event)
+L115~gs.compute.log.42.02-09-2019_14:31:00 43892 INFO gs.compute.manager [ req-kd5eu-7aqk-i4mf-xms9j ] [ instance: 2pz8-ansf0b-1khtw-za7m ] Took 5691 seconds to destroy the instance on the hypervisor
+L116~gs.api.log.18.Sep 10, 2019_09:32 88598 INFO gs.openstack.wsgi.server [ req-2i1w-mn76-hliy2 ] Active base files: /var/lib/gs/instances/_base/2i1w-mn76-hliy2
+L117~gs.compute.log.84_2019-09-15_20:00:00 88624 INFO gs.api.openapi.compute.wsgi [ req-6od5mc-e6ba-xd16 ] Creating event network-vif-plugged: for instance
+L118~gs.api.log.44.2019-09-05_11:10 PM 82992 INFO gs.resource.resource_tracker [ req-9bc6-d5fmv-guc3-a9ix ] [ instance: qvrlz-kqijyd-easb2-l89bg-460fp ] Instance spawned correctly
+L119~gs.api.log.43.09-09-2019_18:38 33434 INFO gs.openapi.wsgi.server [ req-2ox7h9-b5cn-3npi-v7klnb-vla0s ] Unknown base file: /var/lib/gs/instances/_base/0x7vr-vxb0tn-rsjok9-cb8v-gm59z
+L120~gs.api.log.21_2019-09-04_23:44:00 61796 INFO gs.openapi.server [ req-xtqs-dwqbe1-8t9m ] [ instance: rpa9o-92h5-gd4ks ] Total disk upper-limit not defined, defaulting to unlimited
+L121~gs.api.log.43.2019-09-09_01:01 71668 INFO gs.compute.resource_tracker [ req-7kwbx-bql5g-dr2nm ] Base or swap file too young to remove: /var/lib/gs/instances/_base/ywof1-rbdla-2aque-8t26-95ewzi
+L122~gs.compute.log.43_2019-09-05_05:46:00 26377 INFO gs.api.openapi.compute.wsgi [ req-owm2d7-1fdm7-q7rzio-gqds ] Creating event network-vif-plugged: for instance
+L123~gs.compute.log.75.14-09-2019_07:13 PM 61669 INFO gs.openapi.server [ req-0v4wr-kd1q-8sa2 ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 5501 time: 0.5662566
+L124~gs.api.log.13.Sep 01, 2019_03:08 48394 INFO gs.api.openstack.compute.wsgi [ req-gyb4k-4nbsil-1ygsj-nji3 ] Active base files: /var/lib/gs/instances/_base/gyb4k-4nbsil-1ygsj-nji3
+L125~gs.compute.log.92.13-09-2019_09:00 AM 85719 INFO gs.compute.manager [ req-rpa9o-7jmh-6g4iw0-myq6t-x9cjd ] [ instance: k9ewd-9q2us-nhwlbg ] Took 2118 seconds to spawn the instance on the hypervisor
+L126~gs.api.log.15.Sep 01, 2019_00:27 29535 INFO gs.resource.manager [ req-51oy-fw0lc-j602eg-jlb62-rpa9o ] Active base files: /var/lib/gs/instances/_base/51oy-fw0lc-j602eg-jlb62-rpa9o
+L127~gs.api.compute.log.59.12-09-2019_04:09 PM 94887 INFO gs.resource.resource_tracker [ req-rsjok9-7kwbx-qi4yxm ] [ instance: hxfm7-cmhkf9-h0kd ] VM Stopped (Lifecycle Event)
+L128~gs.api.log.76.10-09-2019_00:51:00 60316 INFO gs.resource.resource_tracker [ req-n80j6-er9xy-e6ba-l89bg-8sa2 ] Removing base or swap file: /var/lib/gs/instances/_base/u5qri-ovjcx-hxfm7-z210-l8ejk
+L129~gs.api.log.38.06-09-2019_17:05 10554 INFO gs.openapi.wsgi.server [ req-ndrl-vxb0tn-8cqjwp-wxf6 ] Removable base files: /var/lib/gs/instances/_base/nbd8-mvdb8-6nub-5bkrt
+L130~gs.api.log.10_Sep 02, 2019_13:33:00 49036 INFO gs.openstack.wsgi.server [ req-nhwlbg-hg2m1-8t9m-37c9b-7gtvf9 ] "POST /v2/o8j1hbdrceln23q9/servers/details HTTP/1.1" status: 200 len: 6975 time: 0.3230323
+L131~gs.api.log.81.15-09-2019_10:59 55318 INFO gs.resource.claims [ req-ydp4fa-i6qn3-kd1q ] Deleting instance files /var/lib/gs/instances/ydp4fa-i6qn3-kd1q
+L132~gs.compute.log.58.10-09-2019_01:10 76076 INFO gs.compute.manager [ req-qmk5g9-7nxq-6od5mc ] Total usable vcpus: 58, total allocated vcpus: 9
+L133~gs.compute.log.74_2019-09-09_05:21:00 62096 INFO gs.openapi.wsgi.server [ req-9y6vnd-hfujap-5v7pe0-ylvs ] Creating event network-vif-plugged: for instance
+L134~gs.api.log.72.02-09-2019_17:08 74721 INFO gs.api.openstack.compute.wsgi [ req-0x7vr-53ijn-b3yovi ] Removable base files: /var/lib/gs/instances/_base/1eq4-x9cjd-yp0io-6g9t
+L135~gs.api.log.11.2019-09-11_01:58 PM 82463 INFO gs.openstack.wsgi.server [ req-072ft-n80j6-3q0vo-258dx ] [ instance: nxlm1-epdv4-i6qn3 ] swap instance creation successfully
+L136~gs.compute.log.93.05-09-2019_10:35 AM 25101 INFO gs.api.openstack.compute.wsgi [ req-3fmy-zwa26p-uh29c-q2kdp-z210 ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 3727 time: 0.1834183
+L137~gs.api.log.14.12-09-2019_13:06 10158 INFO gs.openapi.server [ req-dw0s-tnxuz-hg2m1 ] Removable base files: /var/lib/gs/instances/_base/lem3a-rhezju-igbe5-ioxmw
+L138~gs.api.log.35.03-09-2019_12:41 85934 INFO gs.resource.manager [ req-ovjcx-krg2v9-p5tb-6fcpz3-82nm9w ] Deleting instance files /var/lib/gs/instances/ovjcx-krg2v9-p5tb-6fcpz3-82nm9w
+L139~gs.compute.log.22.2019-09-07_07:20 AM 71280 INFO gs.resource.resource_tracker [ req-37c9b-n7w9u-e9f1-xkf8-q2b5x ] [ instance: ecovnl-y9mjwk-mzou-d9uwo ] Took 4102 seconds to spawn the instance on the hypervisor
+L140~gs.compute.log.68.2019-09-11_07:09 PM 54331 INFO gs.openstack.server [ req-7kwbx-bql5g-dr2nm ] [ instance: l89bg-f1zgu-sqwbf0-r60qt4-yafw5 ] Took 8594 seconds to destroy the instance on the hypervisor
+L141~gs.api.log.66_09-09-2019_17:11 27835 INFO gs.openapi.server [ req-vleiy-b5cn-l0ieb ] HTTP exception thrown: No instances found for any event
+L142~gs.api.log.12_07-09-2019_03:17 63420 INFO gs.compute.resource_tracker [ req-dr2nm-a7s4-92zvgh ] HTTP exception thrown: No instances found for any event
+L143~gs.api.log.55.10-09-2019_00:24 16598 INFO gs.compute.manager [ req-glde-4dsm6h-8913pu-6fcpz3-i6qn3 ] Removable base files: /var/lib/gs/instances/_base/1pje6m-8cqjwp-op4ryu-1eq4
+L144~gs.api.log.65.2019-09-13_03:00 PM 39715 INFO gs.resource.claims [ req-mvdb8-fipw-n3zb-j602eg-57sy1o ] Removing base or swap file: /var/lib/gs/instances/_base/ib4t3-enwlc-vbk5lj-hwy80
+L145~gs.compute.log.69.Sep 07, 2019_14:17 13524 INFO gs.resource.manager [ req-ecovnl-cnklvu-h9pg-ntaj-ioxmw ] "GET /v2/2019-09-04 meta_data.json HTTP/1.1" status: 404 len: 1248 time: 0.6956696
+L146~gs.api.log.47_2019-09-11_10:27:00 2534 INFO gs.compute.resource_tracker [ req-t8i3f-4dsm6h-0n37 ] [ instance: 8v3qyr-7jmh-0zrw5-2x0buc-ufwp ] vcpu limit not specified, default to unlimited
+L147~gs.api.log.86_2019-09-10_01:06:00 32459 INFO gs.compute.manager [ req-x2rl-7vse1y-lxad0 ] [ instance: n6g4-1yaqrz-cgksh2-zrbjc8-tn296 ] Total disk upper-limit not defined, defaulting to unlimited
+L148~gs.api.log.70_05-09-2019_04:16 20161 INFO gs.compute.resource_tracker [ req-l8ejk-wrcp-cnrhos ] HTTP exception thrown: No entry found for any event
+L149~gs.compute.log.56.2019-09-09_21:58:00 70948 INFO gs.resource.claims [ req-sqwbf0-fns8p-guc3-x52i0-m826 ] [ instance: jfinu-6hb83-wc27vl-7dxu2 ] Took 3527 seconds to destroy the instance on the hypervisor
+L150~gs.api.log.33_2019-09-02_19:54:00 53096 INFO gs.api.openstack.compute.wsgi [ req-g0zcrh-n698w-zrbjc8-iz71-6od5mc ] [ instance: why1-owm2d7-kzunes-jfinu ] Total disk upper-limit not defined, defaulting to unlimited
+L151~gs.compute.log.16.Sep 15, 2019_13:37 15746 INFO gs.resource.resource_tracker [ req-y8zx-hjnbup-nji3-p2860-ntau ] "GET /v2/2019-09-13 vendor_data.json HTTP/1.1" status: 201 len: 2099 time: 0.0175018
+L152~gs.api.log.62_02-09-2019_10:06 5586 INFO gs.api.openapi.compute.wsgi [ req-s5mc2-lco1-j1yt ] HTTP exception thrown: No instances found for any event
+L153~gs.compute.log.76.2019-09-13_11:10 PM 70097 INFO gs.resource.manager [ req-2clbx-yuikx0-wrcp-ubec-9jx42 ] [ instance: l8i6v-63u9fq-ydjr7v ] Takes 339 seconds to build the instance
+L154~gs.compute.log.44_2019-09-10_06:12:00 97312 INFO gs.api.openapi.compute.wsgi [ req-vz2nx-5eva8-78jxq ] Creating event network-vif-plugged: for instance
+L155~gs.api.log.41.2019-09-04_06:10 PM 73452 INFO gs.openstack.wsgi.server [ req-snx5kr-4fsdei-vwctu-lf8pr1-1gbn ] [ instance: jd74zt-43bt7y-m23xr-kd5eu ] Instance spawned correctly
+L156~gs.api.log.33_Sep 06, 2019_17:23:00 8581 INFO gs.compute.resource_tracker [ req-ywof1-snx5kr-1d4h3-bql5g-d7bus ] [ instance: myq6t-il7e-j1yt-jlb62-bdsu2p ] vcpu limit not specified, default to unlimited
+L157~gs.compute.log.11_2019-09-05_11:27:00 70610 INFO gs.openapi.wsgi.server [ req-7jmh-5l1ne-nji3 ] Creating event network-vif-plugged: for instance
+L158~gs.compute.log.79_2019-09-01_21:06:00 30553 INFO gs.openstack.wsgi.server [ req-8qoj-ynj5-e6ba ] Creating event network-vif-plugged: for instance
+L159~gs.api.log.16_04-09-2019_04:35 61796 INFO gs.compute.resource_tracker [ req-u5qri-ovjcx-hxfm7-z210-l8ejk ] HTTP exception thrown: No instances found for any event
+L160~gs.compute.log.68.04-09-2019_09:14 57423 INFO gs.resource.manager [ req-0e1x4b-07c3-vhgtcd ] Total usable memory: 68GB, total allocated memory: 4GB
+L161~gs.api.log.90_Sep 08, 2019_18:13:00 44127 INFO gs.openstack.wsgi.server [ req-y9a5i-l89bg-u50a ] "DELETE /v2/gsveiutf9bm7zw1564r0chpd/servers/details HTTP/1.1" status: 200 len: 9951 time: 0.8937894
+L162~gs.compute.log.51.02-09-2019_03:38:00 12113 INFO gs.resource.manager [ req-b7con1-z4rqj7-n80j6 ] [ instance: 8dkjs1-tdsx-gyb4k-v7y98 ] Takes 7811 seconds to build the instance
+L163~gs.compute.log.90.11-09-2019_05:20 33793 INFO gs.openstack.wsgi.server [ req-rsjok9-l0ieb-659m7-8ohnb ] "GET /v2/2019-09-01 user_data.json HTTP/1.1" status: 404 len: 3131 time: 0.1062106
+L164~gs.api.log.79.2019-09-03_07:06 AM 27835 INFO gs.openapi.wsgi.server [ req-uxnq-sqwbf0-o9uw ] [ instance: 8qoj-gbdq0k-nhwlbg-vla0s-x3fz ] swap instance creation successfully
+L165~gs.compute.log.67.Sep 13, 2019_15:03 40663 INFO gs.resource.manager [ req-y9a5i-l89bg-u50a ] "GET /v2/2019-09-10 vendor_data.json HTTP/1.1" status: 404 len: 1176 time: 0.8760876
+L166~gs.compute.log.77_2019-09-07_17:33:00 92941 INFO gs.resource.resource_tracker [ req-wbsqd-1m82u-znquk-34nme6-n80j6 ] Creating event network-vif-plugged: for instance
+L167~gs.compute.log.85.15-09-2019_04:35 30526 INFO gs.openapi.wsgi.server [ req-jfinu-5v7pe0-why1-9y6vnd ] "GET /v2/2019-09-09 user_data.json HTTP/1.1" status: 201 len: 3016 time: 0.4452445
+L168~gs.compute.log.42.06-09-2019_17:59 38514 INFO gs.openstack.wsgi.server [ req-mzou-y9mjwk-khe4zp-e7bt8n ] Total usable disk: 42GB, total allocated disk: 11GB
+L169~gs.compute.log.74_2019-09-01_01:52:00 48300 INFO gs.resource.manager [ req-j1yt-0n37-nji3-xkf8 ] Creating event network-vif-plugged: for instance
+L170~gs.api.log.23.Sep 05, 2019_17:25 61796 INFO gs.openstack.wsgi.server [ req-ywof1-rbdla-2aque-8t26-95ewzi ] Active base files: /var/lib/gs/instances/_base/ywof1-rbdla-2aque-8t26-95ewzi
+L171~gs.compute.log.93.02-09-2019_07:46 AM 6329 INFO gs.resource.claims [ req-yafw5-50frl-6ot1r-b0u4v ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 404 len: 2823 time: 0.0155016
+L172~gs.compute.log.27.Sep 02, 2019_15:14 51990 INFO gs.resource.manager [ req-v47k-p2860-1m82u-guc3 ] "GET /v2/2019-09-10 vendor_data.json HTTP/1.1" status: 201 len: 7669 time: 0.5309531
+L173~gs.api.log.59.04-09-2019_23:04 52377 INFO gs.api.openstack.compute.wsgi [ req-j1yt-0n37-nji3-xkf8 ] Unknown base file: /var/lib/gs/instances/_base/jlb62-q2b5x-92h5-hvtw-jd74zt
+L174~gs.compute.log.94.09-09-2019_09:10 AM 99383 INFO gs.resource.claims [ req-pkgfom-nhwlbg-78jxq-p2860 ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 404 len: 4657 time: 0.6960696
+L175~gs.api.compute.log.63.Sep 02, 2019_09:00 AM 81668 INFO gs.compute.resource_tracker [ req-6czg50-cz92j4-op4ryu-njros0-qi4yxm ] [ instance: a9oemu-1pje6m-4v2d-6do12x ] VM Paused (Lifecycle Event)
+L176~gs.compute.log.95.15-09-2019_13:08 70097 INFO gs.api.openstack.compute.wsgi [ req-6czg50-znf6p1-cb4ngr-j6zsi-4m7wa ] Total usable disk: 95GB, total allocated disk: 5GB
+L177~gs.compute.log.40.15-09-2019_01:47:00 32755 INFO gs.api.openstack.compute.wsgi [ req-rvkx-sxer-sgnvfi-l8i6v ] [ instance: be2u-50frl-kixja-d5fmv ] Took 3129 seconds to spawn the instance on the hypervisor
+L178~gs.api.log.33.Sep 03, 2019_20:53 57747 INFO gs.api.openstack.compute.wsgi [ req-4fsdei-ydjr7v-h4bjn ] Active base files: /var/lib/gs/instances/_base/4fsdei-ydjr7v-h4bjn
+L179~gs.compute.log.71.14-09-2019_11:19 16449 INFO gs.openstack.wsgi.server [ req-z7ugl6-du3mf-7blvs-2m85w ] "GET /v2/2019-09-02 user_data.json HTTP/1.1" status: 404 len: 148 time: 0.1061106
+L180~gs.compute.log.27.02-09-2019_11:08 39323 INFO gs.openstack.server [ req-37c9b-hxfm7-43bt7y-p5tb-ovjcx ] Total usable vgpus: 27, total allocated vgpus: 10
+L181~gs.compute.log.28.Sep 01, 2019_18:57 54331 INFO gs.api.openstack.compute.wsgi [ req-0x7vr-vxb0tn-rsjok9-cb8v-gm59z ] "GET /v2/2019-09-13 user_data.json HTTP/1.1" status: 404 len: 5217 time: 0.7738774
+L182~gs.api.log.29.04-09-2019_07:15 43868 INFO gs.openstack.server [ req-4agu-07c3-1s9h6-nv8jct-y4lgs ] Unknown base file: /var/lib/gs/instances/_base/ndrl-53ijn-h9pg
+L183~gs.compute.log.81.2019-09-13_18:50:00 8131 INFO gs.api.openstack.compute.wsgi [ req-3fmy-zwa26p-uh29c-q2kdp-z210 ] [ instance: 5v7pe0-az74cj-ynj5 ] Takes 9951 seconds to deallocate network for instance
+L184~gs.compute.log.38.2019-09-14_01:29:00 49036 INFO gs.resource.claims [ req-vleiy-l8ejk-kz6vg ] [ instance: y8zx-gyb4k-znquk ] Took 3357 seconds to destroy the instance on the hypervisor
+L185~gs.compute.log.38.14-09-2019_02:27 PM 37236 INFO gs.openapi.server [ req-wrcp-il7e-a0um-l8i6v-hfujap ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 3435 time: 0.8358836
+L186~gs.compute.log.45.2019-09-06_01:47:00 80201 INFO gs.openapi.wsgi.server [ req-kqijyd-1eq4-jd74zt-seht ] [ instance: vla0s-n80j6-072ft-be2u-hx5on ] Takes 7058 seconds to deallocate network for instance
+L187~gs.api.log.38.09-09-2019_08:35 37201 INFO gs.api.openapi.compute.wsgi [ req-4d8fin-cmhkf9-9y6vnd-hjnbup-enwlc ] Active base files: /var/lib/gs/instances/_base/4d8fin-cmhkf9-9y6vnd-hjnbup-enwlc
+L188~gs.compute.log.84.2019-09-12_12:01 PM 73812 INFO gs.openstack.wsgi.server [ req-2aque-tn296-yafw5-b5cn-43bt7y ] [ instance: kh485z-54er-guc3-joh69-3q0vo ] Took 8394 seconds to spawn the instance on the hypervisor
+L189~gs.compute.log.30.13-09-2019_14:40 56850 INFO gs.resource.manager [ req-vla0s-n80j6-072ft-be2u-hx5on ] Total usable vgpus: 30, total allocated vgpus: 11
+L190~gs.api.log.94.2019-09-07_04:23 PM 7897 INFO gs.openstack.server [ req-sxer-xmgj-p5tb ] [ instance: a5ug0-lh94qw-o20nek-uxnq ] Instance spawned correctly
+L191~gs.api.log.42_2019-09-01_14:29:00 57589 INFO gs.resource.manager [ req-5dfynt-ezvs7-ugkq-uol7ef-rpa9o ] [ instance: 86olmf-8vpj-4cz1n-h0kd-4t85u ] Total disk upper-limit not defined, defaulting to unlimited
+L192~gs.compute.log.34_2019-09-12_16:22:00 40594 INFO gs.openapi.wsgi.server [ req-n6g4-be2u-0n37-pt2zo-er9xy ] Creating event network-vif-plugged: for instance
+L193~gs.compute.log.46_2019-09-15_23:08:00 87076 INFO gs.compute.resource_tracker [ req-fns8p-kzunes-8t26-6hb83-9ifn ] Creating event network-vif-plugged: for instance
+L194~gs.compute.log.34.06-09-2019_10:37 AM 45057 INFO gs.openstack.server [ req-rvabzf-y8zx-ed9k-3fmy ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 175 time: 0.9470947
+L195~gs.api.log.52.Sep 12, 2019_11:11:00 35640 INFO gs.api.openstack.compute.wsgi [ req-kixja-37c9b-1yaqrz ] Base or swap file too young to remove: /var/lib/gs/instances/_base/dr2nm-a7s4-92zvgh
+L196~gs.api.log.65_Sep 11, 2019_20:54:00 6934 INFO gs.compute.resource_tracker [ req-nxlm1-1yaqrz-rsjok9 ] "DELETE /v2/4fd09mv51npukwacl362z8b7tjhqeixo/servers/details HTTP/1.1" status: 200 len: 9038 time: 0.1869187
+L197~gs.compute.log.57.01-09-2019_05:06 20411 INFO gs.api.openstack.compute.wsgi [ req-jfinu-6hb83-wc27vl-7dxu2 ] "GET /v2/2019-09-07 meta_data.json HTTP/1.1" status: 404 len: 4906 time: 0.8906891
+L198~gs.api.log.94.02-09-2019_21:18:00 6216 INFO gs.resource.manager [ req-8ohnb-sn08-c5n1vy ] Removing base or swap file: /var/lib/gs/instances/_base/uol7ef-4uz8-0zrw5
+L199~gs.api.log.84_14-09-2019_03:55 22598 INFO gs.openstack.server [ req-e8uxd-ax5skc-251u-sn08-6purm ] HTTP exception thrown: No entry found for any event
+L200~gs.api.log.22_Sep 03, 2019_08:20:00 2163 INFO gs.compute.manager [ req-0v4wr-37c9b-2pz8 ] [ instance: 4agu-07c3-1s9h6-nv8jct-y4lgs ] vcpu limit not specified, default to unlimited
+L201~gs.api.log.55_2019-09-04_21:13:00 47456 INFO gs.resource.manager [ req-659m7-pt2zo-eqb6yn ] [ instance: n1wxm-mhyqjk-7blvs-78jxq-072ft ] vcpu limit not specified, default to unlimited
+L202~gs.api.log.89_Sep 11, 2019_11:46:00 55525 INFO gs.openstack.server [ req-s5mc2-lco1-j1yt ] [ instance: 2pz8-ansf0b-1khtw-za7m ] VM limit not defined, defaulting to max
+L203~gs.api.log.31.2019-09-15_12:37 PM 22981 INFO gs.api.openapi.compute.wsgi [ req-v3fcs-bid2-en3g ] [ instance: 28du-8913pu-gbocui-1shqbf-c3mgjr ] Instance Destroyed Successfully
+L204~gs.compute.log.49.Sep 03, 2019_20:21 94359 INFO gs.compute.manager [ req-vpog-kw0tiv-ws0mh ] "GET /v2/2019-09-15 user_data.json HTTP/1.1" status: 404 len: 5764 time: 0.2607261
+L205~gs.api.log.22_2019-09-09_13:24:00 88926 INFO gs.openstack.wsgi.server [ req-b85jx-1zaf04-epdv4-unh6-vyrl ] [ instance: nji3-j1yt-zrbjc8-gd4ks-g195y ] VM limit not defined, defaulting to max
+L206~gs.compute.log.86_2019-09-09_03:55:00 97366 INFO gs.openapi.server [ req-v47k-p2860-1m82u-guc3 ] Creating event network-vif-plugged: for instance
+L207~gs.api.log.26.10-09-2019_23:13 47672 INFO gs.openapi.server [ req-1aeb-hkjo-1fdm7 ] Removable base files: /var/lib/gs/instances/_base/nhwlbg-sqwbf0-4dsm6h-voi178
+L208~gs.api.log.19.2019-09-09_12:25 AM 60707 INFO gs.api.openapi.compute.wsgi [ req-9a7mre-0zrw5-mfwd6j ] [ instance: az74cj-igbe5-yn78p ] swap instance creation successfully
+L209~gs.compute.log.62.14-09-2019_08:43 88423 INFO gs.api.openstack.compute.wsgi [ req-vwypum-voi178-2soxl-rma8-vpog ] Total usable memory: 62GB, total allocated memory: 2GB
+L210~gs.compute.log.25.02-09-2019_08:24:00 30526 INFO gs.api.openstack.compute.wsgi [ req-s2ft-p5ek-8cqjwp-8mkw-0fpkx ] [ instance: wzp4ad-a9ix-8cqjwp-f1zgu ] Took 1427 seconds to destroy the instance on the hypervisor
+L211~gs.compute.log.35.Sep 04, 2019_22:07 85577 INFO gs.api.openapi.compute.wsgi [ req-kixja-417l-vbk5lj-jlb62-jk6v1l ] "GET /v2/2019-09-04 vendor_data.json HTTP/1.1" status: 201 len: 2595 time: 0.6629663
+L212~gs.api.compute.log.14.04-09-2019_01:55 PM 44241 INFO gs.openstack.wsgi.server [ req-nhwlbg-hg2m1-8t9m-37c9b-7gtvf9 ] [ instance: ndrl-53ijn-h9pg ] VM Stopped (Lifecycle Event)
+L213~gs.api.log.63_12-09-2019_17:38 80845 INFO gs.api.openstack.compute.wsgi [ req-e8uxd-ax5skc-251u-sn08-6purm ] HTTP exception thrown: No entry found for any event
+L214~gs.compute.log.91_2019-09-04_17:18:00 55107 INFO gs.resource.claims [ req-ywof1-snx5kr-1d4h3-bql5g-d7bus ] Creating event network-vif-plugged: for instance
+L215~gs.api.log.58_2019-09-08_23:08:00 62807 INFO gs.api.openapi.compute.wsgi [ req-c3mgjr-vz2nx-eqb6yn-lx5g-p5ek ] [ instance: 7blvs-1a54-r4wq1s-kw0tiv-mn76 ] VM limit not defined, defaulting to max
+L216~gs.api.log.16.Sep 08, 2019_23:26:00 31403 INFO gs.api.openapi.compute.wsgi [ req-p2860-6od5mc-easb2 ] Removing base or swap file: /var/lib/gs/instances/_base/0v4wr-37c9b-2pz8
+L217~gs.compute.log.32_2019-09-14_03:57:00 82330 INFO gs.api.openstack.compute.wsgi [ req-rytxe8-why1-mzou ] Creating event network-vif-plugged: for instance
+L218~gs.compute.log.35.10-09-2019_09:10 AM 57840 INFO gs.compute.resource_tracker [ req-7zyp9-j4fbq-gzm5sd-28du-sngw ] [ instance: jlb62-q2b5x-92h5-hvtw-jd74zt ] Took 1562 seconds to spawn the instance on the hypervisor
+L219~gs.api.compute.log.55.07-09-2019_09:36 AM 49003 INFO gs.openapi.wsgi.server [ req-wxf6-ezvs7-mqz98h-znquk ] [ instance: nji3-j1yt-zrbjc8-gd4ks-g195y ] VM Resumed (Lifecycle Event)
+L220~gs.api.log.38.08-09-2019_05:20 89845 INFO gs.api.openstack.compute.wsgi [ req-b7con1-z4rqj7-n80j6 ] Active base files: /var/lib/gs/instances/_base/b7con1-z4rqj7-n80j6
+L221~gs.api.log.78_Sep 11, 2019_17:23:00 25158 INFO gs.openapi.server [ req-t8i3f-0h4m-3fmy-kw0tiv ] "GET /v2/wekcaxp5myq3luvdnhj029r6/servers/details HTTP/1.1" status: 202 len: 3917 time: 0.0511051
+L222~gs.api.log.70_Sep 05, 2019_14:24:00 20211 INFO gs.openstack.server [ req-myq6t-il7e-j1yt-jlb62-bdsu2p ] [ instance: o20nek-uol7ef-ydjr7v-b5cn ] Total disk upper-limit not defined, defaulting to unlimited
+L223~gs.api.log.74_Sep 02, 2019_13:22:00 6216 INFO gs.openapi.server [ req-8dkjs1-tdsx-gyb4k-v7y98 ] "POST /v2/xo7t6djhc98ubqi51zrfa0k4/servers/details HTTP/1.1" status: 200 len: 9803 time: 0.7168717
+L224~gs.api.log.41_Sep 01, 2019_00:48:00 20575 INFO gs.openapi.server [ req-j1yt-0n37-nji3-xkf8 ] [ instance: 0e1x4b-07c3-vhgtcd ] VM limit not defined, defaulting to max
+L225~gs.api.log.27.2019-09-08_05:51 AM 43619 INFO gs.openapi.server [ req-wrcp-il7e-a0um-l8i6v-hfujap ] Removing base or swap file: /var/lib/gs/instances/_base/uxnq-qvrlz-4dsm6h-251u
+L226~gs.compute.log.95.Sep 06, 2019_19:58 69979 INFO gs.resource.resource_tracker [ req-kyum-z210-cnklvu-o20nek-yn78p ] "GET /v2/2019-09-11 meta_data.json HTTP/1.1" status: 201 len: 6700 time: 0.8358836
+L227~gs.api.log.21_07-09-2019_18:15 2983 INFO gs.api.openapi.compute.wsgi [ req-7kwbx-bql5g-dr2nm ] HTTP exception thrown: No entry found for any event
+L228~gs.api.log.17.Sep 09, 2019_18:39:00 55373 INFO gs.openstack.wsgi.server [ req-cb8v-q7rzio-l8ejk ] Removing base or swap file: /var/lib/gs/instances/_base/1pje6m-8cqjwp-op4ryu-1eq4
+L229~gs.api.log.93.2019-09-09_11:38 AM 98101 INFO gs.resource.manager [ req-vwypum-voi178-2soxl-rma8-vpog ] Base or swap file too young to remove: /var/lib/gs/instances/_base/n7w9u-wst3yd-6do12x-vhgtcd-zrbjc8
+L230~gs.api.log.99_2019-09-10_10:28:00 31568 INFO gs.openstack.wsgi.server [ req-n7w9u-wst3yd-6do12x-vhgtcd-zrbjc8 ] [ instance: cb8v-vleiy-za7m-7zyp9-t5uyn ] vcpu limit not specified, default to unlimited
+L231~gs.api.compute.log.40.2019-09-14_04:57 AM 94979 INFO gs.api.openstack.compute.wsgi [ req-amlkt-l8ejk-cn6d-l89bg ] [ instance: wud8m-x2rl-mvdb8 ] VM Started (Lifecycle Event)
+L232~gs.compute.log.92_2019-09-11_03:05:00 38514 INFO gs.api.openapi.compute.wsgi [ req-3poj-st19-r1qyx-kw0tiv ] Creating event network-vif-plugged: for instance
+L233~gs.compute.log.32.02-09-2019_07:22 3926 INFO gs.resource.manager [ req-en3g-n7w9u-9y6vnd ] "GET /v2/2019-09-14 user_data.json HTTP/1.1" status: 201 len: 7330 time: 0.3148315
+L234~gs.api.log.18_Sep 09, 2019_00:15:00 55107 INFO gs.openapi.wsgi.server [ req-50frl-jd74zt-w4q2 ] [ instance: a9oemu-1pje6m-4v2d-6do12x ] vcpu limit not specified, default to unlimited
+L235~gs.compute.log.46_2019-09-03_01:30:00 96822 INFO gs.compute.resource_tracker [ req-3v59y-k9ewd-9fqgh-1d4h3-bztu59 ] Creating event network-vif-plugged: for instance
+L236~gs.api.log.35.07-09-2019_11:05 PM 58610 INFO gs.compute.manager [ req-3npi-wrcp-vyrl ] Base or swap file too young to remove: /var/lib/gs/instances/_base/m826-qo8v0u-hwy80
+L237~gs.api.log.87_09-09-2019_12:56 44241 INFO gs.resource.manager [ req-1aeb-fysr-n7w9u-gyb4k-xp7z ] HTTP exception thrown: No instances found for any event
+L238~gs.api.log.26_07-09-2019_00:32 52281 INFO gs.openstack.server [ req-7dxu2-vwypum-wbsqd-uab0iz-659m7 ] HTTP exception thrown: No instances found for any event
+L239~gs.api.log.88.2019-09-15_09:19 PM 60221 INFO gs.resource.resource_tracker [ req-j1yt-0n37-nji3-xkf8 ] [ instance: d7zuw6-1khtw-5ji8 ] Instance spawned correctly
+L240~gs.compute.log.69.03-09-2019_15:57 17162 INFO gs.resource.manager [ req-3fmy-l89bg-yafw5-yp0io ] "GET /v2/2019-09-09 user_data.json HTTP/1.1" status: 201 len: 7962 time: 0.2926293
+L241~gs.api.compute.log.49.2019-09-10_06:24 AM 29396 INFO gs.resource.manager [ req-glde-26ingz-0zrw5-1s9h6 ] [ instance: sngw-5bkrt-3g0j6 ] VM Resumed (Lifecycle Event)
+L242~gs.compute.log.41_2019-09-08_01:57:00 61211 INFO gs.openapi.wsgi.server [ req-x52i0-2clbx-4nbsil ] Creating event network-vif-plugged: for instance
+L243~gs.compute.log.23.Sep 06, 2019_10:45 57247 INFO gs.openapi.server [ req-7nxq-8913pu-rb23-3g0j6-sqwbf0 ] "GET /v2/2019-09-05 meta_data.json HTTP/1.1" status: 404 len: 7888 time: 0.6785679
+L244~gs.api.log.30.Sep 10, 2019_20:59 77456 INFO gs.resource.claims [ req-mvdb8-fipw-n3zb-j602eg-57sy1o ] Removable base files: /var/lib/gs/instances/_base/5dfynt-ezvs7-ugkq-uol7ef-rpa9o
+L245~gs.compute.log.87.10-09-2019_04:15 AM 90849 INFO gs.compute.resource_tracker [ req-b5cn-ufxz-07b8k3-07c3 ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 5165 time: 0.0387039
+L246~gs.api.log.86_Sep 09, 2019_13:49:00 95077 INFO gs.api.openapi.compute.wsgi [ req-tfzd-4uz8-wud8m-mvdb8-1wpskj ] [ instance: 53ijn-fipw-ufwp-4ih9m ] VM limit not defined, defaulting to max
+L247~gs.compute.log.55_2019-09-10_01:57:00 56378 INFO gs.api.openstack.compute.wsgi [ req-hfujap-564sz-a7s4-59rz-o74f ] Creating event network-vif-plugged: for instance
+L248~gs.compute.log.72.15-09-2019_01:49 48237 INFO gs.api.openstack.compute.wsgi [ req-37c9b-n7w9u-e9f1-xkf8-q2b5x ] "GET /v2/2019-09-13 user_data.json HTTP/1.1" status: 404 len: 8483 time: 0.4732473
+L249~gs.api.log.81.04-09-2019_01:10 1071 INFO gs.resource.claims [ req-9y6vnd-0n37-x3fz-a7s4-e1ajgn ] Removable base files: /var/lib/gs/instances/_base/9fqgh-e1ajgn-hliy2-51oy
+L250~gs.api.log.59_Sep 06, 2019_08:28:00 43250 INFO gs.api.openstack.compute.wsgi [ req-57sy1o-nv8jct-bql5g-lx5g-6fcpz3 ] "DELETE /v2/ayc94r308ivszeb1/servers/details HTTP/1.1" status: 404 len: 2785 time: 0.2186219
+L251~gs.api.log.15_Sep 08, 2019_10:28:00 83770 INFO gs.api.openstack.compute.wsgi [ req-rhezju-7vse1y-9jx42-jk6v1l ] "GET /v2/f45vngkmceol63d21sutp80x/servers/details HTTP/1.1" status: 200 len: 8353 time: 0.3761376
+L252~gs.api.compute.log.74.05-09-2019_05:45 PM 51721 INFO gs.openstack.server [ req-7aqk-mn76-ty3lzi ] [ instance: 37c9b-h0m2-h0kd-lf8pr1-ndrl ] VM Stopped (Lifecycle Event)
+L253~gs.api.log.74.Sep 01, 2019_09:32 PM 81454 INFO gs.resource.resource_tracker [ req-4uz8-z7ugl6-9a7mre-ndrl ] Base or swap file too young to remove: /var/lib/gs/instances/_base/07c3-h0kd-ubec-w4q2
+L254~gs.api.log.39_13-09-2019_05:51 73685 INFO gs.api.openstack.compute.wsgi [ req-ydjr7v-c3mgjr-u9qae ] HTTP exception thrown: No instances found for any event
+L255~gs.compute.log.75.08-09-2019_06:13 AM 69915 INFO gs.resource.resource_tracker [ req-krg2v9-er9xy-iz71 ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 5640 time: 0.5533553
+L256~gs.api.log.85.Sep 06, 2019_08:44 19173 INFO gs.openstack.wsgi.server [ req-n6g4-be2u-0n37-pt2zo-er9xy ] Base or swap file too young to remove: /var/lib/gs/instances/_base/kh485z-r60qt4-myq6t-4uz8
+L257~gs.api.log.78.2019-09-03_08:34 PM 52139 INFO gs.openstack.wsgi.server [ req-1ht782-ej4rb-lf8pr1 ] [ instance: kzunes-rvkx-258dx-ntaj-ndrl ] Instance Destroyed Successfully
+L258~gs.compute.log.42.Sep 11, 2019_02:03 24474 INFO gs.openstack.wsgi.server [ req-rhezju-7vse1y-9jx42-jk6v1l ] "GET /v2/2019-09-12 user_data.json HTTP/1.1" status: 201 len: 9514 time: 0.4484448
+L259~gs.api.log.13.09-09-2019_17:39 33325 INFO gs.openapi.server [ req-i6qn3-7aqk-snx5kr-50frl-8v3qyr ] Deleting instance files /var/lib/gs/instances/i6qn3-7aqk-snx5kr-50frl-8v3qyr
+L260~gs.compute.log.60.03-09-2019_01:00 AM 77165 INFO gs.compute.resource_tracker [ req-rsjok9-7kwbx-qi4yxm ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 7126 time: 0.750375
+L261~gs.api.log.58_Sep 14, 2019_21:51:00 9364 INFO gs.resource.claims [ req-hjnbup-9abg-258dx-hfujap ] [ instance: glde-26ingz-0zrw5-1s9h6 ] vcpu limit not specified, default to unlimited
+L262~gs.compute.log.38.10-09-2019_09:24 AM 74431 INFO gs.compute.resource_tracker [ req-sxer-1pje6m-jk6v1l ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 404 len: 7085 time: 0.090209
+L263~gs.api.log.45.12-09-2019_11:07 29396 INFO gs.resource.manager [ req-vwctu-mvdb8-m51l ] Deleting instance files /var/lib/gs/instances/vwctu-mvdb8-m51l
+L264~gs.compute.log.35.04-09-2019_19:01 62161 INFO gs.resource.manager [ req-1pje6m-8cqjwp-op4ryu-1eq4 ]
+L265~gs.api.compute.log.40.10-09-2019_08:44 AM 53446 INFO gs.api.openstack.compute.wsgi [ req-4dsm6h-i805py-h4bjn-5bkrt ] [ instance: yuikx0-q89b-vwctu-zcg4a-6exg9o ] VM Paused (Lifecycle Event)
+L266~gs.compute.log.39.12-09-2019_01:21 PM 1844 INFO gs.compute.manager [ req-jr7s2-c3mgjr-4d8fin-bo2j1i ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 2005 time: 0.6661666
+L267~gs.api.log.72_12-09-2019_02:07 57118 INFO gs.compute.manager [ req-9tci3b-lxad0-wc27vl ] HTTP exception thrown: No instances found for any event
+L268~gs.api.log.66_Sep 03, 2019_00:51:00 78471 INFO gs.openstack.server [ req-x52i0-2clbx-4nbsil ] "DELETE /v2/2kbl3ut9xhdwq1evi65aofjpzrsmycn0/servers/details HTTP/1.1" status: 202 len: 1810 time: 0.8517852
+L269~gs.api.log.18.2019-09-13_04:33 PM 13731 INFO gs.compute.manager [ req-9a7mre-gyb4k-8913pu ] Removing base or swap file: /var/lib/gs/instances/_base/2u03-ndrl-37c9b-cb4ngr-6exg9o
+L270~gs.compute.log.30_2019-09-07_11:09:00 51721 INFO gs.resource.manager [ req-tdsx-rvkx-x52i0 ] Creating event network-vif-plugged: for instance
+L271~gs.compute.log.27.08-09-2019_03:04 AM 77737 INFO gs.openstack.server [ req-ed9k-p2860-zwa26p-ved5la-9top1 ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 1803 time: 0.9953995
+L272~gs.api.log.60.2019-09-05_02:41 AM 22343 INFO gs.resource.resource_tracker [ req-sxer-7phq-gyb4k-x9cjd ] [ instance: glde-4dsm6h-8913pu-6fcpz3-i6qn3 ] Instance Destroyed Successfully
+L273~gs.compute.log.18.14-09-2019_19:32 15507 INFO gs.resource.manager [ req-6purm-u50a-wzp4ad-xdt1u-ufxz ] "GET /v2/2019-09-10 vendor_data.json HTTP/1.1" status: 404 len: 524 time: 0.5450545
+L274~gs.api.log.42.Sep 01, 2019_22:05 59198 INFO gs.openstack.server [ req-az74cj-igbe5-yn78p ] Removable base files: /var/lib/gs/instances/_base/i4k31-vleiy-voa1
+L275~gs.api.compute.log.18.Sep 14, 2019_11:37 AM 68509 INFO gs.compute.resource_tracker [ req-3q0vo-4g1jq-rsjok9 ] [ instance: be2u-50frl-kixja-d5fmv ] VM Started (Lifecycle Event)
+L276~gs.api.log.22.15-09-2019_08:53 97834 INFO gs.openapi.wsgi.server [ req-kd1q-1fdm7-uab0iz ] Unknown base file: /var/lib/gs/instances/_base/7jmh-ugkq-a7s4-6wl35r
+L277~gs.compute.log.52_2019-09-06_13:28:00 55567 INFO gs.api.openapi.compute.wsgi [ req-8dkjs1-tdsx-gyb4k-v7y98 ] Creating event network-vif-plugged: for instance
+L278~gs.compute.log.76_2019-09-02_23:08:00 83155 INFO gs.api.openapi.compute.wsgi [ req-gyb4k-4nbsil-1ygsj-nji3 ] Creating event network-vif-plugged: for instance
+L279~gs.compute.log.48.2019-09-09_12:51 PM 21333 INFO gs.openapi.wsgi.server [ req-nxlm1-0v4wr-ydjr7v ] [ instance: tdskc-rb23-6exg9o ] Took 956 seconds to destroy the instance on the hypervisor
+L280~gs.compute.log.59_2019-09-15_16:06:00 96081 INFO gs.api.openstack.compute.wsgi [ req-ved5la-st19-nac86 ] Creating event network-vif-plugged: for instance
+L281~gs.compute.log.80.10-09-2019_11:05 31129 INFO gs.api.openapi.compute.wsgi [ req-vwypum-voi178-2soxl-rma8-vpog ] Total usable disk: 80GB, total allocated disk: 4GB
+L282~gs.api.log.53.09-09-2019_00:19 82375 INFO gs.openapi.server [ req-n3zb-lcj1d-epdv4-t8i3f ] Deleting instance files /var/lib/gs/instances/n3zb-lcj1d-epdv4-t8i3f
+L283~gs.api.compute.log.44.2019-09-14_03:53 PM 89228 INFO gs.resource.claims [ req-kixja-37c9b-1yaqrz ] [ instance: 9tci3b-vxb0tn-bql5g ] VM Paused (Lifecycle Event)
+L284~gs.compute.log.78_2019-09-05_23:19:00 93308 INFO gs.resource.resource_tracker [ req-k4n8-7vse1y-6arqu-4agu ] Creating event network-vif-plugged: for instance
+L285~gs.compute.log.29.Sep 04, 2019_19:12 33810 INFO gs.api.openapi.compute.wsgi [ req-6purm-u50a-wzp4ad-xdt1u-ufxz ] "GET /v2/2019-09-02 vendor_data.json HTTP/1.1" status: 201 len: 5034 time: 0.9142914
+L286~gs.api.log.48.2019-09-08_04:15 AM 20211 INFO gs.api.openstack.compute.wsgi [ req-guc3-uol7ef-wrcp-64ugji-nji3 ] [ instance: nxlm1-0v4wr-ydjr7v ] Instance Destroyed Successfully
+L287~gs.api.log.12_04-09-2019_05:21 59844 INFO gs.openstack.server [ req-y5tj-ufwp-34nme6-6do12x ] HTTP exception thrown: No entry found for any event
+L288~gs.api.log.83_Sep 07, 2019_12:33:00 78758 INFO gs.openapi.wsgi.server [ req-pkgfom-nhwlbg-78jxq-p2860 ] "GET /v2/ia38srd41ukxlm2e/servers/details HTTP/1.1" status: 404 len: 5355 time: 0.5282528
+L289~gs.api.log.80_Sep 04, 2019_20:13:00 40433 INFO gs.api.openapi.compute.wsgi [ req-n6g4-1yaqrz-cgksh2-zrbjc8-tn296 ] "POST /v2/6tp8uaifeow0xd5y4n37m1jl/servers/details HTTP/1.1" status: 202 len: 7688 time: 0.8827883
+L290~gs.compute.log.43.04-09-2019_22:07 84061 INFO gs.compute.manager [ req-yafw5-x2sl-4cz1n-uy1al5-560z ] Total usable vgpus: 43, total allocated vgpus: 8
+L291~gs.compute.log.39_2019-09-02_13:20:00 7806 INFO gs.openstack.wsgi.server [ req-1eq4-x9cjd-yp0io-6g9t ] Creating event network-vif-plugged: for instance
+L292~gs.compute.log.68_2019-09-15_19:18:00 34434 INFO gs.openstack.server [ req-cb4ngr-cnklvu-5ji8-ktiqb-4nbsil ] Creating event network-vif-plugged: for instance
+L293~gs.api.log.48.Sep 05, 2019_06:01 76888 INFO gs.openapi.server [ req-d7bus-l8i6v-voi178-a7s4 ] Removable base files: /var/lib/gs/instances/_base/z7ugl6-du3mf-7blvs-2m85w
+L294~gs.api.log.69.03-09-2019_04:41 52826 INFO gs.compute.resource_tracker [ req-c3mgjr-vz2nx-eqb6yn-lx5g-p5ek ] Removable base files: /var/lib/gs/instances/_base/dwqbe1-9a7mre-z210-kh485z-2m85w
+L295~gs.api.log.47.13-09-2019_20:10:00 81024 INFO gs.compute.resource_tracker [ req-hjnbup-pt2zo-n8jsx-nji3-4d8fin ] Base or swap file too young to remove: /var/lib/gs/instances/_base/0eyq-ws0mh-rytxe8-du3mf
+L296~gs.compute.log.53.12-09-2019_11:53 54331 INFO gs.api.openstack.compute.wsgi [ req-nxlm1-1yaqrz-rsjok9 ] "GET /v2/2019-09-02 user_data.json HTTP/1.1" status: 404 len: 6858 time: 0.820282
+L297~gs.compute.log.86.2019-09-07_12:40:00 91844 INFO gs.resource.claims [ req-mzou-y9mjwk-khe4zp-e7bt8n ] [ instance: 564sz-j4fbq-lem3a-az74cj ] Took 3964 seconds to destroy the instance on the hypervisor
+L298~gs.compute.log.51.14-09-2019_21:13 86119 INFO gs.api.openstack.compute.wsgi [ req-6nub-ydp4fa-l0ieb-d5fmv ] Total usable vcpus: 51, total allocated vcpus: 2
+L299~gs.api.compute.log.42.2019-09-03_11:52 PM 92552 INFO gs.openapi.server [ req-n6g4-1yaqrz-cgksh2-zrbjc8-tn296 ] [ instance: 2u03-ndrl-37c9b-cb4ngr-6exg9o ] VM Paused (Lifecycle Event)
+L300~gs.api.log.18_05-09-2019_10:01 16449 INFO gs.resource.manager [ req-9a7mre-0zrw5-mfwd6j ] HTTP exception thrown: No instances found for any event
+L301~gs.api.log.98.2019-09-12_06:08 PM 4392 INFO gs.api.openapi.compute.wsgi [ req-hjnbup-ntaj-a7s4-mzou-u9qae ] [ instance: nxlm1-jr7s2-moywpf-c3mgjr ] swap instance creation successfully
+L302~gs.compute.log.99.2019-09-02_13:01:00 74250 INFO gs.resource.claims [ req-z210-n80j6-1ygsj-cmhkf9-s2ft ] [ instance: 0x7vr-53ijn-b3yovi ] Took 2161 seconds to spawn the instance on the hypervisor
+L303~gs.compute.log.33.01-09-2019_09:01 78518 INFO gs.openstack.wsgi.server [ req-7nxq-6do12x-pt2zo ] "GET /v2/2019-09-04 meta_data.json HTTP/1.1" status: 201 len: 2138 time: 0.7630763
+L304~gs.compute.log.28.14-09-2019_12:23 45309 INFO gs.resource.claims [ req-2u03-ndrl-37c9b-cb4ngr-6exg9o ] Total usable memory: 28GB, total allocated memory: 3GB
+L305~gs.api.log.90.03-09-2019_11:05 PM 12240 INFO gs.openstack.server [ req-4t85u-rsjok9-q2b5x-wxf6-2bi3 ] Removing base or swap file: /var/lib/gs/instances/_base/wud8m-x2rl-mvdb8
+L306~gs.api.log.73.2019-09-11_04:43 PM 6056 INFO gs.resource.manager [ req-n80j6-6arqu-c5n1vy ] [ instance: 2pz8-nv1ui-y5tj ] Instance spawned correctly
+L307~gs.api.log.28.01-09-2019_03:21 28152 INFO gs.openapi.wsgi.server [ req-rvkx-sxer-sgnvfi-l8i6v ] Removable base files: /var/lib/gs/instances/_base/6exg9o-9q2us-b3yovi-78jxq
+L308~gs.compute.log.43.Sep 10, 2019_14:41 8320 INFO gs.openapi.wsgi.server [ req-7uy6-g195y-q89b-cn6d-vwctu ] "GET /v2/2019-09-10 meta_data.json HTTP/1.1" status: 201 len: 666 time: 0.2453245
+L309~gs.api.log.95_2019-09-05_22:54:00 75286 INFO gs.openstack.server [ req-i805py-yuikx0-1apj2-9fqgh-hwy80 ] [ instance: 1aeb-fysr-n7w9u-gyb4k-xp7z ] VM limit not defined, defaulting to max
+L310~gs.compute.log.44.06-09-2019_17:39 74749 INFO gs.openstack.wsgi.server [ req-4uz8-ubec-rytxe8-8v3qyr ] "GET /v2/2019-09-07 meta_data.json HTTP/1.1" status: 201 len: 6241 time: 0.3314331
+L311~gs.compute.log.92.2019-09-08_09:03 AM 72939 INFO gs.compute.manager [ req-wst3yd-1a54-l89bg ] [ instance: q2kdp-0x7vr-igbe5 ] Takes 4715 seconds to build the instance
+L312~gs.api.log.55.2019-09-04_04:57 AM 80673 INFO gs.resource.resource_tracker [ req-37c9b-yp0io-awy8e3-iz71-5mu3d ] [ instance: y9a5i-l89bg-u50a ] Instance spawned correctly
+L313~gs.compute.log.92.2019-09-08_00:41:00 91615 INFO gs.api.openstack.compute.wsgi [ req-8913pu-2aque-5l1ne ] [ instance: 0v4wr-kd1q-8sa2 ] Takes 4254 seconds to deallocate network for instance
+L314~gs.api.log.75_Sep 09, 2019_18:16:00 37763 INFO gs.compute.resource_tracker [ req-2i1w-ay2ojv-h0m2-95ewzi ] [ instance: ndrl-53ijn-h9pg ] VM limit not defined, defaulting to max
+L315~gs.compute.log.74.2019-09-04_03:41 AM 47901 INFO gs.openapi.wsgi.server [ req-6hb83-mn76-i6qn3-cgksh2-1ygsj ] [ instance: eu14n6-e7bt8n-j6zsi-jlb62 ] Takes 6990 seconds to build the instance
+L316~gs.compute.log.49_2019-09-07_10:57:00 73685 INFO gs.api.openstack.compute.wsgi [ req-zwa26p-ptcl-nv8jct-2g7o1 ] Creating event network-vif-plugged: for instance
+L317~gs.api.log.80_Sep 09, 2019_18:10:00 28843 INFO gs.openstack.server [ req-2clbx-7zyp9-0v4wr-9jx42-1fdm7 ] [ instance: nhwlbg-sqwbf0-4dsm6h-voi178 ] Total disk upper-limit not defined, defaulting to unlimited
+L318~gs.compute.log.89.Sep 12, 2019_11:10 89228 INFO gs.openapi.wsgi.server [ req-9tci3b-7kwbx-rq1a ] "GET /v2/2019-09-13 vendor_data.json HTTP/1.1" status: 404 len: 3127 time: 0.4191419
+L319~gs.compute.log.47_2019-09-11_09:08:00 29925 INFO gs.resource.claims [ req-wrcp-il7e-a0um-l8i6v-hfujap ] Creating event network-vif-plugged: for instance
+L320~gs.compute.log.60.07-09-2019_05:56 PM 75002 INFO gs.openapi.wsgi.server [ req-a5ug0-lh94qw-o20nek-uxnq ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 7156 time: 0.0360036
+L321~gs.api.log.46_Sep 06, 2019_11:10:00 16598 INFO gs.openstack.server [ req-pkgfom-nhwlbg-78jxq-p2860 ] "GET /v2/gc4hsmrvf1bt9q6w/servers/details HTTP/1.1" status: 404 len: 4181 time: 0.5906591
+L322~gs.compute.log.76.04-09-2019_12:15:00 74431 INFO gs.compute.resource_tracker [ req-cm93ef-voi178-m23xr-cn6d-kixja ] [ instance: awy8e3-v47k-z210-0n37 ] Takes 167 seconds to build the instance
+L323~gs.compute.log.63.08-09-2019_13:04 80993 INFO gs.openstack.wsgi.server [ req-du3mf-vyrl-rq1a ] "GET /v2/2019-09-01 user_data.json HTTP/1.1" status: 201 len: 547 time: 0.4465447
+L324~gs.api.log.24_2019-09-03_04:18:00 24578 INFO gs.openapi.wsgi.server [ req-5u3f-nac86-2clbx-ed9k ] [ instance: nhwlbg-sqwbf0-4dsm6h-voi178 ] Total disk upper-limit not defined, defaulting to unlimited
+L325~gs.api.log.38_2019-09-06_15:54:00 50485 INFO gs.api.openapi.compute.wsgi [ req-6czg50-9tci3b-4cz1n ] [ instance: 1aeb-hkjo-1fdm7 ] vcpu limit not specified, default to unlimited
+L326~gs.compute.log.22.Sep 13, 2019_03:16 33990 INFO gs.openapi.server [ req-wud8m-ydjr7v-10wn ] "GET /v2/2019-09-02 meta_data.json HTTP/1.1" status: 201 len: 3890 time: 0.5408541
+L327~gs.api.log.35.Sep 13, 2019_01:41 PM 32327 INFO gs.resource.claims [ req-vleiy-rpa9o-moywpf-2pz8-x2rl ] Base or swap file too young to remove: /var/lib/gs/instances/_base/7zyp9-j4fbq-gzm5sd-28du-sngw
+L328~gs.api.compute.log.46.Sep 12, 2019_03:53 PM 40594 INFO gs.resource.manager [ req-2i1w-mn76-hliy2 ] [ instance: t8i3f-4dsm6h-0n37 ] VM Started (Lifecycle Event)
+L329~gs.compute.log.40.06-09-2019_06:30 AM 89560 INFO gs.openstack.server [ req-460fp-1d4h3-rb23-jba2 ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 8178 time: 0.0834083
+L330~gs.api.log.28.10-09-2019_04:42 PM 27206 INFO gs.resource.resource_tracker [ req-95ewzi-nji3-9q2us-q2b5x-7zyp9 ] Base or swap file too young to remove: /var/lib/gs/instances/_base/kyum-z210-cnklvu-o20nek-yn78p
+L331~gs.compute.log.67.03-09-2019_07:57 AM 48102 INFO gs.compute.manager [ req-nhwlbg-hg2m1-8t9m-37c9b-7gtvf9 ] [ instance: 7dxu2-57sy1o-vkcih-az74cj ] Took 6434 seconds to spawn the instance on the hypervisor
+L332~gs.compute.log.78.05-09-2019_02:22 25474 INFO gs.api.openstack.compute.wsgi [ req-7dxu2-4dsm6h-nv8jct-8zl7 ]
+L333~gs.compute.log.68.Sep 06, 2019_23:47 84220 INFO gs.compute.manager [ req-7dxu2-vwypum-wbsqd-uab0iz-659m7 ] "GET /v2/2019-09-13 meta_data.json HTTP/1.1" status: 201 len: 6294 time: 0.1950195
+L334~gs.compute.log.87.07-09-2019_11:04 PM 74431 INFO gs.resource.manager [ req-9y6vnd-hfujap-5v7pe0-ylvs ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 9970 time: 0.7812781
+L335~gs.compute.log.84.2019-09-08_10:31:00 59517 INFO gs.resource.manager [ req-4fsdei-ydjr7v-h4bjn ] [ instance: 659m7-51oy-gyb4k-iejl9-khe4zp ] Takes 4282 seconds to deallocate network for instance
+L336~gs.api.log.43_Sep 09, 2019_18:47:00 38514 INFO gs.compute.resource_tracker [ req-r4wq1s-59rz-7zyp9-pn4q2 ] [ instance: 0v4wr-g0zcrh-owm2d7 ] vcpu limit not specified, default to unlimited
+L337~gs.api.log.91_Sep 15, 2019_09:19:00 15917 INFO gs.compute.resource_tracker [ req-gyb4k-4nbsil-1ygsj-nji3 ] [ instance: 4uz8-rbdla-92zvgh-uab0iz-sgjlu ] Total disk upper-limit not defined, defaulting to unlimited
+L338~gs.api.log.67.2019-09-01_12:55 AM 33299 INFO gs.openstack.server [ req-lem3a-xd16-2bi3-7nxq-rhezju ] [ instance: lem3a-rhezju-igbe5-ioxmw ] swap instance creation successfully
+L339~gs.api.log.81_Sep 09, 2019_14:03:00 63066 INFO gs.compute.manager [ req-hjnbup-ntaj-a7s4-mzou-u9qae ] "DELETE /v2/ikyj7l5qw6bord4fatemx1hz/servers/details HTTP/1.1" status: 202 len: 3634 time: 0.3992399
+L340~gs.api.log.87_2019-09-01_17:41:00 44733 INFO gs.api.openstack.compute.wsgi [ req-1shqbf-v47k-2pz8-c5n1vy-lctxos ] [ instance: r4wq1s-voi178-8zl7-3npi ] vcpu limit not specified, default to unlimited
+L341~gs.api.log.77_04-09-2019_23:51 12611 INFO gs.openstack.server [ req-2aque-tn296-yafw5-b5cn-43bt7y ] HTTP exception thrown: No entry found for any event
+L342~gs.compute.log.64.10-09-2019_11:12 PM 4196 INFO gs.openstack.wsgi.server [ req-8mkw-6nub-ws0mh-jfinu-wst3yd ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 5501 time: 0.730273
+L343~gs.api.log.17.Sep 06, 2019_07:22 87707 INFO gs.openstack.server [ req-xtqs-zwa26p-pkgfom-ntaj ] Deleting instance files /var/lib/gs/instances/xtqs-zwa26p-pkgfom-ntaj
+L344~gs.compute.log.24.06-09-2019_00:51 50056 INFO gs.openapi.server [ req-2bi3-51oy-86olmf-6arqu ] "GET /v2/2019-09-09 vendor_data.json HTTP/1.1" status: 201 len: 4525 time: 0.8050805
+L345~gs.api.log.37.2019-09-12_06:23 AM 39715 INFO gs.openapi.server [ req-x52i0-95ewzi-tnxuz ] Base or swap file too young to remove: /var/lib/gs/instances/_base/vla0s-n80j6-072ft-be2u-hx5on
+L346~gs.compute.log.29.02-09-2019_21:55 98091 INFO gs.openstack.wsgi.server [ req-x2rl-v3fcs-uab0iz-j1yt ]
+L347~gs.api.log.39_Sep 15, 2019_15:18:00 67958 INFO gs.openstack.wsgi.server [ req-b7con1-ansf0b-hgusmt ] "POST /v2/bc4o6gljw7tey5kn/servers/details HTTP/1.1" status: 404 len: 2650 time: 0.3542354
+L348~gs.compute.log.51_2019-09-13_11:11:00 64148 INFO gs.resource.resource_tracker [ req-u9qae-8cqjwp-ywof1 ] Creating event network-vif-plugged: for instance
+L349~gs.compute.log.69_2019-09-15_22:37:00 55373 INFO gs.api.openapi.compute.wsgi [ req-mfwd6j-rsjok9-w4q2-vwctu ] Creating event network-vif-plugged: for instance
+L350~gs.compute.log.91.10-09-2019_21:51 77399 INFO gs.api.openapi.compute.wsgi [ req-ywof1-rbdla-2aque-8t26-95ewzi ] Total usable vcpus: 91, total allocated vcpus: 8
+L351~gs.compute.log.73.01-09-2019_05:03 PM 79424 INFO gs.compute.resource_tracker [ req-q2b5x-59rz-9abg ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 5775 time: 0.7224722
+L352~gs.api.compute.log.98.Sep 02, 2019_01:03 AM 59545 INFO gs.api.openstack.compute.wsgi [ req-yafw5-x2sl-4cz1n-uy1al5-560z ] [ instance: b5cn-ufxz-07b8k3-07c3 ] VM Paused (Lifecycle Event)
+L353~gs.api.log.83.2019-09-04_09:54 PM 7874 INFO gs.resource.claims [ req-vz2nx-rj0zcy-lem3a-hg2m1-j6zsi ] [ instance: 2clbx-7zyp9-0v4wr-9jx42-1fdm7 ] swap instance creation successfully
+L354~gs.api.log.38.Sep 06, 2019_13:12 96307 INFO gs.resource.resource_tracker [ req-4t85u-rsjok9-q2b5x-wxf6-2bi3 ] Active base files: /var/lib/gs/instances/_base/4t85u-rsjok9-q2b5x-wxf6-2bi3
+L355~gs.compute.log.58.05-09-2019_18:17 91844 INFO gs.resource.resource_tracker [ req-k9ewd-9q2us-nhwlbg ] "GET /v2/2019-09-15 user_data.json HTTP/1.1" status: 201 len: 4686 time: 0.1983198
+L356~gs.compute.log.42.Sep 03, 2019_18:20 88926 INFO gs.resource.resource_tracker [ req-kz6vg-ax5skc-5zws-5u3f-a7s4 ] "GET /v2/2019-09-11 vendor_data.json HTTP/1.1" status: 201 len: 5756 time: 0.5807581
+L357~gs.api.compute.log.91.2019-09-03_12:22 PM 48102 INFO gs.api.openapi.compute.wsgi [ req-du3mf-vyrl-rq1a ] [ instance: 8zl7-gkya-8vpj-j602eg ] VM Started (Lifecycle Event)
+L358~gs.compute.log.81_2019-09-03_23:18:00 73838 INFO gs.openstack.server [ req-q2b5x-0h4m-b38n-6arqu-ylvs ] Creating event network-vif-plugged: for instance
+L359~gs.compute.log.86.2019-09-11_10:58:00 70300 INFO gs.compute.resource_tracker [ req-ydp4fa-1ht782-wst3yd-wud8m ] [ instance: cm93ef-voi178-m23xr-cn6d-kixja ] Took 1921 seconds to spawn the instance on the hypervisor
+L360~gs.api.compute.log.51.07-09-2019_02:18 PM 27512 INFO gs.resource.claims [ req-tfzd-4uz8-wud8m-mvdb8-1wpskj ] [ instance: d7bus-cn6d-6g4iw0-1yaqrz ] VM Resumed (Lifecycle Event)
+L361~gs.api.log.60.Sep 11, 2019_14:49 89190 INFO gs.compute.manager [ req-ubec-3poj-mfwd6j ] Unknown base file: /var/lib/gs/instances/_base/e9f1-bdsu2p-bql5g
+L362~gs.compute.log.24.11-09-2019_21:40 49003 INFO gs.openapi.server [ req-ed9k-p2860-zwa26p-ved5la-9top1 ] "GET /v2/2019-09-05 user_data.json HTTP/1.1" status: 201 len: 750 time: 0.0511051
+L363~gs.api.compute.log.69.2019-09-13_06:55 AM 88598 INFO gs.resource.resource_tracker [ req-m826-29jnpm-tnxuz-6od5mc-gqds ] [ instance: 4uz8-rbdla-92zvgh-uab0iz-sgjlu ] VM Started (Lifecycle Event)
+L364~gs.api.log.27.2019-09-14_07:13 PM 59193 INFO gs.resource.manager [ req-y9mjwk-6do12x-5eva8-gqds-64ugji ] [ instance: 6hb83-w2bz-3q0vo-amlkt-why1 ] swap instance creation successfully
+L365~gs.api.log.91_2019-09-13_13:22:00 3746 INFO gs.api.openapi.compute.wsgi [ req-wzp4ad-a9ix-8cqjwp-f1zgu ] [ instance: h9pg-3npi-9jx42-8dkjs1 ] VM limit not defined, defaulting to max
+L366~gs.api.compute.log.57.15-09-2019_04:22 AM 70948 INFO gs.openstack.server [ req-ywof1-snx5kr-1d4h3-bql5g-d7bus ] [ instance: hjnbup-9abg-258dx-hfujap ] VM Paused (Lifecycle Event)
+L367~gs.compute.log.94.02-09-2019_01:58 AM 79076 INFO gs.compute.manager [ req-4t85u-qo8v0u-ubec-v3fcs-myq6t ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 6880 time: 0.6185619
+L368~gs.api.log.79.01-09-2019_20:47 78921 INFO gs.compute.manager [ req-kd1q-1fdm7-uab0iz ] Unknown base file: /var/lib/gs/instances/_base/vpog-kw0tiv-ws0mh
+L369~gs.compute.log.41.10-09-2019_10:24:00 27141 INFO gs.openapi.wsgi.server [ req-4t85u-rsjok9-q2b5x-wxf6-2bi3 ] [ instance: b85jx-1zaf04-epdv4-unh6-vyrl ] Took 7614 seconds to spawn the instance on the hypervisor
+L370~gs.compute.log.60.15-09-2019_04:10 25747 INFO gs.api.openapi.compute.wsgi [ req-rpa9o-92h5-gd4ks ] "GET /v2/2019-09-05 meta_data.json HTTP/1.1" status: 201 len: 1186 time: 0.1253125
+L371~gs.api.log.31.12-09-2019_22:54:00 45953 INFO gs.openapi.server [ req-d9uwo-wud8m-bdsu2p ] Removing base or swap file: /var/lib/gs/instances/_base/hxfm7-cmhkf9-h0kd
+L372~gs.api.log.22.2019-09-05_09:32 PM 74041 INFO gs.api.openstack.compute.wsgi [ req-q2kdp-0x7vr-igbe5 ] [ instance: 07b8k3-9zi0wg-p5tb ] Instance Destroyed Successfully
+L373~gs.api.log.21_09-09-2019_15:57 95023 INFO gs.resource.resource_tracker [ req-z210-cb8v-dr2nm-rpa9o-10wn ] HTTP exception thrown: No entry found for any event
+L374~gs.api.log.78_Sep 07, 2019_15:18:00 30452 INFO gs.api.openstack.compute.wsgi [ req-fns8p-kzunes-8t26-6hb83-9ifn ] [ instance: 0e1x4b-07c3-vhgtcd ] vcpu limit not specified, default to unlimited
+L375~gs.compute.log.83.08-09-2019_11:47 6371 INFO gs.resource.claims [ req-8vpj-vxb0tn-5zery ] Total usable vgpus: 83, total allocated vgpus: 11
+L376~gs.compute.log.44.01-09-2019_02:57 68722 INFO gs.api.openapi.compute.wsgi [ req-8vpj-g0zcrh-pg4e ]
+L377~gs.api.log.99_13-09-2019_14:14 3812 INFO gs.compute.resource_tracker [ req-wxf6-vbk5lj-4v2d ] HTTP exception thrown: No instances found for any event
+L378~gs.api.log.33_Sep 06, 2019_17:45:00 52826 INFO gs.openapi.server [ req-1m82u-1ygsj-ufwp-xgom-voa1 ] [ instance: 2u03-ndrl-37c9b-cb4ngr-6exg9o ] Total memory limit not specified, defaulting to unlimited
+L379~gs.api.log.33.Sep 15, 2019_12:51 PM 4743 INFO gs.resource.manager [ req-rb23-1k8xh-05jdm-nv1ui-fipw ] Removing base or swap file: /var/lib/gs/instances/_base/tfzd-4uz8-wud8m-mvdb8-1wpskj
+L380~gs.api.log.68.01-09-2019_20:03 49827 INFO gs.compute.resource_tracker [ req-r4wq1s-voi178-8zl7-3npi ] Active base files: /var/lib/gs/instances/_base/r4wq1s-voi178-8zl7-3npi
+L381~gs.compute.log.74.12-09-2019_03:55 AM 44532 INFO gs.api.openstack.compute.wsgi [ req-ugkq-seht-tdsx-hliy2-4vtbmc ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 404 len: 6303 time: 0.3416342
+L382~gs.compute.log.65_2019-09-01_18:10:00 16915 INFO gs.openapi.server [ req-h0m2-ptcl-63u9fq ] Creating event network-vif-plugged: for instance
+L383~gs.api.log.96.2019-09-14_12:43 AM 92196 INFO gs.openstack.wsgi.server [ req-rhezju-7vse1y-9jx42-jk6v1l ] [ instance: 3poj-st19-r1qyx-kw0tiv ] swap instance creation successfully
+L384~gs.compute.log.27.2019-09-10_15:45:00 8776 INFO gs.openapi.server [ req-be2u-50frl-kixja-d5fmv ] [ instance: mn76-6ot1r-4d8fin-hfujap ] Takes 5295 seconds to build the instance
+L385~gs.api.log.19.2019-09-14_21:20 75403 INFO gs.api.openstack.compute.wsgi [ req-7nxq-4nbsil-4fsdei-cm93ef-mvdb8 ] Removing base or swap file: /var/lib/gs/instances/_base/7dxu2-1khtw-4t85u
+L386~gs.compute.log.15.2019-09-07_22:21:00 80201 INFO gs.api.openstack.compute.wsgi [ req-86olmf-8vpj-4cz1n-h0kd-4t85u ] [ instance: rvkx-sxer-sgnvfi-l8i6v ] Took 1230 seconds to spawn the instance on the hypervisor
+L387~gs.api.log.62.2019-09-12_07:46 AM 91761 INFO gs.api.openstack.compute.wsgi [ req-oi5g-fysr-ygqh9-kz6vg-kd5eu ] [ instance: 6exg9o-9q2us-b3yovi-78jxq ] swap instance creation successfully
+L388~gs.api.log.74.2019-09-08_12:16 AM 46419 INFO gs.compute.resource_tracker [ req-5bkrt-2x0buc-fb9lk-yuikx0-34nme6 ] [ instance: 7nxq-6do12x-pt2zo ] Instance spawned correctly
+L389~gs.api.log.25.2019-09-04_06:39 PM 69872 INFO gs.compute.manager [ req-7nxq-6do12x-pt2zo ] [ instance: 9a7mre-gyb4k-8913pu ] Instance spawned correctly
+L390~gs.api.log.43.2019-09-12_11:37 AM 13731 INFO gs.resource.resource_tracker [ req-ndrl-53ijn-h9pg ] [ instance: vleiy-l8ejk-kz6vg ] swap instance creation successfully
+L391~gs.api.compute.log.35.2019-09-12_03:09 AM 9364 INFO gs.api.openapi.compute.wsgi [ req-nbd8-mvdb8-6nub-5bkrt ] [ instance: ib4t3-enwlc-vbk5lj-hwy80 ] VM Started (Lifecycle Event)
+L392~gs.api.log.18.2019-09-07_01:45 AM 81764 INFO gs.openstack.server [ req-3npi-wrcp-vyrl ] [ instance: myq6t-il7e-j1yt-jlb62-bdsu2p ] Instance spawned correctly
+L393~gs.api.log.71.10-09-2019_19:13:00 45273 INFO gs.compute.resource_tracker [ req-a32lk-6hb83-ptcl ] Base or swap file too young to remove: /var/lib/gs/instances/_base/6hb83-3oh07-rb23
+L394~gs.compute.log.83.05-09-2019_09:27:00 73812 INFO gs.openapi.wsgi.server [ req-07c3-h0kd-ubec-w4q2 ] [ instance: mn76-6ot1r-4d8fin-hfujap ] Takes 5846 seconds to deallocate network for instance
+L395~gs.api.log.26_Sep 06, 2019_22:02:00 56330 INFO gs.openapi.wsgi.server [ req-n6g4-1yaqrz-cgksh2-zrbjc8-tn296 ] [ instance: 8dkjs1-tdsx-gyb4k-v7y98 ] Total memory limit not specified, defaulting to unlimited
+L396~gs.compute.log.75.2019-09-03_02:21:00 3579 INFO gs.compute.resource_tracker [ req-7dxu2-4dsm6h-nv8jct-8zl7 ] [ instance: 5v7pe0-az74cj-ynj5 ] Takes 3015 seconds to build the instance
+L397~gs.api.log.48.Sep 04, 2019_03:19 43619 INFO gs.api.openapi.compute.wsgi [ req-1apj2-en3g-4yrq2-xkf8-gmw3 ] Deleting instance files /var/lib/gs/instances/1apj2-en3g-4yrq2-xkf8-gmw3
+L398~gs.compute.log.19.2019-09-14_09:12 PM 60316 INFO gs.openstack.server [ req-2pz8-nv1ui-y5tj ] [ instance: az74cj-igbe5-yn78p ] Took 6080 seconds to destroy the instance on the hypervisor
+L399~gs.api.log.37_Sep 05, 2019_04:05:00 28186 INFO gs.openstack.wsgi.server [ req-jd74zt-43bt7y-m23xr-kd5eu ] "POST /v2/zsft2jadwbc7vg16ri3e9uy5/servers/details HTTP/1.1" status: 200 len: 4462 time: 0.9809981
+L400~gs.compute.log.74.14-09-2019_06:38 PM 51674 INFO gs.compute.resource_tracker [ req-x2rl-v3fcs-uab0iz-j1yt ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 2636 time: 0.2110211
+L401~gs.compute.log.93.04-09-2019_12:49 PM 25109 INFO gs.openstack.server [ req-yafw5-50frl-6ot1r-b0u4v ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 5474 time: 0.6921692
+L402~gs.api.log.80.2019-09-11_03:14 PM 7979 INFO gs.api.openstack.compute.wsgi [ req-3poj-1gbn-mvdb8-yafw5-voi178 ] [ instance: 1shqbf-v47k-2pz8-c5n1vy-lctxos ] swap instance creation successfully
+L403~gs.compute.log.30.07-09-2019_07:29 AM 37201 INFO gs.resource.claims [ req-2clbx-yuikx0-wrcp-ubec-9jx42 ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 7471 time: 0.2077208
+L404~gs.api.log.45_04-09-2019_09:34 40702 INFO gs.api.openstack.compute.wsgi [ req-i4k31-vleiy-voa1 ] HTTP exception thrown: No entry found for any event
+L405~gs.compute.log.50.12-09-2019_14:02:00 78899 INFO gs.openstack.server [ req-8sa2-moywpf-glde ] [ instance: jd74zt-43bt7y-m23xr-kd5eu ] Took 1786 seconds to spawn the instance on the hypervisor
+L406~gs.compute.log.85.10-09-2019_06:26 PM 53254 INFO gs.resource.manager [ req-6fcpz3-10wn-3npi-x9cjd-0x7vr ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 4261 time: 0.2916292
+L407~gs.api.log.46_Sep 12, 2019_21:45:00 19615 INFO gs.compute.resource_tracker [ req-9top1-6arqu-wst3yd-w4q2-ws0mh ] "POST /v2/lvieo63s0fhnmt21/servers/details HTTP/1.1" status: 202 len: 4174 time: 0.0289029
+L408~gs.api.log.79_02-09-2019_03:52 59989 INFO gs.openapi.wsgi.server [ req-rsjok9-zrbjc8-kz6vg-1ht782-n698w ] HTTP exception thrown: No entry found for any event
+L409~gs.api.log.45_13-09-2019_16:27 89751 INFO gs.openstack.wsgi.server [ req-vpog-kw0tiv-ws0mh ] HTTP exception thrown: No instances found for any event
+L410~gs.compute.log.32.02-09-2019_21:49 55580 INFO gs.resource.claims [ req-4fsdei-0e1x4b-hg2m1-wrcp-wc27vl ] Total usable vgpus: 32, total allocated vgpus: 14
+L411~gs.compute.log.96.14-09-2019_19:53 42747 INFO gs.api.openapi.compute.wsgi [ req-0eyq-ws0mh-rytxe8-du3mf ] "GET /v2/2019-09-11 user_data.json HTTP/1.1" status: 404 len: 5982 time: 0.3491349
+L412~gs.api.log.20.2019-09-01_13:46 80703 INFO gs.compute.resource_tracker [ req-ecovnl-cnklvu-h9pg-ntaj-ioxmw ] Base or swap file too young to remove: /var/lib/gs/instances/_base/fns8p-vpog-4t85u
+L413~gs.api.log.46.2019-09-15_05:21 PM 6420 INFO gs.openstack.server [ req-x2rl-7vse1y-lxad0 ] [ instance: n7w9u-lp7ie4-6od5mc-8vpj ] Instance spawned correctly
+L414~gs.api.log.34_Sep 03, 2019_18:18:00 21765 INFO gs.openapi.wsgi.server [ req-4uz8-z7ugl6-9a7mre-ndrl ] "DELETE /v2/lvieo63s0fhnmt21/servers/details HTTP/1.1" status: 404 len: 2816 time: 0.1125113
+L415~gs.compute.log.19.2019-09-04_13:01:00 94887 INFO gs.openstack.server [ req-pkgfom-nhwlbg-78jxq-p2860 ] [ instance: guc3-uol7ef-wrcp-64ugji-nji3 ] Takes 2359 seconds to deallocate network for instance
+L416~gs.compute.log.82.09-09-2019_20:21 28186 INFO gs.openapi.wsgi.server [ req-kh485z-9ifn-jlb62-5u3f-xms9j ] Total usable vcpus: 82, total allocated vcpus: 14
+L417~gs.api.log.25_08-09-2019_16:02 3806 INFO gs.openstack.wsgi.server [ req-tdskc-tdsx-8v3qyr ] HTTP exception thrown: No instances found for any event
+L418~gs.compute.log.88.Sep 10, 2019_04:57 7979 INFO gs.resource.manager [ req-rhezju-6hb83-7vse1y ] "GET /v2/2019-09-07 user_data.json HTTP/1.1" status: 201 len: 5797 time: 0.9458946
+L419~gs.api.log.60_Sep 02, 2019_00:50:00 68722 INFO gs.resource.claims [ req-d9uwo-wud8m-bdsu2p ] [ instance: fns8p-kzunes-8t26-6hb83-9ifn ] Total memory limit not specified, defaulting to unlimited
+L420~gs.compute.log.44.01-09-2019_21:13 87105 INFO gs.resource.manager [ req-7zyp9-j4fbq-gzm5sd-28du-sngw ] Total usable disk: 44GB, total allocated disk: 12GB
+L421~gs.api.log.54.Sep 06, 2019_04:33 26647 INFO gs.resource.manager [ req-2soxl-7gtvf9-lem3a ] Deleting instance files /var/lib/gs/instances/2soxl-7gtvf9-lem3a
+L422~gs.api.log.29.12-09-2019_03:52 89190 INFO gs.openstack.server [ req-nv1ui-awy8e3-gmw3 ] Removing base or swap file: /var/lib/gs/instances/_base/az74cj-igbe5-yn78p
+L423~gs.api.log.41.Sep 03, 2019_11:16 80201 INFO gs.resource.resource_tracker [ req-9y6vnd-hfujap-5v7pe0-ylvs ] Unknown base file: /var/lib/gs/instances/_base/4fsdei-ydjr7v-h4bjn
+L424~gs.api.log.72_2019-09-04_18:12:00 26703 INFO gs.api.openapi.compute.wsgi [ req-a0um-ugkq-6x7z5 ] [ instance: vla0s-n80j6-072ft-be2u-hx5on ] Total memory limit not specified, defaulting to unlimited
+L425~gs.api.log.61_Sep 13, 2019_04:58:00 23800 INFO gs.openapi.server [ req-7jmh-ugkq-a7s4-6wl35r ] "DELETE /v2/h2lmdn643arxjfu8/servers/details HTTP/1.1" status: 204 len: 6537 time: 0.1205121
+L426~gs.compute.log.80.04-09-2019_11:09 PM 67615 INFO gs.api.openapi.compute.wsgi [ req-pt2zo-dr2nm-2bi3-ndrl ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 404 len: 9307 time: 0.320032
+L427~gs.compute.log.42.2019-09-02_01:22:00 50838 INFO gs.api.openapi.compute.wsgi [ req-460fp-6arqu-od0p-i4mf ] [ instance: b5cn-ufxz-07b8k3-07c3 ] Took 6990 seconds to spawn the instance on the hypervisor
+L428~gs.api.log.28_05-09-2019_18:21 43541 INFO gs.resource.resource_tracker [ req-9i57s-uol7ef-tdskc-vpog ] HTTP exception thrown: No entry found for any event
+L429~gs.api.log.63.Sep 07, 2019_15:06 43541 INFO gs.openapi.wsgi.server [ req-uxnq-qvrlz-4dsm6h-251u ] Removable base files: /var/lib/gs/instances/_base/ynj5-tn296-az74cj-i805py
+L430~gs.api.log.33_Sep 11, 2019_13:53:00 93156 INFO gs.openstack.server [ req-1zqaf-gux0-jvlt ] "POST /v2/569yk3jbsmpc1ui0n2f8v7xagwl4rqez/servers/details HTTP/1.1" status: 204 len: 1895 time: 0.0161016
+L431~gs.api.log.80_2019-09-06_10:28:00 96043 INFO gs.api.openstack.compute.wsgi [ req-560z-ntaj-2i1w-hliy2-s5mc2 ] [ instance: 4szwa-4cz1n-st19-v7klnb ] VM limit not defined, defaulting to max
+L432~gs.api.log.91.05-09-2019_15:57 44391 INFO gs.openstack.server [ req-n80j6-er9xy-e6ba-l89bg-8sa2 ] Unknown base file: /var/lib/gs/instances/_base/8mkw-6nub-ws0mh-jfinu-wst3yd
+L433~gs.api.compute.log.26.Sep 07, 2019_08:23 PM 76831 INFO gs.openapi.wsgi.server [ req-ydp4fa-i6qn3-kd1q ] [ instance: n7w9u-tn296-gmw3 ] VM Paused (Lifecycle Event)
+L434~gs.api.log.11_2019-09-12_03:57:00 14426 INFO gs.compute.manager [ req-g0zcrh-9a7mre-fns8p ] [ instance: q7rzio-za7m-kz6vg-be2u-nji3 ] VM limit not defined, defaulting to max
+L435~gs.api.log.59_2019-09-10_14:36:00 8581 INFO gs.compute.resource_tracker [ req-1m82u-1ygsj-ufwp-xgom-voa1 ] [ instance: du3mf-vyrl-rq1a ] VM limit not defined, defaulting to max
+L436~gs.api.log.86_08-09-2019_07:57 56930 INFO gs.openapi.server [ req-rsjok9-zrbjc8-kz6vg-1ht782-n698w ] HTTP exception thrown: No entry found for any event
+L437~gs.compute.log.55.15-09-2019_06:33 PM 76973 INFO gs.api.openstack.compute.wsgi [ req-sngw-28du-nbd8-rj0zcy-ba1v ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 8022 time: 0.3992399
+L438~gs.compute.log.44.Sep 14, 2019_15:38 90384 INFO gs.resource.claims [ req-b85jx-o20nek-6purm-iz71-kd1q ] "GET /v2/2019-09-15 meta_data.json HTTP/1.1" status: 201 len: 1229 time: 0.6834683
+L439~gs.compute.log.44.09-09-2019_09:17 27169 INFO gs.resource.manager [ req-kixja-glde-1ygsj-x0rpa-pn4q2 ] Total usable memory: 44GB, total allocated memory: 5GB
+L440~gs.api.log.84.05-09-2019_04:42 39642 INFO gs.openapi.server [ req-0x7vr-vxb0tn-rsjok9-cb8v-gm59z ] Unknown base file: /var/lib/gs/instances/_base/6purm-u50a-wzp4ad-xdt1u-ufxz
+L441~gs.api.log.81.2019-09-05_02:50 AM 52872 INFO gs.compute.resource_tracker [ req-rsjok9-q2b5x-5dfynt-gz31o ] [ instance: kqijyd-1eq4-jd74zt-seht ] Instance Destroyed Successfully
+L442~gs.compute.log.21_2019-09-13_18:59:00 39348 INFO gs.openstack.wsgi.server [ req-07c3-h0kd-ubec-w4q2 ] Creating event network-vif-plugged: for instance
+L443~gs.api.log.88.Sep 07, 2019_04:15 AM 42358 INFO gs.openstack.wsgi.server [ req-hjnbup-pt2zo-n8jsx-nji3-4d8fin ] Base or swap file too young to remove: /var/lib/gs/instances/_base/8sa2-lf8pr1-2soxl-9top1-az74cj
+L444~gs.api.log.67.2019-09-07_01:33 PM 95397 INFO gs.resource.claims [ req-ydjr7v-c3mgjr-u9qae ] [ instance: 57sy1o-nv8jct-bql5g-lx5g-6fcpz3 ] swap instance creation successfully
+L445~gs.api.compute.log.56.2019-09-14_09:49 AM 76429 INFO gs.openstack.wsgi.server [ req-4nbsil-xms9j-fysr ] [ instance: snx5kr-4fsdei-vwctu-lf8pr1-1gbn ] VM Stopped (Lifecycle Event)
+L446~gs.api.compute.log.24.2019-09-12_07:10 PM 30003 INFO gs.resource.manager [ req-4d8fin-cmhkf9-9y6vnd-hjnbup-enwlc ] [ instance: en3g-n7w9u-9y6vnd ] VM Paused (Lifecycle Event)
+L447~gs.compute.log.51.12-09-2019_14:52 86946 INFO gs.resource.manager [ req-kd5eu-7aqk-i4mf-xms9j ] "GET /v2/2019-09-09 user_data.json HTTP/1.1" status: 201 len: 4906 time: 0.069507
+L448~gs.api.log.82.Sep 11, 2019_15:10 30951 INFO gs.resource.claims [ req-jlb62-8vpj-a8eyko-znf6p1 ] Removable base files: /var/lib/gs/instances/_base/cm93ef-voi178-m23xr-cn6d-kixja
+L449~gs.compute.log.87.Sep 09, 2019_11:11 22535 INFO gs.openapi.wsgi.server [ req-e8p6fh-s2ft-ed9k-fb9lk ] "GET /v2/2019-09-15 vendor_data.json HTTP/1.1" status: 201 len: 1810 time: 0.3859386
+L450~gs.api.log.36_13-09-2019_16:54 5534 INFO gs.resource.claims [ req-vz2nx-5eva8-78jxq ] HTTP exception thrown: No instances found for any event
+L451~gs.compute.log.83.03-09-2019_09:59 AM 22167 INFO gs.openstack.wsgi.server [ req-9abg-tfzd-cnrhos ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 3435 time: 0.0233023
+L452~gs.api.log.55_Sep 13, 2019_05:28:00 62818 INFO gs.compute.manager [ req-pkgfom-nhwlbg-78jxq-p2860 ] "GET /v2/cw9tasyijxhvlpu4/servers/details HTTP/1.1" status: 202 len: 5170 time: 0.0580058
+L453~gs.api.log.59_Sep 14, 2019_01:49:00 37353 INFO gs.compute.resource_tracker [ req-ywof1-rbdla-2aque-8t26-95ewzi ] "POST /v2/qrn5ctv98o2fami4e17g3pwj/servers/details HTTP/1.1" status: 404 len: 2396 time: 0.1333133
+L454~gs.compute.log.64.07-09-2019_20:49 24474 INFO gs.openstack.server [ req-n80j6-6arqu-c5n1vy ] "GET /v2/2019-09-10 user_data.json HTTP/1.1" status: 201 len: 7457 time: 0.3820382
+L455~gs.api.log.98_Sep 08, 2019_14:07:00 6247 INFO gs.openstack.wsgi.server [ req-e8p6fh-s2ft-ed9k-fb9lk ] [ instance: 1m82u-1ygsj-ufwp-xgom-voa1 ] vcpu limit not specified, default to unlimited
+L456~gs.compute.log.25.12-09-2019_15:07 78881 INFO gs.openstack.server [ req-pt2zo-dr2nm-2bi3-ndrl ] Total usable memory: 25GB, total allocated memory: 5GB
+L457~gs.compute.log.28.10-09-2019_05:16 5814 INFO gs.resource.resource_tracker [ req-d7zuw6-uh29c-54er ] "GET /v2/2019-09-09 meta_data.json HTTP/1.1" status: 404 len: 8168 time: 0.0918092
+L458~gs.api.log.97.14-09-2019_04:43 PM 89231 INFO gs.openstack.server [ req-d7zuw6-1khtw-5ji8 ] Removing base or swap file: /var/lib/gs/instances/_base/pt2zo-dr2nm-2bi3-ndrl
+L459~gs.compute.log.17.06-09-2019_22:43 91445 INFO gs.resource.manager [ req-kzunes-rvkx-258dx-ntaj-ndrl ] Total usable disk: 17GB, total allocated disk: 14GB
+L460~gs.api.log.17.Sep 04, 2019_18:16 87105 INFO gs.api.openapi.compute.wsgi [ req-y8zx-hjnbup-nji3-p2860-ntau ] Removing base or swap file: /var/lib/gs/instances/_base/4szwa-4cz1n-st19-v7klnb
+L461~gs.api.log.97_Sep 01, 2019_01:12:00 86688 INFO gs.resource.manager [ req-gmw3-8aqge-joh69-zmogv ] [ instance: y9mjwk-n1yj-6wl35r-nhwlbg ] Total disk upper-limit not defined, defaulting to unlimited
+L462~gs.api.log.24_10-09-2019_06:39 8320 INFO gs.resource.claims [ req-3poj-st19-r1qyx-kw0tiv ] HTTP exception thrown: No entry found for any event
+L463~gs.compute.log.81.2019-09-07_02:17:00 60176 INFO gs.compute.resource_tracker [ req-enwlc-ylvs-l0ieb-a5ug0 ] [ instance: d5fmv-12hy-8mkw-n3zb ] Took 3129 seconds to destroy the instance on the hypervisor
+L464~gs.api.log.29.11-09-2019_08:37 AM 51093 INFO gs.api.openstack.compute.wsgi [ req-kz6vg-ax5skc-5zws-5u3f-a7s4 ] Removing base or swap file: /var/lib/gs/instances/_base/e9f1-bdsu2p-bql5g
+L465~gs.compute.log.73.06-09-2019_13:04 46894 INFO gs.openapi.server [ req-hjnbup-ntaj-a7s4-mzou-u9qae ] "GET /v2/2019-09-11 meta_data.json HTTP/1.1" status: 201 len: 9568 time: 0.7890789
+L466~gs.api.compute.log.49.2019-09-12_05:04 PM 10996 INFO gs.compute.manager [ req-bztu59-a7s4-sxer ] [ instance: ufxz-lctxos-ogc53-l89bg ] VM Stopped (Lifecycle Event)
+L467~gs.api.log.63_Sep 13, 2019_02:01:00 55567 INFO gs.api.openapi.compute.wsgi [ req-q7rzio-za7m-kz6vg-be2u-nji3 ] [ instance: vl723r-ansf0b-3fmy ] vcpu limit not specified, default to unlimited
+L468~gs.api.compute.log.73.2019-09-03_06:11 AM 44241 INFO gs.compute.manager [ req-ywof1-snx5kr-1d4h3-bql5g-d7bus ] [ instance: sxer-1pje6m-jk6v1l ] VM Paused (Lifecycle Event)
+L469~gs.compute.log.10_2019-09-13_20:54:00 77399 INFO gs.openstack.wsgi.server [ req-snx5kr-4fsdei-vwctu-lf8pr1-1gbn ] Creating event network-vif-plugged: for instance
+L470~gs.api.compute.log.77.2019-09-07_07:08 AM 1769 INFO gs.compute.resource_tracker [ req-4d8fin-cmhkf9-9y6vnd-hjnbup-enwlc ] [ instance: 6od5mc-jr7s2-cmhkf9-du3mf-5v7pe0 ] VM Resumed (Lifecycle Event)
+L471~gs.api.compute.log.42.2019-09-05_04:17 AM 29845 INFO gs.openstack.server [ req-9tci3b-vxb0tn-bql5g ] [ instance: iz71-4cz1n-3q0vo-lem3a ] VM Stopped (Lifecycle Event)
+L472~gs.compute.log.74.04-09-2019_19:10 84154 INFO gs.compute.manager [ req-h0m2-ptcl-63u9fq ] "GET /v2/2019-09-15 user_data.json HTTP/1.1" status: 201 len: 2390 time: 0.2050205
+L473~gs.compute.log.55.02-09-2019_12:13:00 94619 INFO gs.openstack.server [ req-r60qt4-jr7s2-uol7ef-29jnpm ] [ instance: m826-29jnpm-tnxuz-6od5mc-gqds ] Took 1729 seconds to destroy the instance on the hypervisor
+L474~gs.compute.log.72_2019-09-07_11:17:00 2115 INFO gs.compute.manager [ req-d7bus-cn6d-6g4iw0-1yaqrz ] Creating event network-vif-plugged: for instance
+L475~gs.api.log.61.Sep 15, 2019_07:46:00 7795 INFO gs.openapi.server [ req-0x7vr-53ijn-b3yovi ] Removing base or swap file: /var/lib/gs/instances/_base/vwctu-mvdb8-m51l
+L476~gs.api.log.48.Sep 07, 2019_14:55:00 18018 INFO gs.compute.resource_tracker [ req-2u03-a8eyko-l8i6v ] Base or swap file too young to remove: /var/lib/gs/instances/_base/7dxu2-1khtw-4t85u
+L477~gs.compute.log.13.2019-09-11_03:49:00 30452 INFO gs.api.openstack.compute.wsgi [ req-kixja-glde-1ygsj-x0rpa-pn4q2 ] [ instance: x52i0-2clbx-4nbsil ] Takes 6020 seconds to build the instance
+L478~gs.compute.log.62.01-09-2019_00:36:00 80673 INFO gs.api.openapi.compute.wsgi [ req-86olmf-8vpj-4cz1n-h0kd-4t85u ] [ instance: ovjcx-krg2v9-p5tb-6fcpz3-82nm9w ] Took 9808 seconds to spawn the instance on the hypervisor
+L479~gs.compute.log.88.15-09-2019_15:19 33118 INFO gs.resource.manager [ req-6ot1r-gm59z-gbocui ] Total usable vgpus: 88, total allocated vgpus: 12
+L480~gs.compute.log.19_2019-09-01_08:01:00 54331 INFO gs.api.openstack.compute.wsgi [ req-9bc6-d5fmv-guc3-a9ix ] Creating event network-vif-plugged: for instance
+L481~gs.api.log.91.Sep 01, 2019_05:43 13731 INFO gs.openapi.server [ req-p5tb-zcg4a-gyb4k-iz71 ] Deleting instance files /var/lib/gs/instances/p5tb-zcg4a-gyb4k-iz71
+L482~gs.compute.log.46_2019-09-04_12:10:00 36606 INFO gs.openapi.wsgi.server [ req-8ohnb-1gbn-0eyq-1m82u-jvlt ] Creating event network-vif-plugged: for instance
+L483~gs.api.log.63.2019-09-11_04:15 AM 71668 INFO gs.resource.resource_tracker [ req-wzp4ad-a9ix-8cqjwp-f1zgu ] [ instance: 8ohnb-sn08-c5n1vy ] Instance Destroyed Successfully
+L484~gs.api.log.40.Sep 14, 2019_13:02 12113 INFO gs.openstack.server [ req-ecovnl-cnklvu-h9pg-ntaj-ioxmw ] Base or swap file too young to remove: /var/lib/gs/instances/_base/6czg50-cz92j4-op4ryu-njros0-qi4yxm
+L485~gs.compute.log.21.2019-09-05_00:51:00 64726 INFO gs.resource.claims [ req-7dxu2-4dsm6h-nv8jct-8zl7 ] [ instance: 9y6vnd-hfujap-5v7pe0-ylvs ] Took 7126 seconds to destroy the instance on the hypervisor
+L486~gs.api.compute.log.68.13-09-2019_11:52 PM 20286 INFO gs.compute.manager [ req-8zl7-072ft-v47k-o20nek-fb9lk ] [ instance: mzou-y9mjwk-khe4zp-e7bt8n ] VM Resumed (Lifecycle Event)
+L487~gs.api.log.72.08-09-2019_16:34 5910 INFO gs.openstack.wsgi.server [ req-4uz8-z7ugl6-9a7mre-ndrl ] Active base files: /var/lib/gs/instances/_base/4uz8-z7ugl6-9a7mre-ndrl
+L488~gs.compute.log.54.Sep 15, 2019_20:33 41147 INFO gs.api.openstack.compute.wsgi [ req-cz92j4-ugkq-bztu59 ] "GET /v2/2019-09-09 vendor_data.json HTTP/1.1" status: 201 len: 471 time: 0.2580258
+L489~gs.compute.log.57_2019-09-01_15:54:00 34316 INFO gs.openstack.wsgi.server [ req-y9mjwk-6do12x-5eva8-gqds-64ugji ] Creating event network-vif-plugged: for instance
+L490~gs.api.log.15.2019-09-08_01:30 AM 87816 INFO gs.openapi.wsgi.server [ req-9fqgh-e1ajgn-hliy2-51oy ] [ instance: 8ohnb-sn08-c5n1vy ] swap instance creation successfully
+L491~gs.api.log.27.09-09-2019_05:22 7897 INFO gs.resource.resource_tracker [ req-n6g4-be2u-0n37-pt2zo-er9xy ] Removable base files: /var/lib/gs/instances/_base/n1wxm-mhyqjk-7blvs-78jxq-072ft
+L492~gs.api.compute.log.79.Sep 06, 2019_03:11 PM 5910 INFO gs.resource.claims [ req-xtqs-dwqbe1-8t9m ] [ instance: rvkx-sxer-sgnvfi-l8i6v ] VM Paused (Lifecycle Event)
+L493~gs.compute.log.17.13-09-2019_05:21 AM 57716 INFO gs.compute.manager [ req-q7rzio-za7m-kz6vg-be2u-nji3 ] [ instance: owm2d7-1fdm7-q7rzio-gqds ] Took 1516 seconds to destroy the instance on the hypervisor
+L494~gs.api.log.39.2019-09-03_12:08 PM 33793 INFO gs.compute.resource_tracker [ req-ufxz-lctxos-ogc53-l89bg ] [ instance: 9fqgh-e1ajgn-hliy2-51oy ] Instance Destroyed Successfully
+L495~gs.api.log.65.11-09-2019_16:54 52058 INFO gs.api.openapi.compute.wsgi [ req-krg2v9-er9xy-iz71 ] Deleting instance files /var/lib/gs/instances/krg2v9-er9xy-iz71
+L496~gs.compute.log.90.03-09-2019_09:50 PM 77665 INFO gs.compute.manager [ req-a0um-ugkq-6x7z5 ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 8412 time: 0.3115312
+L497~gs.api.log.27.2019-09-15_04:44 AM 4621 INFO gs.resource.resource_tracker [ req-sqwbf0-fns8p-guc3-x52i0-m826 ] [ instance: 460fp-6arqu-od0p-i4mf ] Instance spawned correctly
+L498~gs.compute.log.33_2019-09-02_15:17:00 38407 INFO gs.resource.manager [ req-hjnbup-ntaj-a7s4-mzou-u9qae ] Creating event network-vif-plugged: for instance
+L499~gs.api.compute.log.78.2019-09-01_03:26 AM 77534 INFO gs.openapi.wsgi.server [ req-6czg50-znf6p1-cb4ngr-j6zsi-4m7wa ] [ instance: n1wxm-mhyqjk-7blvs-78jxq-072ft ] VM Resumed (Lifecycle Event)
+L500~gs.api.log.57.2019-09-08_06:59 PM 3806 INFO gs.openstack.wsgi.server [ req-nv1ui-awy8e3-gmw3 ] [ instance: nxlm1-1yaqrz-rsjok9 ] Instance spawned correctly
+L501~gs.api.log.64_Sep 14, 2019_15:17:00 68819 INFO gs.compute.manager [ req-x2rl-7vse1y-lxad0 ] "POST /v2/o8j1hbdrceln23q9/servers/details HTTP/1.1" status: 204 len: 2396 time: 0.4185419
+L502~gs.api.log.43_09-09-2019_01:17 20620 INFO gs.compute.resource_tracker [ req-7dxu2-57sy1o-vkcih-az74cj ] HTTP exception thrown: No entry found for any event
+L503~gs.api.log.37.2019-09-04_01:00 AM 86409 INFO gs.api.openapi.compute.wsgi [ req-u9qae-8cqjwp-ywof1 ] [ instance: mvdb8-fipw-n3zb-j602eg-57sy1o ] swap instance creation successfully
+L504~gs.api.log.17.Sep 05, 2019_09:49 AM 59672 INFO gs.api.openapi.compute.wsgi [ req-6g9t-ydjr7v-0eyq-f1zgu ] Removing base or swap file: /var/lib/gs/instances/_base/ufxz-lctxos-ogc53-l89bg
+L505~gs.api.compute.log.94.Sep 12, 2019_07:49 AM 88624 INFO gs.openapi.wsgi.server [ req-4szwa-4cz1n-st19-v7klnb ] [ instance: 1yaqrz-7dxu2-9tci3b ] VM Stopped (Lifecycle Event)
+L506~gs.compute.log.96.13-09-2019_16:10 26703 INFO gs.openapi.server [ req-voa1-mhyqjk-op4ryu-b85jx-mzou ] "GET /v2/2019-09-13 vendor_data.json HTTP/1.1" status: 404 len: 4048 time: 0.060206
+L507~gs.api.log.61_Sep 06, 2019_23:42:00 40888 INFO gs.openstack.server [ req-wud8m-ydjr7v-10wn ] "POST /v2/oh1r9pb6meisutnwv8afz2g7/servers/details HTTP/1.1" status: 404 len: 1432 time: 0.4605461
+L508~gs.api.log.40_Sep 14, 2019_15:42:00 84071 INFO gs.openstack.wsgi.server [ req-z210-cb8v-dr2nm-rpa9o-10wn ] "GET /v2/tajobpl91h3wkm4yr0zu5gqx/servers/details HTTP/1.1" status: 202 len: 8621 time: 0.4660466
+L509~gs.api.compute.log.20.11-09-2019_09:00 AM 25112 INFO gs.resource.manager [ req-e9f1-9bc6-9q2us-gbocui-p5ek ] [ instance: 460fp-6arqu-od0p-i4mf ] VM Started (Lifecycle Event)
+L510~gs.compute.log.16.2019-09-01_06:10 PM 1935 INFO gs.resource.claims [ req-n7w9u-lp7ie4-6od5mc-8vpj ] [ instance: 7dxu2-1khtw-4t85u ] Took 314 seconds to spawn the instance on the hypervisor
+L511~gs.compute.log.68_2019-09-15_05:34:00 20286 INFO gs.openstack.wsgi.server [ req-9a7mre-gyb4k-8913pu ] Creating event network-vif-plugged: for instance
+L512~gs.compute.log.74.11-09-2019_06:59 PM 5814 INFO gs.resource.manager [ req-kh485z-9ifn-jlb62-5u3f-xms9j ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 404 len: 3546 time: 0.4211421
+L513~gs.compute.log.75.Sep 07, 2019_15:26 77737 INFO gs.resource.manager [ req-cb8v-q7rzio-l8ejk ] "GET /v2/2019-09-13 user_data.json HTTP/1.1" status: 404 len: 5412 time: 0.8358836
+L514~gs.compute.log.77.13-09-2019_19:58 44208 INFO gs.compute.manager [ req-xms9j-8cqjwp-h0m2-9i57s-mn76 ] Total usable disk: 77GB, total allocated disk: 13GB
+L515~gs.compute.log.69.2019-09-15_11:12:00 8320 INFO gs.resource.claims [ req-a0um-ugkq-6x7z5 ] [ instance: mfwd6j-rsjok9-w4q2-vwctu ] Takes 1375 seconds to deallocate network for instance
+L516~gs.compute.log.26.2019-09-15_09:08:00 55613 INFO gs.compute.resource_tracker [ req-8mkw-6nub-ws0mh-jfinu-wst3yd ] [ instance: y5tj-ufwp-34nme6-6do12x ] Takes 8090 seconds to build the instance
+L517~gs.api.compute.log.27.Sep 10, 2019_08:07 AM 45214 INFO gs.resource.manager [ req-ufxz-lctxos-ogc53-l89bg ] [ instance: r4wq1s-voi178-8zl7-3npi ] VM Resumed (Lifecycle Event)
+L518~gs.api.log.23_2019-09-06_07:42:00 88926 INFO gs.openstack.wsgi.server [ req-pkgfom-nhwlbg-78jxq-p2860 ] [ instance: rsjok9-zrbjc8-kz6vg-1ht782-n698w ] VM limit not defined, defaulting to max
+L519~gs.api.log.42.2019-09-02_10:08 PM 62875 INFO gs.api.openstack.compute.wsgi [ req-jlb62-q2b5x-92h5-hvtw-jd74zt ] Removing base or swap file: /var/lib/gs/instances/_base/v3fcs-1eq4-10wn-vxb0tn
+L520~gs.api.log.55.2019-09-15_01:43 PM 32642 INFO gs.api.openapi.compute.wsgi [ req-j1yt-0n37-nji3-xkf8 ] [ instance: az74cj-28du-6fcpz3-tn296-il7e ] swap instance creation successfully
+L521~gs.api.compute.log.90.Sep 07, 2019_08:31 PM 15508 INFO gs.openapi.wsgi.server [ req-9abg-tfzd-cnrhos ] [ instance: en3g-6do12x-vhgtcd-dw0s-5v7pe0 ] VM Resumed (Lifecycle Event)
+L522~gs.api.log.13.2019-09-11_09:22 AM 47845 INFO gs.resource.resource_tracker [ req-13a09-unh6-0fpkx-hjwo27 ] [ instance: x2rl-7vse1y-lxad0 ] Instance spawned correctly
+L523~gs.api.log.82_Sep 04, 2019_21:12:00 81668 INFO gs.resource.claims [ req-d7zuw6-uh29c-54er ] "DELETE /v2/2hoe874i1t306ls9panqyjur/servers/details HTTP/1.1" status: 404 len: 3066 time: 0.1052105
+L524~gs.api.log.80_2019-09-07_21:06:00 9364 INFO gs.compute.manager [ req-8vpj-vxb0tn-5zery ] [ instance: 2g7o1-9fqgh-50frl ] Total disk upper-limit not defined, defaulting to unlimited
+L525~gs.api.log.46_08-09-2019_09:10 73838 INFO gs.resource.resource_tracker [ req-6od5mc-e6ba-xd16 ] HTTP exception thrown: No entry found for any event
+L526~gs.api.log.76.2019-09-04_23:17 55318 INFO gs.api.openstack.compute.wsgi [ req-2aque-d7zuw6-1yaqrz ] Base or swap file too young to remove: /var/lib/gs/instances/_base/07b8k3-9zi0wg-p5tb
+L527~gs.compute.log.54.04-09-2019_21:25 72903 INFO gs.resource.claims [ req-7jmh-ugkq-a7s4-6wl35r ] Total usable disk: 54GB, total allocated disk: 10GB
+L528~gs.api.log.91_Sep 04, 2019_03:27:00 65185 INFO gs.openstack.wsgi.server [ req-d7bus-l8i6v-voi178-a7s4 ] [ instance: 4t85u-qo8v0u-ubec-v3fcs-myq6t ] Total disk upper-limit not defined, defaulting to unlimited
+L529~gs.api.log.31.Sep 08, 2019_11:19 2115 INFO gs.resource.claims [ req-1aeb-hkjo-1fdm7 ] Base or swap file too young to remove: /var/lib/gs/instances/_base/6czg50-znf6p1-cb4ngr-j6zsi-4m7wa
+L530~gs.api.log.92_Sep 06, 2019_03:17:00 71147 INFO gs.resource.claims [ req-7dxu2-57sy1o-vkcih-az74cj ] "DELETE /v2/9lds62jy71ra4bk5icztqghp/servers/details HTTP/1.1" status: 200 len: 2836 time: 0.4094409
+L531~gs.compute.log.89.04-09-2019_03:05 48991 INFO gs.openapi.server [ req-95ewzi-nji3-9q2us-q2b5x-7zyp9 ] Total usable vgpus: 89, total allocated vgpus: 12
+L532~gs.compute.log.77_2019-09-15_08:39:00 89124 INFO gs.api.openapi.compute.wsgi [ req-lem3a-xd16-2bi3-7nxq-rhezju ] Creating event network-vif-plugged: for instance
+L533~gs.api.log.20_Sep 04, 2019_17:10:00 32920 INFO gs.api.openapi.compute.wsgi [ req-1pje6m-8cqjwp-op4ryu-1eq4 ] "GET /v2/9lds62jy71ra4bk5icztqghp/servers/details HTTP/1.1" status: 202 len: 9718 time: 0.1194119
+L534~gs.api.log.34.2019-09-07_02:37 PM 75286 INFO gs.openapi.wsgi.server [ req-53ijn-fipw-ufwp-4ih9m ] [ instance: r4wq1s-voi178-8zl7-3npi ] Instance spawned correctly
+L535~gs.compute.log.94.2019-09-02_05:40 PM 88598 INFO gs.compute.resource_tracker [ req-r60qt4-jr7s2-uol7ef-29jnpm ] [ instance: xmgj-1zqaf-6g9t ] Takes 4516 seconds to build the instance
+L536~gs.compute.log.92.09-09-2019_01:01 62875 INFO gs.openstack.server [ req-rq1a-vla0s-57sy1o ] Total usable memory: 92GB, total allocated memory: 2GB
+L537~gs.compute.log.91.10-09-2019_07:35 AM 71582 INFO gs.openapi.server [ req-l89bg-f1zgu-sqwbf0-r60qt4-yafw5 ] [ instance: 1pje6m-8cqjwp-op4ryu-1eq4 ] Took 9293 seconds to spawn the instance on the hypervisor
+L538~gs.compute.log.37_2019-09-03_11:21:00 92265 INFO gs.api.openapi.compute.wsgi [ req-jfinu-5v7pe0-why1-9y6vnd ] Creating event network-vif-plugged: for instance
+L539~gs.compute.log.34.10-09-2019_07:07 AM 73252 INFO gs.openstack.wsgi.server [ req-2aque-d7zuw6-1yaqrz ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 404 len: 2805 time: 0.4381438
+L540~gs.api.compute.log.68.03-09-2019_03:15 AM 35600 INFO gs.compute.manager [ req-wzp4ad-mqz98h-lem3a-unh6 ] [ instance: 37c9b-h0m2-h0kd-lf8pr1-ndrl ] VM Stopped (Lifecycle Event)
+L541~gs.compute.log.43.Sep 13, 2019_17:11 58504 INFO gs.resource.manager [ req-hjnbup-pt2zo-n8jsx-nji3-4d8fin ] "GET /v2/2019-09-09 user_data.json HTTP/1.1" status: 404 len: 1953 time: 0.8517852
+L542~gs.compute.log.27.14-09-2019_16:04 2983 INFO gs.compute.resource_tracker [ req-t8i3f-4dsm6h-0n37 ] Total usable vgpus: 27, total allocated vgpus: 8
+L543~gs.api.log.13.2019-09-13_04:56 AM 78549 INFO gs.resource.resource_tracker [ req-tfzd-xtqs-9abg-y9a5i ] [ instance: sngw-28du-nbd8-rj0zcy-ba1v ] Instance spawned correctly
+L544~gs.api.log.93_Sep 15, 2019_08:31:00 56038 INFO gs.openstack.wsgi.server [ req-wud8m-x2rl-mvdb8 ] "DELETE /v2/r7ct4kih6f1bs2l8pd3yma9j/servers/details HTTP/1.1" status: 202 len: 7848 time: 0.2943294
+L545~gs.api.log.68.2019-09-01_06:18 PM 71789 INFO gs.resource.manager [ req-9tci3b-lxad0-wc27vl ] [ instance: dwqbe1-9a7mre-z210-kh485z-2m85w ] Instance Destroyed Successfully
+L546~gs.api.log.72_05-09-2019_21:55 10837 INFO gs.compute.resource_tracker [ req-kixja-glde-1ygsj-x0rpa-pn4q2 ] HTTP exception thrown: No instances found for any event
+L547~gs.api.log.72_12-09-2019_04:45 48300 INFO gs.openstack.server [ req-dw0s-4vtbmc-vhgtcd-vz2nx-xkf8 ] HTTP exception thrown: No instances found for any event
+L548~gs.api.log.36.Sep 02, 2019_16:34 78650 INFO gs.compute.resource_tracker [ req-6czg50-cz92j4-op4ryu-njros0-qi4yxm ] Deleting instance files /var/lib/gs/instances/6czg50-cz92j4-op4ryu-njros0-qi4yxm
+L549~gs.compute.log.10.15-09-2019_04:34 PM 81163 INFO gs.openapi.server [ req-nxlm1-jr7s2-moywpf-c3mgjr ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 4516 time: 0.9331933
+L550~gs.api.log.96.15-09-2019_10:29 PM 61211 INFO gs.resource.resource_tracker [ req-glde-a32lk-o20nek-9tci3b-1gbn ] Removing base or swap file: /var/lib/gs/instances/_base/vyrl-8mkw-8zl7-ydjr7v-pg4e
+L551~gs.api.compute.log.18.Sep 04, 2019_08:25 PM 86119 INFO gs.openapi.wsgi.server [ req-4szwa-4cz1n-st19-v7klnb ] [ instance: wzp4ad-a9ix-8cqjwp-f1zgu ] VM Paused (Lifecycle Event)
+L552~gs.api.log.59_Sep 01, 2019_23:07:00 98091 INFO gs.openstack.server [ req-yafw5-50frl-6ot1r-b0u4v ] "DELETE /v2/51yr6mezo2gtbh8q0cujav3k/servers/details HTTP/1.1" status: 204 len: 8030 time: 0.9564956
+L553~gs.compute.log.85.10-09-2019_02:36 28265 INFO gs.api.openstack.compute.wsgi [ req-l8ejk-kd1q-v7y98-pn4q2 ] Total usable disk: 85GB, total allocated disk: 6GB
+L554~gs.api.log.19.Sep 13, 2019_04:37 AM 65185 INFO gs.openstack.wsgi.server [ req-nxlm1-epdv4-i6qn3 ] Base or swap file too young to remove: /var/lib/gs/instances/_base/nbd8-i805py-joh69-x9cjd-ty3lzi
+L555~gs.api.log.54_03-09-2019_23:15 46475 INFO gs.compute.resource_tracker [ req-bztu59-5zws-njros0-07b8k3 ] HTTP exception thrown: No entry found for any event
+L556~gs.compute.log.58.06-09-2019_06:59 61796 INFO gs.compute.manager [ req-d9uwo-2bi3-lctxos-10wn ] Total usable vcpus: 58, total allocated vcpus: 11
+L557~gs.api.log.23_Sep 01, 2019_07:29:00 89617 INFO gs.resource.claims [ req-cb4ngr-cnklvu-5ji8-ktiqb-4nbsil ] "DELETE /v2/gpxnwj16ms54o27cf8aez3lyivh9kqbu/servers/details HTTP/1.1" status: 204 len: 2650 time: 0.4369437
+L558~gs.api.log.96.2019-09-01_01:43 AM 81761 INFO gs.compute.resource_tracker [ req-8913pu-2aque-5l1ne ] [ instance: xms9j-g0zcrh-kd5eu ] Instance spawned correctly
+L559~gs.api.log.68.2019-09-10_04:52 AM 44532 INFO gs.resource.resource_tracker [ req-x52i0-95ewzi-tnxuz ] [ instance: k9ewd-a7nq-e7bt8n ] Instance spawned correctly
+L560~gs.compute.log.78_2019-09-13_19:02:00 67990 INFO gs.compute.resource_tracker [ req-a9oemu-1pje6m-4v2d-6do12x ] Creating event network-vif-plugged: for instance
+L561~gs.api.log.80.Sep 08, 2019_07:54 23800 INFO gs.resource.claims [ req-nv1ui-awy8e3-gmw3 ] Removable base files: /var/lib/gs/instances/_base/xtqs-wud8m-za7m-sgnvfi
+L562~gs.api.log.56.Sep 01, 2019_15:03 31489 INFO gs.resource.claims [ req-1eq4-kqijyd-gmw3 ] Removable base files: /var/lib/gs/instances/_base/43bt7y-n6g4-lem3a
+L563~gs.api.log.14_Sep 06, 2019_23:07:00 58621 INFO gs.api.openapi.compute.wsgi [ req-53ijn-e7bt8n-8zl7-7blvs ] "DELETE /v2/s8lxvi5mo34wtqje/servers/details HTTP/1.1" status: 204 len: 6080 time: 0.9414941
+L564~gs.compute.log.99_2019-09-03_07:16:00 97367 INFO gs.api.openstack.compute.wsgi [ req-rpa9o-7jmh-6g4iw0-myq6t-x9cjd ] Creating event network-vif-plugged: for instance
+L565~gs.compute.log.10.Sep 05, 2019_15:38 15186 INFO gs.openapi.server [ req-ydjr7v-c3mgjr-u9qae ] "GET /v2/2019-09-10 user_data.json HTTP/1.1" status: 404 len: 9244 time: 0.1041104
+L566~gs.api.log.80_07-09-2019_19:10 89231 INFO gs.openapi.server [ req-0v4wr-g0zcrh-owm2d7 ] HTTP exception thrown: No instances found for any event
+L567~gs.api.log.42_Sep 04, 2019_02:12:00 13691 INFO gs.resource.resource_tracker [ req-cz92j4-ugkq-bztu59 ] "DELETE /v2/7qtky2c139wipafxg8vzj4bs5rnlum0h/servers/details HTTP/1.1" status: 204 len: 850 time: 0.1105111
+L568~gs.compute.log.36.07-09-2019_03:09 AM 34354 INFO gs.openstack.server [ req-y8zx-gyb4k-znquk ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 8883 time: 0.6277628
+L569~gs.compute.log.93.04-09-2019_10:07 PM 24252 INFO gs.openstack.server [ req-r60qt4-jr7s2-uol7ef-29jnpm ] [ instance: xtqs-zwa26p-pkgfom-ntaj ] Took 3917 seconds to destroy the instance on the hypervisor
+L570~gs.api.log.19_2019-09-07_11:09:00 33094 INFO gs.api.openstack.compute.wsgi [ req-x2rl-7vse1y-lxad0 ] [ instance: d5fmv-4dsm6h-m51l ] vcpu limit not specified, default to unlimited
+L571~gs.api.log.85.06-09-2019_17:35 31865 INFO gs.compute.resource_tracker [ req-z7ugl6-du3mf-7blvs-2m85w ] Unknown base file: /var/lib/gs/instances/_base/ndrl-vxb0tn-8cqjwp-wxf6
+L572~gs.compute.log.17.Sep 02, 2019_05:59 47299 INFO gs.resource.claims [ req-c3mgjr-vz2nx-eqb6yn-lx5g-p5ek ] "GET /v2/2019-09-03 user_data.json HTTP/1.1" status: 201 len: 6211 time: 0.4646465
+L573~gs.api.log.25.Sep 03, 2019_16:10 67404 INFO gs.openapi.wsgi.server [ req-n1wxm-mhyqjk-7blvs-78jxq-072ft ] Base or swap file too young to remove: /var/lib/gs/instances/_base/uxnq-sqwbf0-o9uw
+L574~gs.compute.log.48.05-09-2019_04:41 66184 INFO gs.compute.resource_tracker [ req-rpa9o-7jmh-6g4iw0-myq6t-x9cjd ] Total usable vcpus: 48, total allocated vcpus: 11
+L575~gs.api.log.51_Sep 14, 2019_02:27:00 39826 INFO gs.compute.resource_tracker [ req-ylvs-r1qyx-j6zsi-1khtw ] [ instance: d5fmv-12hy-8mkw-n3zb ] Total disk upper-limit not defined, defaulting to unlimited
+L576~gs.api.log.81_2019-09-09_07:12:00 35807 INFO gs.api.openstack.compute.wsgi [ req-jlb62-q2b5x-92h5-hvtw-jd74zt ] [ instance: n80j6-er9xy-e6ba-l89bg-8sa2 ] vcpu limit not specified, default to unlimited
+L577~gs.api.compute.log.21.2019-09-12_07:14 AM 30758 INFO gs.openstack.server [ req-0e1x4b-07c3-vhgtcd ] [ instance: 4szwa-4cz1n-st19-v7klnb ] VM Stopped (Lifecycle Event)
+L578~gs.api.log.34.Sep 01, 2019_12:30 PM 21863 INFO gs.openstack.server [ req-bo2j1i-rbdla-b7con1-cnrhos ] Removing base or swap file: /var/lib/gs/instances/_base/d9uwo-2bi3-lctxos-10wn
+L579~gs.compute.log.74.05-09-2019_09:55 AM 75508 INFO gs.api.openapi.compute.wsgi [ req-d7zuw6-1khtw-5ji8 ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 8234 time: 0.7234723
+L580~gs.api.log.12.Sep 14, 2019_00:09 56038 INFO gs.resource.manager [ req-bztu59-5zws-njros0-07b8k3 ] Deleting instance files /var/lib/gs/instances/bztu59-5zws-njros0-07b8k3
+L581~gs.api.log.50_Sep 11, 2019_15:18:00 43499 INFO gs.compute.manager [ req-2bi3-51oy-86olmf-6arqu ] [ instance: 4agu-07c3-1s9h6-nv8jct-y4lgs ] VM limit not defined, defaulting to max
+L582~gs.compute.log.97_2019-09-04_02:39:00 83237 INFO gs.resource.resource_tracker [ req-jd74zt-43bt7y-m23xr-kd5eu ] Creating event network-vif-plugged: for instance
+L583~gs.api.log.80_2019-09-13_15:35:00 3746 INFO gs.openapi.wsgi.server [ req-kd1q-1fdm7-uab0iz ] [ instance: 6exg9o-9q2us-b3yovi-78jxq ] vcpu limit not specified, default to unlimited
+L584~gs.compute.log.16.04-09-2019_05:51 PM 22178 INFO gs.api.openapi.compute.wsgi [ req-6fcpz3-10wn-3npi-x9cjd-0x7vr ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 4311 time: 0.4490449
+L585~gs.compute.log.35.14-09-2019_00:38 16156 INFO gs.compute.resource_tracker [ req-glde-26ingz-0zrw5-1s9h6 ] Total usable memory: 35GB, total allocated memory: 8GB
+L586~gs.compute.log.50.04-09-2019_09:30 35501 INFO gs.resource.resource_tracker [ req-ydjr7v-c3mgjr-u9qae ] "GET /v2/2019-09-01 meta_data.json HTTP/1.1" status: 404 len: 860 time: 0.8105811
+L587~gs.api.log.76_Sep 11, 2019_16:21:00 81668 INFO gs.api.openstack.compute.wsgi [ req-a32lk-6hb83-ptcl ] "POST /v2/zsft2jadwbc7vg16ri3e9uy5/servers/details HTTP/1.1" status: 200 len: 7998 time: 0.3957396
+L588~gs.compute.log.96.2019-09-11_04:51 AM 71313 INFO gs.compute.resource_tracker [ req-r36js-1khtw-bid2-op4ryu ] [ instance: sqwbf0-fns8p-guc3-x52i0-m826 ] Takes 4715 seconds to deallocate network for instance
+L589~gs.compute.log.97.04-09-2019_06:30 AM 84174 INFO gs.api.openstack.compute.wsgi [ req-4fsdei-1zaf04-ufxz-iv6no ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 404 len: 7623 time: 0.2137214
+L590~gs.compute.log.24.06-09-2019_16:19 44391 INFO gs.openapi.wsgi.server [ req-sxer-1pje6m-jk6v1l ]
+L591~gs.compute.log.89.11-09-2019_07:09 PM 15746 INFO gs.api.openapi.compute.wsgi [ req-d7zuw6-uh29c-54er ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 851 time: 0.5932593
+L592~gs.api.log.74_11-09-2019_09:36 56508 INFO gs.api.openapi.compute.wsgi [ req-e8uxd-4cz1n-92h5 ] HTTP exception thrown: No instances found for any event
+L593~gs.compute.log.74.2019-09-08_01:29:00 96822 INFO gs.compute.resource_tracker [ req-37c9b-yp0io-awy8e3-iz71-5mu3d ] [ instance: jlb62-8vpj-a8eyko-znf6p1 ] Takes 4261 seconds to deallocate network for instance
+L594~gs.compute.log.57.Sep 06, 2019_12:15 83758 INFO gs.api.openstack.compute.wsgi [ req-ndrl-53ijn-h9pg ] "GET /v2/2019-09-12 user_data.json HTTP/1.1" status: 201 len: 1432 time: 0.2759276
+L595~gs.api.log.98_Sep 09, 2019_09:21:00 19568 INFO gs.openstack.server [ req-guc3-za7m-1k8xh-072ft ] "GET /v2/a3sf0z5ukv8c9mrnyjtlh2x4/servers/details HTTP/1.1" status: 404 len: 712 time: 0.4040404
+L596~gs.api.log.15.2019-09-07_20:54:00 18138 INFO gs.openapi.wsgi.server [ req-4t85u-qo8v0u-ubec-v3fcs-myq6t ] Removing base or swap file: /var/lib/gs/instances/_base/9tci3b-vxb0tn-bql5g
+L597~gs.api.log.38.02-09-2019_22:17 27835 INFO gs.resource.manager [ req-yafw5-x2sl-4cz1n-uy1al5-560z ] Removable base files: /var/lib/gs/instances/_base/3poj-st19-r1qyx-kw0tiv
+L598~gs.api.log.97.02-09-2019_05:33:00 6337 INFO gs.openapi.wsgi.server [ req-4t85u-qo8v0u-ubec-v3fcs-myq6t ] Base or swap file too young to remove: /var/lib/gs/instances/_base/q7rzio-za7m-kz6vg-be2u-nji3
+L599~gs.api.log.88_Sep 13, 2019_10:12:00 78518 INFO gs.compute.resource_tracker [ req-hjnbup-pt2zo-n8jsx-nji3-4d8fin ] [ instance: mfwd6j-rsjok9-w4q2-vwctu ] Total disk upper-limit not defined, defaulting to unlimited
+L600~gs.compute.log.60.01-09-2019_10:30 AM 16598 INFO gs.compute.resource_tracker [ req-2pz8-251u-x9cjd-xkf8 ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 8808 time: 0.4671467
+L601~gs.api.log.13.2019-09-06_02:13 AM 6216 INFO gs.compute.manager [ req-n6g4-be2u-0n37-pt2zo-er9xy ] [ instance: 7jmh-ugkq-a7s4-6wl35r ] Instance spawned correctly
+L602~gs.compute.log.99.12-09-2019_19:09 55809 INFO gs.openstack.server [ req-ylvs-kh485z-54er ]
+L603~gs.api.log.80_02-09-2019_14:17 39715 INFO gs.api.openstack.compute.wsgi [ req-7uy6-g195y-q89b-cn6d-vwctu ] HTTP exception thrown: No entry found for any event
+L604~gs.api.log.17_Sep 05, 2019_12:13:00 31489 INFO gs.compute.resource_tracker [ req-2soxl-7gtvf9-lem3a ] [ instance: wst3yd-1a54-l89bg ] Total disk upper-limit not defined, defaulting to unlimited
+L605~gs.compute.log.89.07-09-2019_04:18 PM 23327 INFO gs.resource.manager [ req-0n37-ovjcx-sy65tl-g195y-9fqgh ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 8480 time: 0.1288129
+L606~gs.compute.log.64.03-09-2019_04:40 PM 51990 INFO gs.compute.manager [ req-05jdm-ej4rb-6arqu-cn6d ] [ instance: lem3a-rhezju-igbe5-ioxmw ] Took 1428 seconds to spawn the instance on the hypervisor
+L607~gs.compute.log.60_2019-09-12_22:08:00 48410 INFO gs.resource.resource_tracker [ req-ovjcx-l89bg-guc3 ] Creating event network-vif-plugged: for instance
+L608~gs.compute.log.96.06-09-2019_12:45 PM 83362 INFO gs.openstack.server [ req-pg4e-qvrlz-jvlt-eqb6yn-0x7vr ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 1925 time: 0.1710171
+L609~gs.compute.log.80.10-09-2019_03:00 AM 7795 INFO gs.resource.resource_tracker [ req-ydp4fa-i6qn3-kd1q ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 404 len: 3821 time: 0.0387039
+L610~gs.api.compute.log.24.09-09-2019_08:17 PM 6329 INFO gs.openstack.server [ req-9fqgh-6g9t-xdt1u-5zws ] [ instance: n7w9u-tn296-gmw3 ] VM Started (Lifecycle Event)
+L611~gs.api.log.97.Sep 06, 2019_12:03 AM 82992 INFO gs.api.openapi.compute.wsgi [ req-qmk5g9-7nxq-6od5mc ] Removing base or swap file: /var/lib/gs/instances/_base/yafw5-50frl-6ot1r-b0u4v
+L612~gs.api.log.77.Sep 12, 2019_03:48 56038 INFO gs.openapi.server [ req-7dxu2-1khtw-4t85u ] Removing base or swap file: /var/lib/gs/instances/_base/5v7pe0-az74cj-ynj5
+L613~gs.compute.log.51.01-09-2019_01:10 33434 INFO gs.resource.resource_tracker [ req-6od5mc-jr7s2-cmhkf9-du3mf-5v7pe0 ] Total usable vcpus: 51, total allocated vcpus: 2
+L614~gs.api.log.35_Sep 04, 2019_10:48:00 87076 INFO gs.api.openapi.compute.wsgi [ req-i4k31-vleiy-voa1 ] "DELETE /v2/re4bvathc17lw5k3yg8j29xf/servers/details HTTP/1.1" status: 200 len: 9550 time: 0.3542354
+L615~gs.api.log.48.2019-09-06_06:39 PM 57589 INFO gs.resource.manager [ req-x2rl-v3fcs-uab0iz-j1yt ] [ instance: 8vpj-g0zcrh-pg4e ] Instance Destroyed Successfully
+L616~gs.api.log.78.2019-09-01_05:10 AM 96043 INFO gs.resource.manager [ req-b7con1-z4rqj7-n80j6 ] Base or swap file too young to remove: /var/lib/gs/instances/_base/564sz-j4fbq-lem3a-az74cj
+L617~gs.api.log.49_Sep 10, 2019_00:36:00 87005 INFO gs.compute.manager [ req-k9ewd-9q2us-nhwlbg ] [ instance: 9tci3b-vxb0tn-bql5g ] vcpu limit not specified, default to unlimited
+L618~gs.api.log.11.12-09-2019_04:41 10158 INFO gs.compute.manager [ req-8vpj-vxb0tn-5zery ] Removable base files: /var/lib/gs/instances/_base/sngw-znf6p1-vz2nx-gbocui
+L619~gs.compute.log.83_2019-09-07_05:33:00 59989 INFO gs.openstack.wsgi.server [ req-bztu59-5zws-njros0-07b8k3 ] Creating event network-vif-plugged: for instance
+L620~gs.api.log.95_05-09-2019_07:16 76246 INFO gs.openapi.server [ req-vleiy-st19-07b8k3-h4bjn-r60qt4 ] HTTP exception thrown: No instances found for any event
+L621~gs.compute.log.87_2019-09-03_18:13:00 31568 INFO gs.openstack.server [ req-4uz8-rbdla-92zvgh-uab0iz-sgjlu ] Creating event network-vif-plugged: for instance
+L622~gs.api.log.30_2019-09-05_12:58:00 71147 INFO gs.resource.manager [ req-v47k-p2860-1m82u-guc3 ] [ instance: az74cj-5v7pe0-tdskc-glde-pg4e ] Total memory limit not specified, defaulting to unlimited
+L623~gs.api.log.37_2019-09-10_00:50:00 80376 INFO gs.openapi.wsgi.server [ req-ved5la-st19-nac86 ] [ instance: jlb62-8vpj-a8eyko-znf6p1 ] Total disk upper-limit not defined, defaulting to unlimited
+L624~gs.api.log.25_Sep 03, 2019_14:54:00 27835 INFO gs.openapi.server [ req-cb4ngr-cnklvu-5ji8-ktiqb-4nbsil ] [ instance: mn76-6ot1r-4d8fin-hfujap ] Total disk upper-limit not defined, defaulting to unlimited
+L625~gs.compute.log.52.08-09-2019_11:04 PM 8776 INFO gs.openstack.server [ req-p2860-6od5mc-easb2 ] [ instance: 2ox7h9-b5cn-3npi-v7klnb-vla0s ] Takes 8116 seconds to deallocate network for instance
+L626~gs.compute.log.33_2019-09-09_02:14:00 55900 INFO gs.openapi.wsgi.server [ req-50frl-jd74zt-w4q2 ] Creating event network-vif-plugged: for instance
+L627~gs.compute.log.33.10-09-2019_13:46 89751 INFO gs.compute.manager [ req-cm93ef-4yrq2-er9xy-4nbsil-gm59z ] "GET /v2/2019-09-05 user_data.json HTTP/1.1" status: 404 len: 1760 time: 0.8589859
+L628~gs.api.log.75_Sep 08, 2019_14:07:00 77032 INFO gs.api.openstack.compute.wsgi [ req-7nxq-8913pu-rb23-3g0j6-sqwbf0 ] "POST /v2/azi3lo6bmp0cgw8x/servers/details HTTP/1.1" status: 202 len: 739 time: 0.6906691
+L629~gs.api.log.57.2019-09-12_04:23 PM 2784 INFO gs.compute.resource_tracker [ req-6hb83-w2bz-3q0vo-amlkt-why1 ] [ instance: h0kd-o74f-vla0s-3g0j6-7vse1y ] swap instance creation successfully
+L630~gs.api.log.49.2019-09-02_07:07 AM 71749 INFO gs.api.openstack.compute.wsgi [ req-05jdm-ej4rb-6arqu-cn6d ] [ instance: glde-1apj2-8vpj ] Instance spawned correctly
+L631~gs.compute.log.83.2019-09-06_00:51:00 32459 INFO gs.resource.manager [ req-1aeb-hkjo-1fdm7 ] [ instance: ndrl-vxb0tn-8cqjwp-wxf6 ] Took 5727 seconds to destroy the instance on the hypervisor
+L632~gs.api.log.33_2019-09-15_12:55:00 76834 INFO gs.openstack.wsgi.server [ req-37c9b-hxfm7-43bt7y-p5tb-ovjcx ] [ instance: 9bc6-g195y-2clbx-dw0s-4yrq2 ] Total memory limit not specified, defaulting to unlimited
+L633~gs.compute.log.98_2019-09-10_21:03:00 82278 INFO gs.resource.manager [ req-lem3a-rhezju-igbe5-ioxmw ] Creating event network-vif-plugged: for instance
+L634~gs.api.log.86.2019-09-13_09:32 PM 71668 INFO gs.resource.manager [ req-2g7o1-9fqgh-50frl ] [ instance: wzp4ad-a9ix-8cqjwp-f1zgu ] Instance Destroyed Successfully
+L635~gs.api.log.50.11-09-2019_07:54 60109 INFO gs.openapi.server [ req-ndrl-53ijn-h9pg ] Deleting instance files /var/lib/gs/instances/ndrl-53ijn-h9pg
+L636~gs.compute.log.69.15-09-2019_17:15 36462 INFO gs.openapi.wsgi.server [ req-g0zcrh-n698w-zrbjc8-iz71-6od5mc ]
+L637~gs.compute.log.42.07-09-2019_02:35 PM 13649 INFO gs.resource.manager [ req-sngw-07c3-13a09 ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 348 time: 0.9887989
+L638~gs.api.compute.log.83.2019-09-14_02:59 PM 24537 INFO gs.api.openstack.compute.wsgi [ req-ecovnl-34nme6-4d8fin-ylvs ] [ instance: nji3-j1yt-zrbjc8-gd4ks-g195y ] VM Paused (Lifecycle Event)
+L639~gs.api.log.44_Sep 12, 2019_23:30:00 80902 INFO gs.openapi.server [ req-1m82u-1ygsj-ufwp-xgom-voa1 ] "DELETE /v2/35xr6m0bzgwncosah1f9jituy7pq8ke2/servers/details HTTP/1.1" status: 404 len: 211 time: 0.2171217
+L640~gs.api.log.20_01-09-2019_13:51 32642 INFO gs.resource.resource_tracker [ req-amlkt-nbd8-gbdq0k-myq6t-i805py ] HTTP exception thrown: No instances found for any event
+L641~gs.api.log.51_Sep 11, 2019_23:26:00 85934 INFO gs.compute.resource_tracker [ req-h0kd-o74f-vla0s-3g0j6-7vse1y ] [ instance: 4fsdei-0e1x4b-hg2m1-wrcp-wc27vl ] VM limit not defined, defaulting to max
+L642~gs.api.log.46.2019-09-12_11:05 PM 76834 INFO gs.openapi.server [ req-6exg9o-9q2us-b3yovi-78jxq ] [ instance: vwypum-voi178-2soxl-rma8-vpog ] swap instance creation successfully
+L643~gs.compute.log.28.Sep 11, 2019_16:44 46475 INFO gs.api.openstack.compute.wsgi [ req-7jmh-5l1ne-nji3 ] "GET /v2/2019-09-08 vendor_data.json HTTP/1.1" status: 404 len: 4347 time: 0.0913091
+L644~gs.compute.log.50.04-09-2019_15:20 78417 INFO gs.api.openstack.compute.wsgi [ req-n7w9u-2i1w-b0u4v-ahegn ]
+L645~gs.api.log.14_Sep 06, 2019_09:41:00 74385 INFO gs.api.openapi.compute.wsgi [ req-n7w9u-tn296-gmw3 ] "POST /v2/x0u4i1g6n9r8alhwbmq3kfep/servers/details HTTP/1.1" status: 204 len: 6303 time: 0.9739974
+L646~gs.compute.log.70.13-09-2019_16:03 63862 INFO gs.resource.manager [ req-y5tj-ufwp-34nme6-6do12x ]
+L647~gs.api.log.34_15-09-2019_09:01 55525 INFO gs.resource.claims [ req-snx5kr-4fsdei-vwctu-lf8pr1-1gbn ] HTTP exception thrown: No entry found for any event
+L648~gs.compute.log.99.03-09-2019_13:40 85934 INFO gs.openapi.server [ req-glde-1apj2-8vpj ] "GET /v2/2019-09-13 meta_data.json HTTP/1.1" status: 404 len: 4989 time: 0.4646465
+L649~gs.api.log.58_Sep 01, 2019_15:28:00 45309 INFO gs.openstack.wsgi.server [ req-9y6vnd-0n37-x3fz-a7s4-e1ajgn ] "DELETE /v2/qwe10cj25yg79pan368mk4vz/servers/details HTTP/1.1" status: 200 len: 2484 time: 0.7264726
+L650~gs.api.log.78_Sep 11, 2019_22:26:00 30003 INFO gs.api.openstack.compute.wsgi [ req-e8p6fh-s2ft-ed9k-fb9lk ] "POST /v2/6vsw1zenbl23pcmgikftq80r/servers/details HTTP/1.1" status: 200 len: 7996 time: 0.4152415
+L651~gs.api.log.41.12-09-2019_16:00 71668 INFO gs.resource.resource_tracker [ req-vz2nx-rj0zcy-lem3a-hg2m1-j6zsi ] Removable base files: /var/lib/gs/instances/_base/sxer-xmgj-p5tb
+L652~gs.api.compute.log.65.2019-09-12_02:27 PM 40375 INFO gs.compute.resource_tracker [ req-y8zx-hjnbup-nji3-p2860-ntau ] [ instance: n6g4-hp962c-n8jsx-xp7z-x0s1 ] VM Paused (Lifecycle Event)
+L653~gs.api.log.91.08-09-2019_11:48 19568 INFO gs.api.openstack.compute.wsgi [ req-1shqbf-v47k-2pz8-c5n1vy-lctxos ] Unknown base file: /var/lib/gs/instances/_base/cb8v-q7rzio-l8ejk
+L654~gs.compute.log.42.12-09-2019_06:58 AM 29197 INFO gs.openapi.wsgi.server [ req-43bt7y-n6g4-lem3a ] [ instance: y9mjwk-n1yj-6wl35r-nhwlbg ] Took 9403 seconds to spawn the instance on the hypervisor
+L655~gs.compute.log.31.Sep 02, 2019_05:05 55567 INFO gs.compute.resource_tracker [ req-kzunes-rvkx-258dx-ntaj-ndrl ] "GET /v2/2019-09-04 user_data.json HTTP/1.1" status: 201 len: 8031 time: 0.5434543
+L656~gs.api.log.84.14-09-2019_15:01 11617 INFO gs.openapi.server [ req-4fsdei-ydjr7v-h4bjn ] Removing base or swap file: /var/lib/gs/instances/_base/0v4wr-g0zcrh-owm2d7
+L657~gs.compute.log.88.Sep 10, 2019_20:49 60221 INFO gs.openapi.server [ req-bztu59-a7s4-sxer ] "GET /v2/2019-09-02 user_data.json HTTP/1.1" status: 201 len: 3018 time: 0.1711171
+L658~gs.compute.log.25_2019-09-02_05:28:00 86091 INFO gs.compute.resource_tracker [ req-5v7pe0-az74cj-ynj5 ] Creating event network-vif-plugged: for instance
+L659~gs.api.log.76.Sep 13, 2019_23:10 10554 INFO gs.api.openstack.compute.wsgi [ req-glde-a32lk-o20nek-9tci3b-1gbn ] Active base files: /var/lib/gs/instances/_base/glde-a32lk-o20nek-9tci3b-1gbn
+L660~gs.api.compute.log.49.2019-09-04_01:32 AM 20411 INFO gs.api.openapi.compute.wsgi [ req-ndrl-5eva8-a0um-ydp4fa-mn76 ] [ instance: cb8v-q7rzio-l8ejk ] VM Paused (Lifecycle Event)
+L661~gs.api.log.47_2019-09-05_18:26:00 85577 INFO gs.resource.claims [ req-4t85u-qo8v0u-ubec-v3fcs-myq6t ] [ instance: ioxmw-6nub-4yrq2 ] Total disk upper-limit not defined, defaulting to unlimited
+L662~gs.compute.log.62_2019-09-01_03:27:00 87816 INFO gs.resource.manager [ req-n7w9u-2i1w-b0u4v-ahegn ] Creating event network-vif-plugged: for instance
+L663~gs.api.log.82.14-09-2019_05:16 78457 INFO gs.api.openapi.compute.wsgi [ req-9top1-6arqu-wst3yd-w4q2-ws0mh ] Unknown base file: /var/lib/gs/instances/_base/rhezju-6hb83-7vse1y
+L664~gs.compute.log.70.08-09-2019_13:51 40529 INFO gs.openapi.server [ req-vleiy-st19-07b8k3-h4bjn-r60qt4 ] Total usable vgpus: 70, total allocated vgpus: 13
+L665~gs.compute.log.22.08-09-2019_05:50 51674 INFO gs.resource.manager [ req-xmgj-1zqaf-6g9t ] Total usable memory: 22GB, total allocated memory: 5GB
+L666~gs.compute.log.71.04-09-2019_13:18 9496 INFO gs.resource.claims [ req-guc3-za7m-1k8xh-072ft ] Total usable vcpus: 71, total allocated vcpus: 5
+L667~gs.api.log.48_Sep 15, 2019_21:39:00 70610 INFO gs.openapi.server [ req-k4n8-7vse1y-6arqu-4agu ] "GET /v2/df6hjeu32g4vwois8mbtl9yp/servers/details HTTP/1.1" status: 404 len: 5725 time: 0.0356036
+L668~gs.compute.log.41.03-09-2019_00:30 95563 INFO gs.openapi.server [ req-kyum-z210-cnklvu-o20nek-yn78p ] Total usable disk: 41GB, total allocated disk: 5GB
+L669~gs.api.log.61_Sep 09, 2019_20:44:00 58286 INFO gs.openapi.wsgi.server [ req-kixja-glde-1ygsj-x0rpa-pn4q2 ] "DELETE /v2/bw2xh4v98ode6igsf1k75jru3l0pzytc/servers/details HTTP/1.1" status: 204 len: 753 time: 0.5309531
+L670~gs.compute.log.78.Sep 05, 2019_03:19 48804 INFO gs.api.openapi.compute.wsgi [ req-gmw3-8aqge-joh69-zmogv ] "GET /v2/2019-09-12 vendor_data.json HTTP/1.1" status: 404 len: 666 time: 0.4253425
+L671~gs.api.log.88_2019-09-03_06:43:00 13909 INFO gs.resource.claims [ req-gz31o-y4lgs-1ygsj ] [ instance: 95ewzi-nji3-9q2us-q2b5x-7zyp9 ] VM limit not defined, defaulting to max
+L672~gs.compute.log.20_2019-09-10_00:22:00 70051 INFO gs.resource.manager [ req-az74cj-28du-6fcpz3-tn296-il7e ] Creating event network-vif-plugged: for instance
+L673~gs.api.compute.log.35.Sep 14, 2019_03:38 PM 78612 INFO gs.openapi.wsgi.server [ req-kyum-kd1q-xu6th ] [ instance: vkcih-8cqjwp-7uy6 ] VM Paused (Lifecycle Event)
+L674~gs.compute.log.26.14-09-2019_01:27 PM 29065 INFO gs.resource.manager [ req-8sa2-moywpf-glde ] [ instance: 3qadsw-cn6d-r1qyx-9q2us-ej4rb ] Takes 7064 seconds to build the instance
+L675~gs.api.log.81.2019-09-04_10:21 62096 INFO gs.resource.claims [ req-2aque-tn296-yafw5-b5cn-43bt7y ] Removing base or swap file: /var/lib/gs/instances/_base/dw0s-itcrv8-x9cjd-gzm5sd
+L676~gs.compute.log.64.Sep 02, 2019_23:53 11242 INFO gs.openstack.server [ req-rpa9o-7jmh-6g4iw0-myq6t-x9cjd ] "GET /v2/2019-09-07 user_data.json HTTP/1.1" status: 201 len: 1176 time: 0.4083408
+L677~gs.compute.log.26_2019-09-04_10:50:00 40071 INFO gs.openstack.wsgi.server [ req-glde-26ingz-0zrw5-1s9h6 ] Creating event network-vif-plugged: for instance
+L678~gs.api.log.28_2019-09-05_04:51:00 91445 INFO gs.resource.manager [ req-lx5g-f1zgu-4agu-u5qri ] [ instance: 4d8fin-cmhkf9-9y6vnd-hjnbup-enwlc ] vcpu limit not specified, default to unlimited
+L679~gs.api.log.84.2019-09-06_05:09 AM 48475 INFO gs.openstack.wsgi.server [ req-xms9j-8cqjwp-h0m2-9i57s-mn76 ] [ instance: bztu59-5zws-njros0-07b8k3 ] Instance spawned correctly
+L680~gs.api.log.72_Sep 02, 2019_01:21:00 89933 INFO gs.resource.resource_tracker [ req-0e1x4b-07c3-vhgtcd ] [ instance: wzp4ad-a9ix-8cqjwp-f1zgu ] Total disk upper-limit not defined, defaulting to unlimited
+L681~gs.compute.log.76.08-09-2019_16:53 53124 INFO gs.compute.resource_tracker [ req-8vpj-g0zcrh-pg4e ] Total usable vcpus: 76, total allocated vcpus: 11
+L682~gs.api.log.43.Sep 04, 2019_03:10 90382 INFO gs.resource.resource_tracker [ req-4nbsil-xms9j-fysr ] Deleting instance files /var/lib/gs/instances/4nbsil-xms9j-fysr
+L683~gs.api.log.85.2019-09-03_07:25 PM 97364 INFO gs.compute.resource_tracker [ req-6g9t-ydjr7v-0eyq-f1zgu ] [ instance: v3fcs-bid2-en3g ] Instance spawned correctly
+L684~gs.compute.log.22.2019-09-08_05:08 AM 72996 INFO gs.openapi.wsgi.server [ req-mn76-6ot1r-4d8fin-hfujap ] [ instance: ovjcx-krg2v9-p5tb-6fcpz3-82nm9w ] Took 8025 seconds to spawn the instance on the hypervisor
+L685~gs.compute.log.53_2019-09-04_08:25:00 26377 INFO gs.resource.manager [ req-x52i0-95ewzi-tnxuz ] Creating event network-vif-plugged: for instance
+L686~gs.compute.log.77_2019-09-15_11:27:00 5979 INFO gs.api.openapi.compute.wsgi [ req-nji3-j1yt-zrbjc8-gd4ks-g195y ] Creating event network-vif-plugged: for instance
+L687~gs.api.log.77.2019-09-04_11:16 AM 17274 INFO gs.openstack.server [ req-4t85u-rsjok9-q2b5x-wxf6-2bi3 ] [ instance: jr7s2-c3mgjr-4d8fin-bo2j1i ] Instance spawned correctly
+L688~gs.api.compute.log.73.Sep 01, 2019_06:50 PM 12774 INFO gs.api.openapi.compute.wsgi [ req-0v4wr-37c9b-2pz8 ] [ instance: g195y-5u3f-qmk5g9 ] VM Resumed (Lifecycle Event)
+L689~gs.api.log.34.Sep 14, 2019_03:43:00 58504 INFO gs.openstack.server [ req-d7bus-cn6d-6g4iw0-1yaqrz ] Base or swap file too young to remove: /var/lib/gs/instances/_base/sxer-xmgj-p5tb
+L690~gs.compute.log.71.12-09-2019_08:03 PM 62875 INFO gs.openapi.wsgi.server [ req-4szwa-4cz1n-st19-v7klnb ] [ instance: 7jmh-ugkq-a7s4-6wl35r ] Took 1272 seconds to spawn the instance on the hypervisor
+L691~gs.api.compute.log.56.03-09-2019_03:27 AM 5534 INFO gs.resource.manager [ req-0v4wr-g0zcrh-owm2d7 ] [ instance: 4fsdei-1zaf04-ufxz-iv6no ] VM Started (Lifecycle Event)
+L692~gs.api.log.29_Sep 14, 2019_09:08:00 77165 INFO gs.openstack.wsgi.server [ req-du3mf-vyrl-rq1a ] "GET /v2/x4ky3odv5pq67e2g8csrwtah/servers/details HTTP/1.1" status: 200 len: 912 time: 0.6118612
+L693~gs.compute.log.95_2019-09-07_21:58:00 89190 INFO gs.resource.resource_tracker [ req-86olmf-o9uw-hkjo-bid2 ] Creating event network-vif-plugged: for instance
+L694~gs.api.log.79.Sep 04, 2019_21:27 10158 INFO gs.openapi.server [ req-uxnq-bo2j1i-g195y-za7m-kz6vg ] Deleting instance files /var/lib/gs/instances/uxnq-bo2j1i-g195y-za7m-kz6vg
+L695~gs.compute.log.33.13-09-2019_10:34 26102 INFO gs.compute.resource_tracker [ req-1shqbf-v47k-2pz8-c5n1vy-lctxos ] "GET /v2/2019-09-11 meta_data.json HTTP/1.1" status: 404 len: 4483 time: 0.4113411
+L696~gs.api.log.92.03-09-2019_23:13 9532 INFO gs.openstack.server [ req-7kwbx-bql5g-dr2nm ] Deleting instance files /var/lib/gs/instances/7kwbx-bql5g-dr2nm
+L697~gs.api.compute.log.35.13-09-2019_04:42 PM 19883 INFO gs.openapi.wsgi.server [ req-ved5la-nhwlbg-o9uw ] [ instance: 4t85u-qo8v0u-ubec-v3fcs-myq6t ] VM Started (Lifecycle Event)
+L698~gs.api.log.67_2019-09-07_05:46:00 10452 INFO gs.api.openapi.compute.wsgi [ req-wrcp-8aqge-z7ugl6 ] [ instance: tfzd-xtqs-9abg-y9a5i ] vcpu limit not specified, default to unlimited
+L699~gs.api.log.14_Sep 03, 2019_01:49:00 76433 INFO gs.resource.manager [ req-1apj2-en3g-4yrq2-xkf8-gmw3 ] "GET /v2/c402udjs9tx6fezlkrqmy1ohgvp53na7/servers/details HTTP/1.1" status: 202 len: 9124 time: 0.6337634
+L700~gs.compute.log.55.01-09-2019_05:51 PM 97033 INFO gs.openapi.server [ req-uol7ef-4uz8-0zrw5 ] [ instance: ydp4fa-1ht782-wst3yd-wud8m ] Takes 6887 seconds to deallocate network for instance
+L701~gs.compute.log.29.Sep 15, 2019_16:53 94887 INFO gs.compute.manager [ req-7jmh-5l1ne-nji3 ] "GET /v2/2019-09-06 user_data.json HTTP/1.1" status: 201 len: 3936 time: 0.0929093
+L702~gs.compute.log.19.02-09-2019_16:55 13524 INFO gs.openapi.server [ req-iz71-4cz1n-3q0vo-lem3a ] "GET /v2/2019-09-06 vendor_data.json HTTP/1.1" status: 201 len: 2877 time: 0.5886589
+L703~gs.compute.log.92.2019-09-15_03:58 AM 45575 INFO gs.openstack.wsgi.server [ req-6od5mc-e6ba-xd16 ] [ instance: 4uz8-ubec-rytxe8-8v3qyr ] Takes 1921 seconds to deallocate network for instance
+L704~gs.api.compute.log.35.06-09-2019_05:08 AM 1923 INFO gs.openapi.wsgi.server [ req-oi5g-fysr-ygqh9-kz6vg-kd5eu ] [ instance: b7con1-ansf0b-hgusmt ] VM Paused (Lifecycle Event)
+L705~gs.api.log.20.Sep 07, 2019_15:40 37236 INFO gs.openapi.wsgi.server [ req-e9f1-bdsu2p-bql5g ] Removable base files: /var/lib/gs/instances/_base/659m7-pt2zo-eqb6yn
+L706~gs.api.log.46.Sep 09, 2019_04:42 45273 INFO gs.api.openapi.compute.wsgi [ req-8sa2-lf8pr1-2soxl-9top1-az74cj ] Unknown base file: /var/lib/gs/instances/_base/amlkt-nbd8-gbdq0k-myq6t-i805py
+L707~gs.api.log.37.2019-09-13_03:41 AM 89231 INFO gs.openapi.server [ req-kixja-glde-1ygsj-x0rpa-pn4q2 ] [ instance: v3fcs-bid2-en3g ] Instance Destroyed Successfully
+L708~gs.api.compute.log.17.Sep 12, 2019_04:57 AM 5979 INFO gs.compute.resource_tracker [ req-cm93ef-4yrq2-er9xy-4nbsil-gm59z ] [ instance: 1aeb-hkjo-1fdm7 ] VM Resumed (Lifecycle Event)
+L709~gs.compute.log.66.2019-09-04_15:36:00 8581 INFO gs.api.openstack.compute.wsgi [ req-50frl-jd74zt-w4q2 ] [ instance: lx5g-f1zgu-4agu-u5qri ] Takes 8138 seconds to deallocate network for instance
+L710~gs.compute.log.55.Sep 14, 2019_04:40 13649 INFO gs.openapi.server [ req-ynj5-tn296-az74cj-i805py ] "GET /v2/2019-09-11 meta_data.json HTTP/1.1" status: 404 len: 9977 time: 0.679968
+L711~gs.compute.log.21.Sep 15, 2019_02:30 63631 INFO gs.api.openstack.compute.wsgi [ req-37c9b-hxfm7-43bt7y-p5tb-ovjcx ] "GET /v2/2019-09-02 meta_data.json HTTP/1.1" status: 201 len: 3527 time: 0.1894189
+L712~gs.compute.log.38.13-09-2019_06:02 AM 46777 INFO gs.api.openapi.compute.wsgi [ req-l8i6v-63u9fq-ydjr7v ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 860 time: 0.1839184
+L713~gs.compute.log.81.06-09-2019_12:23 38996 INFO gs.api.openstack.compute.wsgi [ req-rpa9o-92h5-gd4ks ] Total usable memory: 81GB, total allocated memory: 5GB
+L714~gs.compute.log.94.03-09-2019_01:03 80706 INFO gs.openstack.server [ req-hfujap-voa1-cnklvu ] Total usable memory: 94GB, total allocated memory: 6GB
+L715~gs.api.log.51_06-09-2019_14:49 26647 INFO gs.resource.manager [ req-8zl7-gkya-8vpj-j602eg ] HTTP exception thrown: No entry found for any event
+L716~gs.api.log.58_Sep 13, 2019_01:16:00 75286 INFO gs.resource.resource_tracker [ req-k9ewd-9q2us-nhwlbg ] [ instance: 37c9b-yp0io-awy8e3-iz71-5mu3d ] Total memory limit not specified, defaulting to unlimited
+L717~gs.api.log.54_Sep 09, 2019_18:10:00 55616 INFO gs.openapi.server [ req-o20nek-lx5g-9bc6 ] [ instance: ylvs-kh485z-54er ] Total disk upper-limit not defined, defaulting to unlimited
+L718~gs.compute.log.27.02-09-2019_04:09 PM 48475 INFO gs.compute.manager [ req-sngw-5bkrt-3g0j6 ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 3854 time: 0.060206
+L719~gs.compute.log.75.15-09-2019_01:02 PM 82375 INFO gs.compute.manager [ req-j1yt-0n37-nji3-xkf8 ] [ instance: 5u3f-nac86-2clbx-ed9k ] Takes 6665 seconds to deallocate network for instance
+L720~gs.api.compute.log.61.11-09-2019_09:15 AM 50675 INFO gs.api.openstack.compute.wsgi [ req-amlkt-l8ejk-cn6d-l89bg ] [ instance: x52i0-2clbx-4nbsil ] VM Paused (Lifecycle Event)
+L721~gs.api.log.81_2019-09-04_03:05:00 35640 INFO gs.resource.claims [ req-rhezju-7vse1y-9jx42-jk6v1l ] [ instance: xtqs-dwqbe1-8t9m ] Total memory limit not specified, defaulting to unlimited
+L722~gs.compute.log.53.Sep 08, 2019_15:13 47553 INFO gs.openstack.server [ req-43bt7y-n6g4-lem3a ] "GET /v2/2019-09-02 user_data.json HTTP/1.1" status: 201 len: 2580 time: 0.0175018
+L723~gs.api.log.81_Sep 15, 2019_10:12:00 56146 INFO gs.openstack.server [ req-r1qyx-voa1-uh29c ] "POST /v2/qpxisj6hw4v9onu02kgly17z/servers/details HTTP/1.1" status: 200 len: 211 time: 0.3738374
+L724~gs.compute.log.43.07-09-2019_10:51 AM 6371 INFO gs.api.openapi.compute.wsgi [ req-r36js-1khtw-bid2-op4ryu ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 4225 time: 0.0694069
+L725~gs.compute.log.65.06-09-2019_09:15 46419 INFO gs.openstack.wsgi.server [ req-2x0buc-b5cn-ws0mh-fysr ] Total usable vcpus: 65, total allocated vcpus: 14
+L726~gs.api.log.86_2019-09-02_22:08:00 8776 INFO gs.resource.resource_tracker [ req-659m7-51oy-gyb4k-iejl9-khe4zp ] [ instance: 4d8fin-cmhkf9-9y6vnd-hjnbup-enwlc ] vcpu limit not specified, default to unlimited
+L727~gs.api.log.19_Sep 01, 2019_12:30:00 27680 INFO gs.openstack.server [ req-53ijn-e7bt8n-8zl7-7blvs ] [ instance: 0n37-ovjcx-sy65tl-g195y-9fqgh ] VM limit not defined, defaulting to max
+L728~gs.compute.log.74.2019-09-10_16:41:00 74041 INFO gs.openapi.wsgi.server [ req-e8uxd-ax5skc-251u-sn08-6purm ] [ instance: 37c9b-n7w9u-e9f1-xkf8-q2b5x ] Took 2748 seconds to spawn the instance on the hypervisor
+L729~gs.api.compute.log.60.2019-09-05_06:26 PM 87005 INFO gs.openapi.server [ req-r4wq1s-voi178-8zl7-3npi ] [ instance: rvabzf-y8zx-ed9k-3fmy ] VM Paused (Lifecycle Event)
+L730~gs.compute.log.62_2019-09-02_01:52:00 84587 INFO gs.openstack.wsgi.server [ req-xtqs-zwa26p-pkgfom-ntaj ] Creating event network-vif-plugged: for instance
+L731~gs.compute.log.37.06-09-2019_04:06 AM 88958 INFO gs.openapi.server [ req-d7zuw6-1khtw-5ji8 ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 404 len: 4102 time: 0.7442744
+L732~gs.compute.log.20.09-09-2019_10:06 85247 INFO gs.compute.resource_tracker [ req-n80j6-uol7ef-bid2-xtqs-tn296 ] "GET /v2/2019-09-08 vendor_data.json HTTP/1.1" status: 201 len: 3547 time: 0.9412941
+L733~gs.api.log.64_Sep 12, 2019_16:42:00 85247 INFO gs.openapi.wsgi.server [ req-2x0buc-x2sl-2u03 ] "GET /v2/fa3k8jo7tgldpe9z/servers/details HTTP/1.1" status: 204 len: 5608 time: 0.320032
+L734~gs.api.log.17_12-09-2019_01:14 22598 INFO gs.compute.resource_tracker [ req-x52i0-2clbx-4nbsil ] HTTP exception thrown: No entry found for any event
+L735~gs.compute.log.84.2019-09-05_21:36:00 22981 INFO gs.compute.resource_tracker [ req-sngw-07c3-13a09 ] [ instance: 9a7mre-gyb4k-8913pu ] Takes 4214 seconds to build the instance
+L736~gs.api.compute.log.66.13-09-2019_11:40 AM 62875 INFO gs.compute.manager [ req-qmk5g9-7nxq-6od5mc ] [ instance: 6od5mc-e6ba-xd16 ] VM Started (Lifecycle Event)
+L737~gs.compute.log.16.2019-09-01_05:09 AM 62792 INFO gs.openstack.server [ req-ecovnl-34nme6-4d8fin-ylvs ] [ instance: q2b5x-0h4m-b38n-6arqu-ylvs ] Took 1457 seconds to destroy the instance on the hypervisor
+L738~gs.compute.log.89.10-09-2019_09:33:00 36606 INFO gs.compute.resource_tracker [ req-0v4wr-g0zcrh-owm2d7 ] [ instance: 9bc6-g195y-2clbx-dw0s-4yrq2 ] Takes 4226 seconds to build the instance
+L739~gs.api.log.95.2019-09-03_20:03 78680 INFO gs.api.openapi.compute.wsgi [ req-sqwbf0-fns8p-guc3-x52i0-m826 ] Base or swap file too young to remove: /var/lib/gs/instances/_base/y8zx-gyb4k-znquk
+L740~gs.api.log.99_11-09-2019_19:08 71313 INFO gs.resource.resource_tracker [ req-yafw5-x2sl-4cz1n-uy1al5-560z ] HTTP exception thrown: No instances found for any event
+L741~gs.api.compute.log.16.Sep 05, 2019_12:51 PM 33094 INFO gs.compute.resource_tracker [ req-r4wq1s-voi178-8zl7-3npi ] [ instance: n80j6-er9xy-e6ba-l89bg-8sa2 ] VM Resumed (Lifecycle Event)
+L742~gs.compute.log.76.12-09-2019_08:36 82317 INFO gs.openapi.server [ req-8vpj-vxb0tn-5zery ] Total usable vcpus: 76, total allocated vcpus: 1
+L743~gs.compute.log.10.04-09-2019_01:30 AM 92552 INFO gs.compute.resource_tracker [ req-krg2v9-er9xy-iz71 ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 1056 time: 0.2186219
+L744~gs.api.compute.log.19.07-09-2019_04:42 PM 55013 INFO gs.openstack.wsgi.server [ req-yafw5-50frl-6ot1r-b0u4v ] [ instance: 2clbx-yuikx0-wrcp-ubec-9jx42 ] VM Paused (Lifecycle Event)
+L745~gs.compute.log.15.07-09-2019_06:55 AM 73838 INFO gs.openstack.server [ req-hjnbup-pt2zo-n8jsx-nji3-4d8fin ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 404 len: 1658 time: 0.6055606
+L746~gs.compute.log.25.15-09-2019_12:07:00 29627 INFO gs.resource.manager [ req-jlb62-q2b5x-92h5-hvtw-jd74zt ] [ instance: rvabzf-y8zx-ed9k-3fmy ] Takes 3649 seconds to deallocate network for instance
+L747~gs.api.log.66.2019-09-09_08:07 AM 55102 INFO gs.api.openstack.compute.wsgi [ req-k9ewd-9q2us-nhwlbg ] Removing base or swap file: /var/lib/gs/instances/_base/2aque-tn296-yafw5-b5cn-43bt7y
+L748~gs.compute.log.50.05-09-2019_03:46 PM 13843 INFO gs.api.openapi.compute.wsgi [ req-2soxl-7gtvf9-lem3a ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 9804 time: 0.6415642
+L749~gs.compute.log.83.03-09-2019_10:50 59844 INFO gs.compute.resource_tracker [ req-k4n8-7vse1y-6arqu-4agu ] Total usable vgpus: 83, total allocated vgpus: 6
+L750~gs.api.log.34_10-09-2019_05:43 73174 INFO gs.resource.claims [ req-2aque-tn296-yafw5-b5cn-43bt7y ] HTTP exception thrown: No instances found for any event
+L751~gs.compute.log.32.09-09-2019_20:59 30522 INFO gs.compute.manager [ req-a32lk-6hb83-ptcl ] Total usable vgpus: 32, total allocated vgpus: 8
+L752~gs.compute.log.29.14-09-2019_16:34:00 20286 INFO gs.api.openapi.compute.wsgi [ req-nxlm1-jr7s2-moywpf-c3mgjr ] [ instance: 9tci3b-lxad0-wc27vl ] Took 5743 seconds to spawn the instance on the hypervisor
+L753~gs.api.log.68_Sep 05, 2019_03:38:00 7197 INFO gs.compute.manager [ req-7dxu2-vwypum-wbsqd-uab0iz-659m7 ] [ instance: d7zuw6-uh29c-54er ] vcpu limit not specified, default to unlimited
+L754~gs.api.log.38_09-09-2019_18:16 26351 INFO gs.compute.resource_tracker [ req-659m7-pt2zo-eqb6yn ] HTTP exception thrown: No entry found for any event
+L755~gs.compute.log.45.05-09-2019_12:29 AM 77693 INFO gs.resource.claims [ req-4uz8-z7ugl6-9a7mre-ndrl ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 5749 time: 0.9879988
+L756~gs.compute.log.31.13-09-2019_23:18:00 71749 INFO gs.openstack.server [ req-2bi3-51oy-86olmf-6arqu ] [ instance: h0m2-ptcl-63u9fq ] Took 3930 seconds to destroy the instance on the hypervisor
+L757~gs.api.log.23.14-09-2019_02:17 88902 INFO gs.compute.manager [ req-h0m2-ptcl-63u9fq ] Removing base or swap file: /var/lib/gs/instances/_base/12hy-du3mf-wbsqd-m826
+L758~gs.compute.log.55_2019-09-14_12:30:00 14666 INFO gs.openapi.server [ req-y9a5i-l89bg-u50a ] Creating event network-vif-plugged: for instance
+L759~gs.compute.log.99.2019-09-02_22:08:00 16884 INFO gs.resource.manager [ req-dw0s-itcrv8-x9cjd-gzm5sd ] [ instance: o20nek-lx5g-9bc6 ] Takes 5585 seconds to deallocate network for instance
+L760~gs.compute.log.52.Sep 09, 2019_18:41 91844 INFO gs.resource.resource_tracker [ req-dr2nm-n7w9u-7gtvf9-vhgtcd-2i1w ] "GET /v2/2019-09-15 vendor_data.json HTTP/1.1" status: 404 len: 5682 time: 0.1105111
+L761~gs.compute.log.77_2019-09-01_01:29:00 80673 INFO gs.openstack.server [ req-cnrhos-05jdm-wxf6-564sz-cb8v ] Creating event network-vif-plugged: for instance
+L762~gs.compute.log.39_2019-09-09_23:39:00 84220 INFO gs.resource.resource_tracker [ req-xtqs-dwqbe1-8t9m ] Creating event network-vif-plugged: for instance
+L763~gs.api.log.34.Sep 02, 2019_14:23 84283 INFO gs.openstack.server [ req-nks2gm-pg4e-9abg ] Base or swap file too young to remove: /var/lib/gs/instances/_base/r60qt4-jr7s2-uol7ef-29jnpm
+L764~gs.api.log.63.2019-09-12_12:29 PM 65552 INFO gs.openstack.server [ req-0fpkx-6purm-vpog-enwlc-a32lk ] [ instance: 8sa2-lf8pr1-2soxl-9top1-az74cj ] Instance Destroyed Successfully
+L765~gs.api.log.52.Sep 12, 2019_01:49:00 87816 INFO gs.api.openapi.compute.wsgi [ req-jd74zt-o74f-a5ug0-8zl7-9ifn ] Removing base or swap file: /var/lib/gs/instances/_base/krg2v9-er9xy-iz71
+L766~gs.compute.log.32.10-09-2019_10:51 AM 63534 INFO gs.openstack.server [ req-tfzd-xtqs-9abg-y9a5i ] [ instance: i4k31-vleiy-voa1 ] Takes 2661 seconds to build the instance
+L767~gs.compute.log.34_2019-09-12_06:01:00 33118 INFO gs.compute.manager [ req-0x7vr-vxb0tn-rsjok9-cb8v-gm59z ] Creating event network-vif-plugged: for instance
+L768~gs.api.log.54_12-09-2019_02:47 59391 INFO gs.resource.resource_tracker [ req-d7bus-cn6d-6g4iw0-1yaqrz ] HTTP exception thrown: No entry found for any event
+L769~gs.compute.log.73.14-09-2019_04:20 25880 INFO gs.api.openstack.compute.wsgi [ req-57sy1o-nv8jct-bql5g-lx5g-6fcpz3 ] Total usable vcpus: 73, total allocated vcpus: 5
+L770~gs.compute.log.92_2019-09-05_01:22:00 37387 INFO gs.resource.claims [ req-hfujap-voa1-cnklvu ] Creating event network-vif-plugged: for instance
+L771~gs.api.log.79.2019-09-02_08:47 PM 45214 INFO gs.compute.manager [ req-fns8p-kzunes-8t26-6hb83-9ifn ] [ instance: kh485z-54er-guc3-joh69-3q0vo ] Instance spawned correctly
+L772~gs.compute.log.50.11-09-2019_14:58 67198 INFO gs.resource.claims [ req-vla0s-n80j6-072ft-be2u-hx5on ] Total usable vcpus: 50, total allocated vcpus: 10
+L773~gs.api.log.77.2019-09-02_12:01 PM 56773 INFO gs.openstack.server [ req-3qadsw-cn6d-r1qyx-9q2us-ej4rb ] Removing base or swap file: /var/lib/gs/instances/_base/wxf6-vbk5lj-4v2d
+L774~gs.api.compute.log.96.04-09-2019_04:48 PM 13994 INFO gs.api.openapi.compute.wsgi [ req-sngw-28du-nbd8-rj0zcy-ba1v ] [ instance: h0kd-o74f-vla0s-3g0j6-7vse1y ] VM Resumed (Lifecycle Event)
+L775~gs.api.log.53.Sep 05, 2019_17:38 7527 INFO gs.resource.manager [ req-guc3-cm93ef-hjwo27 ] Unknown base file: /var/lib/gs/instances/_base/95ewzi-nji3-9q2us-q2b5x-7zyp9
+L776~gs.compute.log.61.03-09-2019_06:13 47299 INFO gs.openstack.wsgi.server [ req-8ohnb-sn08-c5n1vy ] Total usable memory: 61GB, total allocated memory: 9GB
+L777~gs.api.log.67_Sep 02, 2019_01:57:00 87005 INFO gs.openstack.server [ req-r60qt4-jr7s2-uol7ef-29jnpm ] [ instance: kixja-glde-1ygsj-x0rpa-pn4q2 ] Total disk upper-limit not defined, defaulting to unlimited
+L778~gs.api.log.62.2019-09-09_16:38:00 89751 INFO gs.resource.manager [ req-9a7mre-gyb4k-8913pu ] Removing base or swap file: /var/lib/gs/instances/_base/oi5g-fysr-ygqh9-kz6vg-kd5eu
+L779~gs.api.log.77.02-09-2019_21:56 10452 INFO gs.compute.manager [ req-2g7o1-9fqgh-50frl ] Deleting instance files /var/lib/gs/instances/2g7o1-9fqgh-50frl
+L780~gs.api.log.13_15-09-2019_22:17 48410 INFO gs.resource.claims [ req-37c9b-n7w9u-e9f1-xkf8-q2b5x ] HTTP exception thrown: No entry found for any event
+L781~gs.api.compute.log.93.2019-09-08_07:20 AM 56426 INFO gs.resource.claims [ req-fcvp-2m85w-bdsu2p-voi178 ] [ instance: xtqs-dwqbe1-8t9m ] VM Stopped (Lifecycle Event)
+L782~gs.compute.log.29.11-09-2019_14:08 11496 INFO gs.openapi.server [ req-jlb62-8vpj-a8eyko-znf6p1 ] Total usable vcpus: 29, total allocated vcpus: 6
+L783~gs.api.log.96.Sep 04, 2019_02:17 45688 INFO gs.resource.resource_tracker [ req-fcvp-2m85w-bdsu2p-voi178 ] Deleting instance files /var/lib/gs/instances/fcvp-2m85w-bdsu2p-voi178
+L784~gs.compute.log.79.07-09-2019_01:17 56014 INFO gs.api.openstack.compute.wsgi [ req-p2860-6od5mc-easb2 ] Total usable vgpus: 79, total allocated vgpus: 4
+L785~gs.api.log.86_Sep 15, 2019_00:24:00 77693 INFO gs.openstack.wsgi.server [ req-o20nek-lx5g-9bc6 ] "DELETE /v2/j3b94ye7q1rlz56tpdn20scfhkaxmogw/servers/details HTTP/1.1" status: 200 len: 7880 time: 0.5064506
+L786~gs.api.compute.log.59.Sep 07, 2019_11:04 PM 54646 INFO gs.compute.manager [ req-659m7-51oy-gyb4k-iejl9-khe4zp ] [ instance: ylvs-kh485z-54er ] VM Resumed (Lifecycle Event)
+L787~gs.api.log.67_Sep 06, 2019_10:53:00 55373 INFO gs.compute.resource_tracker [ req-n6g4-1yaqrz-cgksh2-zrbjc8-tn296 ] "GET /v2/idq1lkumer09oxcyt63g4wfh/servers/details HTTP/1.1" status: 202 len: 3601 time: 0.7453745
+L788~gs.compute.log.36_2019-09-08_05:11:00 23960 INFO gs.openstack.wsgi.server [ req-qvrlz-kqijyd-easb2-l89bg-460fp ] Creating event network-vif-plugged: for instance
+L789~gs.api.log.37.13-09-2019_16:24 59342 INFO gs.openstack.wsgi.server [ req-i6qn3-7aqk-snx5kr-50frl-8v3qyr ] Deleting instance files /var/lib/gs/instances/i6qn3-7aqk-snx5kr-50frl-8v3qyr
+L790~gs.api.log.87_Sep 10, 2019_00:05:00 44115 INFO gs.compute.manager [ req-amlkt-l8ejk-cn6d-l89bg ] "GET /v2/b9whjcf0aq2r6ngzveyu47t3p81klxsm/servers/details HTTP/1.1" status: 202 len: 1921 time: 0.4063406
+L791~gs.compute.log.35.13-09-2019_11:24 AM 71150 INFO gs.compute.manager [ req-9fqgh-6g9t-xdt1u-5zws ] [ instance: rpa9o-7jmh-6g4iw0-myq6t-x9cjd ] Takes 9438 seconds to deallocate network for instance
+L792~gs.compute.log.44.01-09-2019_20:47 90218 INFO gs.compute.manager [ req-2pz8-ansf0b-1khtw-za7m ] "GET /v2/2019-09-12 user_data.json HTTP/1.1" status: 404 len: 6234 time: 0.6070607
+L793~gs.api.log.26_2019-09-12_16:34:00 18298 INFO gs.openstack.wsgi.server [ req-j1yt-0n37-nji3-xkf8 ] [ instance: kixja-glde-1ygsj-x0rpa-pn4q2 ] Total disk upper-limit not defined, defaulting to unlimited
+L794~gs.api.log.12_14-09-2019_12:46 70051 INFO gs.api.openapi.compute.wsgi [ req-4uz8-ubec-rytxe8-8v3qyr ] HTTP exception thrown: No instances found for any event
+L795~gs.api.compute.log.13.2019-09-11_01:10 PM 62498 INFO gs.resource.claims [ req-hfujap-2pz8-lctxos-nbd8 ] [ instance: jlb62-8vpj-a8eyko-znf6p1 ] VM Started (Lifecycle Event)
+L796~gs.compute.log.36.13-09-2019_04:41 71668 INFO gs.openapi.server [ req-q2kdp-0x7vr-igbe5 ] Total usable vcpus: 36, total allocated vcpus: 5
+L797~gs.compute.log.60.07-09-2019_07:43 AM 91728 INFO gs.openapi.server [ req-h0kd-o74f-vla0s-3g0j6-7vse1y ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 6450 time: 0.3290329
+L798~gs.api.log.22_Sep 09, 2019_13:28:00 79872 INFO gs.resource.resource_tracker [ req-2pz8-ansf0b-1khtw-za7m ] "POST /v2/lhsyavj4ef6d037r/servers/details HTTP/1.1" status: 202 len: 5278 time: 0.6718672
+L799~gs.api.compute.log.34.05-09-2019_07:10 AM 5881 INFO gs.openstack.wsgi.server [ req-ved5la-st19-nac86 ] [ instance: lem3a-rhezju-igbe5-ioxmw ] VM Paused (Lifecycle Event)
+L800~gs.api.log.80.2019-09-02_20:59 79424 INFO gs.api.openstack.compute.wsgi [ req-7blvs-1a54-r4wq1s-kw0tiv-mn76 ] Removing base or swap file: /var/lib/gs/instances/_base/gmw3-8aqge-joh69-zmogv
+L801~gs.compute.log.59_2019-09-10_23:51:00 5930 INFO gs.api.openapi.compute.wsgi [ req-bql5g-1wpskj-er9xy-lf8pr1 ] Creating event network-vif-plugged: for instance
+L802~gs.compute.log.73.02-09-2019_16:27 78318 INFO gs.api.openapi.compute.wsgi [ req-v3fcs-1eq4-10wn-vxb0tn ] "GET /v2/2019-09-10 user_data.json HTTP/1.1" status: 201 len: 3044 time: 0.1782178
+L803~gs.compute.log.45.04-09-2019_09:12 5930 INFO gs.openapi.server [ req-0v4wr-kd1q-8sa2 ] Total usable vgpus: 45, total allocated vgpus: 7
+L804~gs.api.log.64.Sep 04, 2019_23:07 76888 INFO gs.compute.manager [ req-guc3-uol7ef-wrcp-64ugji-nji3 ] Active base files: /var/lib/gs/instances/_base/guc3-uol7ef-wrcp-64ugji-nji3
+L805~gs.compute.log.32.10-09-2019_12:23 28186 INFO gs.openstack.server [ req-5bkrt-2x0buc-fb9lk-yuikx0-34nme6 ] "GET /v2/2019-09-01 user_data.json HTTP/1.1" status: 201 len: 2785 time: 0.9793979
+L806~gs.compute.log.38.14-09-2019_10:01 13649 INFO gs.resource.manager [ req-86olmf-o9uw-hkjo-bid2 ]
+L807~gs.compute.log.16.2019-09-08_22:21:00 59198 INFO gs.resource.claims [ req-ecovnl-cnklvu-h9pg-ntaj-ioxmw ] [ instance: 9tci3b-7kwbx-rq1a ] Takes 3277 seconds to deallocate network for instance
+L808~gs.api.log.46_Sep 06, 2019_16:33:00 52058 INFO gs.openapi.wsgi.server [ req-6hb83-mn76-i6qn3-cgksh2-1ygsj ] [ instance: n80j6-er9xy-e6ba-l89bg-8sa2 ] vcpu limit not specified, default to unlimited
+L809~gs.compute.log.91.03-09-2019_06:09 PM 50811 INFO gs.resource.manager [ req-5u3f-nac86-2clbx-ed9k ] [ instance: 2i1w-ay2ojv-h0m2-95ewzi ] Takes 5474 seconds to deallocate network for instance
+L810~gs.api.log.38_Sep 03, 2019_01:13:00 6565 INFO gs.compute.resource_tracker [ req-3oh07-iz71-ufwp ] "DELETE /v2/4jbp1h8vsdiwqytfa3lo5nz297cxekmg/servers/details HTTP/1.1" status: 202 len: 8873 time: 0.9060906
+L811~gs.compute.log.27.05-09-2019_06:48 47743 INFO gs.api.openapi.compute.wsgi [ req-cb8v-vleiy-za7m-7zyp9-t5uyn ] "GET /v2/2019-09-11 vendor_data.json HTTP/1.1" status: 404 len: 9168 time: 0.1490149
+L812~gs.api.log.45.02-09-2019_11:49 33118 INFO gs.api.openstack.compute.wsgi [ req-en3g-6do12x-vhgtcd-dw0s-5v7pe0 ] Active base files: /var/lib/gs/instances/_base/en3g-6do12x-vhgtcd-dw0s-5v7pe0
+L813~gs.api.compute.log.53.2019-09-07_10:38 PM 22710 INFO gs.api.openstack.compute.wsgi [ req-l0ieb-7nxq-9y6vnd ] [ instance: kyum-z210-cnklvu-o20nek-yn78p ] VM Resumed (Lifecycle Event)
+L814~gs.compute.log.62_2019-09-11_18:39:00 60707 INFO gs.api.openapi.compute.wsgi [ req-4t85u-qo8v0u-ubec-v3fcs-myq6t ] Creating event network-vif-plugged: for instance
+L815~gs.api.log.68_Sep 07, 2019_22:02:00 72621 INFO gs.resource.manager [ req-z7ugl6-du3mf-7blvs-2m85w ] [ instance: 0eyq-ws0mh-rytxe8-du3mf ] Total memory limit not specified, defaulting to unlimited
+L816~gs.compute.log.47.05-09-2019_03:04 AM 51721 INFO gs.compute.resource_tracker [ req-y5tj-ufwp-34nme6-6do12x ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 666 time: 0.8433843
+L817~gs.api.log.82.15-09-2019_09:39 52499 INFO gs.openapi.wsgi.server [ req-u9qae-hjnbup-ogc53-s2ft-x0rpa ] Unknown base file: /var/lib/gs/instances/_base/l89bg-4phrn-lctxos-2m85w
+L818~gs.api.log.63_08-09-2019_11:53 38960 INFO gs.resource.resource_tracker [ req-e8uxd-4cz1n-92h5 ] HTTP exception thrown: No instances found for any event
+L819~gs.api.log.54.Sep 02, 2019_19:15:00 27794 INFO gs.compute.resource_tracker [ req-1zqaf-gux0-jvlt ] Base or swap file too young to remove: /var/lib/gs/instances/_base/i4k31-vleiy-voa1
+L820~gs.compute.log.84.09-09-2019_08:21 55809 INFO gs.openapi.wsgi.server [ req-07b8k3-9zi0wg-p5tb ] Total usable vcpus: 84, total allocated vcpus: 14
+L821~gs.api.log.55_Sep 07, 2019_10:17:00 78921 INFO gs.compute.resource_tracker [ req-6g9t-ydjr7v-0eyq-f1zgu ] "POST /v2/yw6k3ogjxf895iln/servers/details HTTP/1.1" status: 404 len: 5645 time: 0.9208921
+L822~gs.api.log.68.2019-09-08_06:49 AM 99921 INFO gs.resource.claims [ req-wud8m-ydjr7v-10wn ] Base or swap file too young to remove: /var/lib/gs/instances/_base/ylvs-kh485z-54er
+L823~gs.api.log.60_Sep 10, 2019_16:19:00 83237 INFO gs.api.openapi.compute.wsgi [ req-rq1a-vla0s-57sy1o ] "POST /v2/50doct6mzliq8y2hxf1punk7/servers/details HTTP/1.1" status: 204 len: 8353 time: 0.8526853
+L824~gs.api.log.39.Sep 04, 2019_23:41 67990 INFO gs.api.openapi.compute.wsgi [ req-n6g4-1yaqrz-cgksh2-zrbjc8-tn296 ] Removing base or swap file: /var/lib/gs/instances/_base/7dxu2-1khtw-4t85u
+L825~gs.api.log.16_05-09-2019_13:18 77931 INFO gs.api.openapi.compute.wsgi [ req-n6g4-1yaqrz-cgksh2-zrbjc8-tn296 ] HTTP exception thrown: No entry found for any event
+L826~gs.api.log.30.01-09-2019_00:23 50056 INFO gs.resource.resource_tracker [ req-pg4e-qvrlz-jvlt-eqb6yn-0x7vr ] Active base files: /var/lib/gs/instances/_base/pg4e-qvrlz-jvlt-eqb6yn-0x7vr
+L827~gs.api.log.81.Sep 07, 2019_21:27 78424 INFO gs.resource.claims [ req-37c9b-h0m2-h0kd-lf8pr1-ndrl ] Unknown base file: /var/lib/gs/instances/_base/p2860-6od5mc-easb2
+L828~gs.compute.log.97.2019-09-06_06:37:00 56038 INFO gs.resource.manager [ req-cm93ef-4yrq2-er9xy-4nbsil-gm59z ] [ instance: l89bg-4phrn-lctxos-2m85w ] Takes 6584 seconds to deallocate network for instance
+L829~gs.api.log.86_Sep 10, 2019_02:29:00 31129 INFO gs.api.openapi.compute.wsgi [ req-wud8m-ydjr7v-10wn ] "POST /v2/h2lmdn643arxjfu8/servers/details HTTP/1.1" status: 404 len: 2816 time: 0.6785679
+L830~gs.compute.log.40.10-09-2019_15:02 25880 INFO gs.api.openapi.compute.wsgi [ req-r60qt4-5u3f-x2rl ] "GET /v2/2019-09-03 vendor_data.json HTTP/1.1" status: 404 len: 9543 time: 0.880388
+L831~gs.compute.log.65.Sep 03, 2019_02:07 4392 INFO gs.resource.resource_tracker [ req-8qoj-ynj5-e6ba ] "GET /v2/2019-09-01 vendor_data.json HTTP/1.1" status: 201 len: 4909 time: 0.0905091
+L832~gs.compute.log.67.06-09-2019_19:27:00 90359 INFO gs.openstack.wsgi.server [ req-uh29c-b5cn-j602eg-6fcpz3 ] [ instance: dw0s-zrbjc8-rb23-s5mc2-jd74zt ] Took 4805 seconds to spawn the instance on the hypervisor
+L833~gs.api.log.96_2019-09-14_09:33:00 32755 INFO gs.resource.manager [ req-n3zb-lcj1d-epdv4-t8i3f ] [ instance: 86olmf-o9uw-hkjo-bid2 ] Total memory limit not specified, defaulting to unlimited
+L834~gs.api.log.55_Sep 06, 2019_21:25:00 67556 INFO gs.compute.manager [ req-dw0s-itcrv8-x9cjd-gzm5sd ] "GET /v2/x5ame71d8poyb06w9lrtj3fq/servers/details HTTP/1.1" status: 200 len: 2779 time: 0.4347435
+L835~gs.compute.log.34.02-09-2019_02:18:00 78549 INFO gs.api.openapi.compute.wsgi [ req-r60qt4-5u3f-x2rl ] [ instance: wzp4ad-a9ix-8cqjwp-f1zgu ] Took 4107 seconds to spawn the instance on the hypervisor
+L836~gs.compute.log.51.03-09-2019_08:17 AM 86798 INFO gs.openstack.server [ req-vleiy-st19-07b8k3-h4bjn-r60qt4 ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 7563 time: 0.4410441
+L837~gs.api.log.92_Sep 07, 2019_15:18:00 22535 INFO gs.openstack.server [ req-0v4wr-37c9b-2pz8 ] "GET /v2/d956nf14qpo3vbtkwyr7xzug0i2hj8as/servers/details HTTP/1.1" status: 204 len: 4107 time: 0.8050805
+L838~gs.api.log.80_Sep 13, 2019_00:59:00 6303 INFO gs.openstack.server [ req-0fpkx-y9a5i-jlb62-8ohnb-9i57s ] "GET /v2/q4danv35mgico6wf/servers/details HTTP/1.1" status: 200 len: 6991 time: 0.8065807
+L839~gs.compute.log.26.2019-09-09_01:00:00 81009 INFO gs.resource.claims [ req-2ox7h9-b5cn-3npi-v7klnb-vla0s ] [ instance: en3g-n7w9u-9y6vnd ] Took 8138 seconds to destroy the instance on the hypervisor
+L840~gs.api.compute.log.19.Sep 11, 2019_08:42 AM 52362 INFO gs.openstack.server [ req-dr2nm-n7w9u-7gtvf9-vhgtcd-2i1w ] [ instance: h9pg-9jx42-2aque-5zery-moywpf ] VM Started (Lifecycle Event)
+L841~gs.api.compute.log.10.2019-09-13_07:43 AM 76473 INFO gs.api.openstack.compute.wsgi [ req-mn76-6ot1r-4d8fin-hfujap ] [ instance: 3v59y-k9ewd-9fqgh-1d4h3-bztu59 ] VM Started (Lifecycle Event)
+L842~gs.api.compute.log.45.2019-09-05_03:04 AM 58610 INFO gs.openapi.server [ req-51oy-fw0lc-j602eg-jlb62-rpa9o ] [ instance: 7blvs-1a54-r4wq1s-kw0tiv-mn76 ] VM Stopped (Lifecycle Event)
+L843~gs.compute.log.66.14-09-2019_12:15 33510 INFO gs.openstack.wsgi.server [ req-ydjr7v-c3mgjr-u9qae ] "GET /v2/2019-09-03 meta_data.json HTTP/1.1" status: 201 len: 6679 time: 0.6075608
+L844~gs.api.log.37.2019-09-01_01:33 PM 40529 INFO gs.openstack.server [ req-rpa9o-92h5-gd4ks ] [ instance: dw0s-tnxuz-hg2m1 ] Instance spawned correctly
+L845~gs.api.log.52.02-09-2019_16:34 40509 INFO gs.api.openapi.compute.wsgi [ req-3qadsw-cn6d-r1qyx-9q2us-ej4rb ] Active base files: /var/lib/gs/instances/_base/3qadsw-cn6d-r1qyx-9q2us-ej4rb
+L846~gs.api.compute.log.14.09-09-2019_01:10 PM 30758 INFO gs.compute.resource_tracker [ req-n80j6-59rz-wzp4ad-9q2us ] [ instance: d7zuw6-uh29c-54er ] VM Resumed (Lifecycle Event)
+L847~gs.api.log.74.2019-09-15_08:23 PM 35807 INFO gs.compute.manager [ req-9tci3b-vz2nx-vhgtcd ] [ instance: rq1a-vla0s-57sy1o ] Instance Destroyed Successfully
+L848~gs.api.log.72_02-09-2019_05:06 2534 INFO gs.resource.resource_tracker [ req-d7bus-l8i6v-voi178-a7s4 ] HTTP exception thrown: No instances found for any event
+L849~gs.api.log.58_Sep 13, 2019_23:30:00 31981 INFO gs.api.openstack.compute.wsgi [ req-z210-n80j6-1ygsj-cmhkf9-s2ft ] "POST /v2/o8j1hbdrceln23q9/servers/details HTTP/1.1" status: 404 len: 2396 time: 0.5772577
+L850~gs.api.log.86_2019-09-08_06:16:00 44656 INFO gs.api.openapi.compute.wsgi [ req-9top1-6arqu-wst3yd-w4q2-ws0mh ] [ instance: 460fp-1d4h3-rb23-jba2 ] Total memory limit not specified, defaulting to unlimited
+L851~gs.compute.log.98.Sep 14, 2019_12:47 47845 INFO gs.compute.manager [ req-ecovnl-cnklvu-h9pg-ntaj-ioxmw ] "GET /v2/2019-09-09 meta_data.json HTTP/1.1" status: 404 len: 1839 time: 0.9020902
+L852~gs.api.compute.log.43.2019-09-05_01:15 AM 86752 INFO gs.openapi.wsgi.server [ req-8zl7-gkya-8vpj-j602eg ] [ instance: 6g9t-ydjr7v-0eyq-f1zgu ] VM Paused (Lifecycle Event)
+L853~gs.api.log.21_Sep 03, 2019_16:04:00 78680 INFO gs.openapi.wsgi.server [ req-wzp4ad-mqz98h-lem3a-unh6 ] "DELETE /v2/569yk3jbsmpc1ui0n2f8v7xagwl4rqez/servers/details HTTP/1.1" status: 202 len: 6957 time: 0.3906391
+L854~gs.api.log.20.Sep 04, 2019_16:11 79927 INFO gs.resource.resource_tracker [ req-a0um-ugkq-6x7z5 ] Active base files: /var/lib/gs/instances/_base/a0um-ugkq-6x7z5
+L855~gs.api.log.24.2019-09-09_06:24 AM 58605 INFO gs.openapi.wsgi.server [ req-ved5la-nhwlbg-o9uw ] [ instance: bid2-8aqge-l8i6v-0v4wr ] Instance Destroyed Successfully
+L856~gs.compute.log.41.06-09-2019_07:31 47299 INFO gs.openapi.server [ req-vleiy-st19-07b8k3-h4bjn-r60qt4 ] "GET /v2/2019-09-08 vendor_data.json HTTP/1.1" status: 201 len: 7345 time: 0.380038
+L857~gs.api.log.99_01-09-2019_12:41 72009 INFO gs.resource.claims [ req-z210-cb8v-dr2nm-rpa9o-10wn ] HTTP exception thrown: No entry found for any event
+L858~gs.compute.log.91.Sep 07, 2019_12:07 15892 INFO gs.resource.manager [ req-uh29c-b5cn-j602eg-6fcpz3 ] "GET /v2/2019-09-12 user_data.json HTTP/1.1" status: 404 len: 7034 time: 0.9070907
+L859~gs.compute.log.90.Sep 12, 2019_15:18 10158 INFO gs.openstack.server [ req-e8p6fh-57sy1o-4agu ] "GET /v2/2019-09-09 vendor_data.json HTTP/1.1" status: 404 len: 3925 time: 0.0548055
+L860~gs.api.log.60_2019-09-07_01:42:00 7795 INFO gs.openapi.wsgi.server [ req-bztu59-5zws-njros0-07b8k3 ] [ instance: i805py-yuikx0-1apj2-9fqgh-hwy80 ] Total disk upper-limit not defined, defaulting to unlimited
+L861~gs.api.log.63.Sep 04, 2019_20:27:00 61211 INFO gs.openstack.wsgi.server [ req-9y6vnd-7vse1y-8qoj-uxnq ] Removing base or swap file: /var/lib/gs/instances/_base/b5cn-ufxz-07b8k3-07c3
+L862~gs.compute.log.10.09-09-2019_11:26 AM 57889 INFO gs.openapi.wsgi.server [ req-lem3a-xd16-2bi3-7nxq-rhezju ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 1046 time: 0.9672967
+L863~gs.api.log.32_03-09-2019_01:01 89407 INFO gs.openstack.wsgi.server [ req-t8i3f-0h4m-3fmy-kw0tiv ] HTTP exception thrown: No instances found for any event
+L864~gs.compute.log.21.Sep 02, 2019_13:39 49011 INFO gs.compute.manager [ req-jd74zt-43bt7y-m23xr-kd5eu ] "GET /v2/2019-09-13 vendor_data.json HTTP/1.1" status: 201 len: 1170 time: 0.4152415
+L865~gs.api.log.31_Sep 04, 2019_13:50:00 82992 INFO gs.resource.claims [ req-sngw-5bkrt-3g0j6 ] "DELETE /v2/aj2vruwmgxt5ni0df6ozc8y7q9sh3be1/servers/details HTTP/1.1" status: 202 len: 7888 time: 0.4873487
+L866~gs.compute.log.76.06-09-2019_12:23 PM 97834 INFO gs.api.openapi.compute.wsgi [ req-du3mf-vyrl-rq1a ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 3486 time: 0.39954
+L867~gs.compute.log.29.Sep 03, 2019_11:36 32327 INFO gs.resource.claims [ req-glde-1apj2-8vpj ] "GET /v2/2019-09-13 meta_data.json HTTP/1.1" status: 201 len: 2118 time: 0.9031903
+L868~gs.api.log.86_2019-09-08_15:45:00 11496 INFO gs.compute.resource_tracker [ req-xmgj-1zqaf-6g9t ] [ instance: 2soxl-7gtvf9-lem3a ] Total disk upper-limit not defined, defaulting to unlimited
+L869~gs.api.log.71_2019-09-08_17:46:00 55900 INFO gs.api.openapi.compute.wsgi [ req-wrcp-8aqge-z7ugl6 ] [ instance: 43bt7y-n6g4-lem3a ] Total disk upper-limit not defined, defaulting to unlimited
+L870~gs.api.compute.log.14.2019-09-09_11:12 AM 37393 INFO gs.openapi.server [ req-ndrl-vxb0tn-8cqjwp-wxf6 ] [ instance: 37c9b-hxfm7-43bt7y-p5tb-ovjcx ] VM Started (Lifecycle Event)
+L871~gs.api.compute.log.38.Sep 03, 2019_03:07 PM 47641 INFO gs.resource.manager [ req-x2rl-7vse1y-lxad0 ] [ instance: a32lk-6hb83-ptcl ] VM Paused (Lifecycle Event)
+L872~gs.compute.log.99.09-09-2019_03:48 31129 INFO gs.compute.manager [ req-57sy1o-8913pu-tfzd ] "GET /v2/2019-09-10 vendor_data.json HTTP/1.1" status: 201 len: 9038 time: 0.6785679
+L873~gs.compute.log.19.06-09-2019_02:27 AM 89050 INFO gs.openapi.wsgi.server [ req-jfinu-5v7pe0-why1-9y6vnd ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 3131 time: 0.6791679
+L874~gs.api.log.83_11-09-2019_11:47 5151 INFO gs.resource.resource_tracker [ req-lx5g-f1zgu-4agu-u5qri ] HTTP exception thrown: No instances found for any event
+L875~gs.api.log.63_09-09-2019_18:16 71573 INFO gs.openapi.server [ req-wbsqd-1m82u-znquk-34nme6-n80j6 ] HTTP exception thrown: No entry found for any event
+L876~gs.compute.log.29.2019-09-11_03:31 PM 52377 INFO gs.openapi.wsgi.server [ req-wxf6-vbk5lj-4v2d ] [ instance: mn76-6ot1r-4d8fin-hfujap ] Takes 5403 seconds to deallocate network for instance
+L877~gs.compute.log.87.09-09-2019_01:17 87105 INFO gs.compute.resource_tracker [ req-n7w9u-lp7ie4-6od5mc-8vpj ] Total usable vcpus: 87, total allocated vcpus: 2
+L878~gs.api.log.58_02-09-2019_10:48 58605 INFO gs.resource.manager [ req-p2860-1gbn-nac86 ] HTTP exception thrown: No entry found for any event
+L879~gs.api.log.74.04-09-2019_05:38 PM 61669 INFO gs.api.openapi.compute.wsgi [ req-fcvp-2m85w-bdsu2p-voi178 ] Base or swap file too young to remove: /var/lib/gs/instances/_base/az74cj-igbe5-yn78p
+L880~gs.api.log.24_2019-09-02_12:58:00 43789 INFO gs.openapi.server [ req-072ft-n80j6-3q0vo-258dx ] [ instance: r36js-1khtw-bid2-op4ryu ] VM limit not defined, defaulting to max
+L881~gs.api.log.50_Sep 09, 2019_18:02:00 57344 INFO gs.resource.manager [ req-cm93ef-voi178-m23xr-cn6d-kixja ] "DELETE /v2/rdqe570ipmowflbu/servers/details HTTP/1.1" status: 200 len: 8403 time: 0.3542354
+L882~gs.api.log.53_Sep 04, 2019_00:19:00 22981 INFO gs.resource.resource_tracker [ req-0v4wr-kd1q-8sa2 ] "GET /v2/h8v7xz3l4dbeuj21/servers/details HTTP/1.1" status: 202 len: 1328 time: 0.6945695
+L883~gs.api.log.78.Sep 02, 2019_02:32 94623 INFO gs.api.openapi.compute.wsgi [ req-m826-29jnpm-tnxuz-6od5mc-gqds ] Unknown base file: /var/lib/gs/instances/_base/q2b5x-0h4m-b38n-6arqu-ylvs
+L884~gs.api.log.33.13-09-2019_10:48 5979 INFO gs.resource.claims [ req-uxnq-qvrlz-4dsm6h-251u ] Unknown base file: /var/lib/gs/instances/_base/cb4ngr-cnklvu-5ji8-ktiqb-4nbsil
+L885~gs.api.log.23.2019-09-10_12:03 AM 18724 INFO gs.openapi.server [ req-gz31o-y4lgs-1ygsj ] [ instance: kw0tiv-53ijn-y5tj-28du-h23ew ] swap instance creation successfully
+L886~gs.api.compute.log.29.09-09-2019_08:56 PM 85719 INFO gs.openstack.wsgi.server [ req-d5fmv-4dsm6h-m51l ] [ instance: rb23-1k8xh-05jdm-nv1ui-fipw ] VM Resumed (Lifecycle Event)
+L887~gs.api.log.14.2019-09-03_11:26 AM 84061 INFO gs.resource.resource_tracker [ req-9bc6-a9ix-8mkw ] [ instance: 0e1x4b-07c3-vhgtcd ] swap instance creation successfully
+L888~gs.compute.log.77.13-09-2019_09:32 PM 73233 INFO gs.compute.resource_tracker [ req-7jmh-5l1ne-nji3 ] [ instance: xms9j-g0zcrh-kd5eu ] Took 6153 seconds to spawn the instance on the hypervisor
+L889~gs.compute.log.76.07-09-2019_01:58 AM 5534 INFO gs.resource.resource_tracker [ req-l89bg-f1zgu-sqwbf0-r60qt4-yafw5 ] [ instance: rq1a-vla0s-57sy1o ] Took 9569 seconds to spawn the instance on the hypervisor
+L890~gs.compute.log.71.03-09-2019_09:31 3670 INFO gs.compute.resource_tracker [ req-hfujap-564sz-a7s4-59rz-o74f ] Total usable vgpus: 71, total allocated vgpus: 8
+L891~gs.compute.log.34.2019-09-13_21:58:00 84565 INFO gs.openstack.wsgi.server [ req-d7zuw6-1khtw-5ji8 ] [ instance: u5qri-ovjcx-hxfm7-z210-l8ejk ] Took 3352 seconds to spawn the instance on the hypervisor
+L892~gs.api.log.60_04-09-2019_15:38 59844 INFO gs.openstack.wsgi.server [ req-eqb6yn-6czg50-xms9j-2x0buc ] HTTP exception thrown: No instances found for any event
+L893~gs.api.log.73.03-09-2019_16:33:00 13183 INFO gs.resource.resource_tracker [ req-lem3a-xd16-2bi3-7nxq-rhezju ] Removing base or swap file: /var/lib/gs/instances/_base/s2ft-p5ek-8cqjwp-8mkw-0fpkx
+L894~gs.api.log.17_2019-09-08_02:34:00 10452 INFO gs.resource.resource_tracker [ req-0x7vr-53ijn-b3yovi ] [ instance: glde-26ingz-0zrw5-1s9h6 ] VM limit not defined, defaulting to max
+L895~gs.api.log.26_Sep 04, 2019_09:17:00 37236 INFO gs.openapi.server [ req-8ohnb-sn08-c5n1vy ] [ instance: ylvs-kh485z-54er ] vcpu limit not specified, default to unlimited
+L896~gs.api.log.14.2019-09-12_18:33 16135 INFO gs.openapi.wsgi.server [ req-kyum-kd1q-xu6th ] Removing base or swap file: /var/lib/gs/instances/_base/d7bus-a32lk-lem3a-h23ew
+L897~gs.api.log.63.Sep 14, 2019_11:16 7795 INFO gs.openapi.server [ req-2pz8-251u-x9cjd-xkf8 ] Deleting instance files /var/lib/gs/instances/2pz8-251u-x9cjd-xkf8
+L898~gs.compute.log.40.08-09-2019_04:42 45953 INFO gs.openapi.wsgi.server [ req-n3zb-lcj1d-epdv4-t8i3f ] "GET /v2/2019-09-05 user_data.json HTTP/1.1" status: 201 len: 9686 time: 0.6986699
+L899~gs.compute.log.55.13-09-2019_06:21 AM 15514 INFO gs.resource.manager [ req-d7zuw6-1khtw-5ji8 ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 5114 time: 0.070107
+L900~gs.api.log.81_Sep 08, 2019_08:50:00 67958 INFO gs.api.openstack.compute.wsgi [ req-cm93ef-voi178-m23xr-cn6d-kixja ] "DELETE /v2/expd63razow0mnhuj5s8vikb/servers/details HTTP/1.1" status: 200 len: 4762 time: 0.5430543
+L901~gs.api.log.41_Sep 15, 2019_23:44:00 89560 INFO gs.openapi.wsgi.server [ req-d7bus-cn6d-6g4iw0-1yaqrz ] "DELETE /v2/4uv06nzehtksbrcqdl8x72wm13gajp5o/servers/details HTTP/1.1" status: 202 len: 8842 time: 0.3076308
+L902~gs.api.compute.log.58.Sep 01, 2019_04:13 AM 12240 INFO gs.resource.manager [ req-fns8p-vpog-4t85u ] [ instance: r60qt4-jr7s2-uol7ef-29jnpm ] VM Started (Lifecycle Event)
+L903~gs.compute.log.16.05-09-2019_07:52 PM 2163 INFO gs.openapi.wsgi.server [ req-l89bg-4phrn-lctxos-2m85w ] [ instance: 9tci3b-7kwbx-rq1a ] Takes 2865 seconds to deallocate network for instance
+L904~gs.api.log.10.2019-09-05_09:13 PM 71582 INFO gs.compute.resource_tracker [ req-o20nek-lx5g-9bc6 ] [ instance: ed9k-uol7ef-rj0zcy-gd4ks ] Instance Destroyed Successfully
+L905~gs.api.log.25.2019-09-15_05:14 PM 22771 INFO gs.openstack.server [ req-9y6vnd-hfujap-5v7pe0-ylvs ] [ instance: jlb62-8vpj-a8eyko-znf6p1 ] swap instance creation successfully
+L906~gs.api.log.22_01-09-2019_17:55 77456 INFO gs.compute.resource_tracker [ req-kyum-kd1q-xu6th ] HTTP exception thrown: No entry found for any event
+L907~gs.compute.log.83.2019-09-04_11:27:00 92955 INFO gs.api.openstack.compute.wsgi [ req-lx5g-f1zgu-4agu-u5qri ] [ instance: u9qae-hjnbup-ogc53-s2ft-x0rpa ] Took 5170 seconds to destroy the instance on the hypervisor
+L908~gs.api.log.18.08-09-2019_06:59 36149 INFO gs.compute.resource_tracker [ req-ylvs-kh485z-54er ] Removable base files: /var/lib/gs/instances/_base/l8ejk-mvdb8-uab0iz
+L909~gs.api.log.53_2019-09-10_01:57:00 19568 INFO gs.openapi.wsgi.server [ req-4fsdei-0e1x4b-hg2m1-wrcp-wc27vl ] [ instance: oi5g-fysr-ygqh9-kz6vg-kd5eu ] Total memory limit not specified, defaulting to unlimited
+L910~gs.api.log.54_Sep 03, 2019_08:39:00 34501 INFO gs.resource.manager [ req-2m85w-uh29c-voi178-v47k ] [ instance: 50frl-jd74zt-w4q2 ] Total memory limit not specified, defaulting to unlimited
+L911~gs.api.log.76.2019-09-06_01:58 PM 89872 INFO gs.openstack.wsgi.server [ req-7kwbx-bql5g-dr2nm ] [ instance: 07c3-h0kd-ubec-w4q2 ] swap instance creation successfully
+L912~gs.compute.log.12.2019-09-08_09:03:00 94589 INFO gs.openapi.wsgi.server [ req-n6g4-be2u-0n37-pt2zo-er9xy ] [ instance: gkya-a5ug0-xu6th ] Takes 6104 seconds to build the instance
+L913~gs.compute.log.87.05-09-2019_22:26:00 50770 INFO gs.compute.manager [ req-2x0buc-x2sl-2u03 ] [ instance: pt2zo-l6qj1-gmw3-uh29c ] Took 3766 seconds to spawn the instance on the hypervisor
+L914~gs.api.log.54.2019-09-09_02:14 AM 46303 INFO gs.resource.claims [ req-6nub-ydp4fa-l0ieb-d5fmv ] [ instance: yafw5-50frl-6ot1r-b0u4v ] swap instance creation successfully
+L915~gs.api.log.77_07-09-2019_13:04 52499 INFO gs.openstack.wsgi.server [ req-y5tj-ufwp-34nme6-6do12x ] HTTP exception thrown: No entry found for any event
+L916~gs.compute.log.63.02-09-2019_02:06 AM 18298 INFO gs.openstack.server [ req-zcg4a-znf6p1-zrbjc8-a0um-myq6t ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 8427 time: 0.229623
+L917~gs.compute.log.30.05-09-2019_18:59:00 86119 INFO gs.compute.manager [ req-x2rl-v3fcs-uab0iz-j1yt ] [ instance: l8i6v-63u9fq-ydjr7v ] Takes 466 seconds to build the instance
+L918~gs.api.compute.log.94.06-09-2019_02:13 AM 63066 INFO gs.openapi.server [ req-1aeb-hkjo-1fdm7 ] [ instance: 460fp-1d4h3-rb23-jba2 ] VM Started (Lifecycle Event)
+L919~gs.api.log.49.06-09-2019_06:43:00 38632 INFO gs.compute.manager [ req-amlkt-nbd8-gbdq0k-myq6t-i805py ] Base or swap file too young to remove: /var/lib/gs/instances/_base/nxlm1-4cz1n-uol7ef-ufxz-uxnq
+L920~gs.api.log.57_08-09-2019_20:22 86201 INFO gs.resource.manager [ req-7dxu2-1khtw-4t85u ] HTTP exception thrown: No instances found for any event
+L921~gs.compute.log.19.2019-09-06_06:15:00 70610 INFO gs.compute.manager [ req-dr2nm-a7s4-92zvgh ] [ instance: hjnbup-ntaj-a7s4-mzou-u9qae ] Took 6832 seconds to spawn the instance on the hypervisor
+L922~gs.compute.log.82.01-09-2019_03:43:00 56426 INFO gs.resource.resource_tracker [ req-t8i3f-0h4m-3fmy-kw0tiv ] [ instance: v3fcs-ahegn-0eyq ] Takes 6608 seconds to deallocate network for instance
+L923~gs.api.log.84.2019-09-06_12:14 AM 15917 INFO gs.resource.claims [ req-l8i6v-63u9fq-ydjr7v ] [ instance: e8uxd-4cz1n-92h5 ] swap instance creation successfully
+L924~gs.api.log.46.2019-09-09_14:54:00 85976 INFO gs.api.openapi.compute.wsgi [ req-nbd8-i805py-joh69-x9cjd-ty3lzi ] Removing base or swap file: /var/lib/gs/instances/_base/xu6th-rytxe8-voi178-d7zuw6
+L925~gs.api.log.36.15-09-2019_05:02 1431 INFO gs.compute.manager [ req-itcrv8-p2860-cnklvu ] Deleting instance files /var/lib/gs/instances/itcrv8-p2860-cnklvu
+L926~gs.compute.log.59.02-09-2019_02:45 PM 2534 INFO gs.resource.resource_tracker [ req-mzou-y9mjwk-khe4zp-e7bt8n ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 404 len: 8030 time: 0.8982898
+L927~gs.api.log.59.Sep 12, 2019_20:47 12782 INFO gs.api.openapi.compute.wsgi [ req-sxer-xmgj-p5tb ] Removing base or swap file: /var/lib/gs/instances/_base/ved5la-st19-nac86
+L928~gs.compute.log.50_2019-09-13_12:40:00 16884 INFO gs.resource.resource_tracker [ req-iz71-4cz1n-3q0vo-lem3a ] Creating event network-vif-plugged: for instance
+L929~gs.api.log.51_09-09-2019_14:57 47845 INFO gs.openapi.server [ req-rhezju-6hb83-7vse1y ] HTTP exception thrown: No instances found for any event
+L930~gs.compute.log.94.15-09-2019_12:10 99921 INFO gs.openstack.wsgi.server [ req-jd74zt-43bt7y-m23xr-kd5eu ] Total usable vcpus: 94, total allocated vcpus: 4
+L931~gs.api.log.51.2019-09-11_19:01 13731 INFO gs.compute.manager [ req-vz2nx-rj0zcy-lem3a-hg2m1-j6zsi ] Removing base or swap file: /var/lib/gs/instances/_base/pkgfom-nhwlbg-78jxq-p2860
+L932~gs.api.compute.log.21.15-09-2019_03:53 PM 73252 INFO gs.openstack.wsgi.server [ req-eu14n6-e7bt8n-j6zsi-jlb62 ] [ instance: 460fp-1d4h3-rb23-jba2 ] VM Resumed (Lifecycle Event)
+L933~gs.api.compute.log.37.2019-09-06_02:43 PM 81454 INFO gs.compute.manager [ req-rvabzf-y8zx-ed9k-3fmy ] [ instance: kh485z-r60qt4-myq6t-4uz8 ] VM Stopped (Lifecycle Event)
+L934~gs.api.log.20_08-09-2019_13:46 54977 INFO gs.openstack.wsgi.server [ req-vleiy-l8ejk-kz6vg ] HTTP exception thrown: No instances found for any event
+L935~gs.api.log.17_11-09-2019_02:02 97366 INFO gs.resource.manager [ req-2soxl-7gtvf9-lem3a ] HTTP exception thrown: No instances found for any event
+L936~gs.compute.log.28.2019-09-05_01:39:00 68810 INFO gs.resource.claims [ req-2x0buc-b5cn-ws0mh-fysr ] [ instance: ylvs-kh485z-54er ] Takes 3099 seconds to deallocate network for instance
+L937~gs.api.log.72_14-09-2019_10:22 22473 INFO gs.openstack.wsgi.server [ req-2pz8-251u-x9cjd-xkf8 ] HTTP exception thrown: No instances found for any event
+L938~gs.compute.log.66.01-09-2019_02:32 PM 51990 INFO gs.openstack.wsgi.server [ req-ndrl-53ijn-h9pg ] [ instance: ydp4fa-1ht782-wst3yd-wud8m ] Takes 712 seconds to deallocate network for instance
+L939~gs.api.log.69_Sep 12, 2019_17:13:00 73024 INFO gs.openapi.server [ req-tdskc-rb23-6exg9o ] "GET /v2/rhvdeqn3faus98g0/servers/details HTTP/1.1" status: 200 len: 1257 time: 0.6906691
+L940~gs.api.compute.log.22.2019-09-14_03:45 AM 93344 INFO gs.compute.manager [ req-7dxu2-vwypum-wbsqd-uab0iz-659m7 ] [ instance: y9a5i-l89bg-u50a ] VM Resumed (Lifecycle Event)
+L941~gs.compute.log.33.03-09-2019_05:06 PM 86409 INFO gs.openapi.wsgi.server [ req-dwqbe1-9bc6-vla0s-jfinu ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 7078 time: 0.9778978
+L942~gs.api.log.11.2019-09-04_01:27 PM 71573 INFO gs.api.openapi.compute.wsgi [ req-v47k-p2860-1m82u-guc3 ] [ instance: x2rl-7vse1y-lxad0 ] Instance Destroyed Successfully
+L943~gs.api.log.41_2019-09-07_10:10:00 87033 INFO gs.openapi.wsgi.server [ req-p5tb-zcg4a-gyb4k-iz71 ] [ instance: j602eg-ywof1-8cqjwp-rytxe8-vz2nx ] Total disk upper-limit not defined, defaulting to unlimited
+L944~gs.api.log.52_12-09-2019_02:30 87816 INFO gs.api.openstack.compute.wsgi [ req-gyb4k-4nbsil-1ygsj-nji3 ] HTTP exception thrown: No entry found for any event
+L945~gs.compute.log.61.12-09-2019_22:54 4505 INFO gs.openapi.server [ req-4t85u-rsjok9-q2b5x-wxf6-2bi3 ]
+L946~gs.api.log.68_15-09-2019_14:30 18018 INFO gs.openstack.server [ req-sy65tl-vxb0tn-wxf6-yp0io-h0m2 ] HTTP exception thrown: No instances found for any event
+L947~gs.api.log.25_14-09-2019_23:38 97948 INFO gs.compute.manager [ req-hjnbup-ntaj-a7s4-mzou-u9qae ] HTTP exception thrown: No instances found for any event
+L948~gs.api.compute.log.82.05-09-2019_03:42 AM 82546 INFO gs.resource.resource_tracker [ req-cb8v-vleiy-za7m-7zyp9-t5uyn ] [ instance: nhwlbg-sqwbf0-4dsm6h-voi178 ] VM Resumed (Lifecycle Event)
+L949~gs.compute.log.46.12-09-2019_21:18 94685 INFO gs.resource.manager [ req-hfujap-2pz8-lctxos-nbd8 ] "GET /v2/2019-09-11 vendor_data.json HTTP/1.1" status: 404 len: 1830 time: 0.0407041
+L950~gs.api.log.48_05-09-2019_05:16 69612 INFO gs.openstack.server [ req-0zrw5-gyb4k-uy1al5 ] HTTP exception thrown: No entry found for any event
+L951~gs.api.log.23_Sep 10, 2019_06:56:00 57807 INFO gs.compute.resource_tracker [ req-7dxu2-vwypum-wbsqd-uab0iz-659m7 ] "GET /v2/5ch18iemtv6kbn0y/servers/details HTTP/1.1" status: 202 len: 8551 time: 0.3290329
+L952~gs.api.log.94.Sep 04, 2019_02:47 13524 INFO gs.resource.claims [ req-30s6i-8cqjwp-92zvgh-10wn ] Removable base files: /var/lib/gs/instances/_base/kh485z-9ifn-jlb62-5u3f-xms9j
+L953~gs.api.compute.log.82.Sep 07, 2019_10:17 AM 64148 INFO gs.openstack.server [ req-7kwbx-bql5g-dr2nm ] [ instance: tdskc-rb23-6exg9o ] VM Started (Lifecycle Event)
+L954~gs.api.log.69_Sep 09, 2019_10:50:00 47641 INFO gs.openstack.server [ req-5dfynt-ezvs7-ugkq-uol7ef-rpa9o ] [ instance: 4fsdei-0e1x4b-hg2m1-wrcp-wc27vl ] Total disk upper-limit not defined, defaulting to unlimited
+L955~gs.compute.log.97.12-09-2019_01:58 PM 55318 INFO gs.openapi.server [ req-ndrl-5eva8-a0um-ydp4fa-mn76 ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 1827 time: 0.9319932
+L956~gs.api.log.79_12-09-2019_02:02 92329 INFO gs.openstack.server [ req-6czg50-znf6p1-cb4ngr-j6zsi-4m7wa ] HTTP exception thrown: No entry found for any event
+L957~gs.compute.log.80.05-09-2019_19:08 47743 INFO gs.openstack.server [ req-lx5g-f1zgu-4agu-u5qri ] Total usable memory: 80GB, total allocated memory: 9GB
+L958~gs.api.log.98_Sep 09, 2019_19:34:00 73545 INFO gs.compute.resource_tracker [ req-ed9k-uol7ef-rj0zcy-gd4ks ] [ instance: rytxe8-why1-mzou ] Total disk upper-limit not defined, defaulting to unlimited
+L959~gs.api.log.36.15-09-2019_20:49 27092 INFO gs.openapi.wsgi.server [ req-zrbjc8-voi178-oi5g ] Base or swap file too young to remove: /var/lib/gs/instances/_base/uy1al5-2ox7h9-b0u4v
+L960~gs.api.log.50.2019-09-15_06:21 AM 66184 INFO gs.openapi.server [ req-2m85w-uh29c-voi178-v47k ] [ instance: t8i3f-0h4m-3fmy-kw0tiv ] swap instance creation successfully
+L961~gs.api.compute.log.31.2019-09-13_10:53 PM 57344 INFO gs.api.openapi.compute.wsgi [ req-uxnq-bo2j1i-g195y-za7m-kz6vg ] [ instance: ywof1-rbdla-2aque-8t26-95ewzi ] VM Stopped (Lifecycle Event)
+L962~gs.api.compute.log.67.Sep 07, 2019_11:52 PM 53124 INFO gs.openapi.wsgi.server [ req-7dxu2-4dsm6h-nv8jct-8zl7 ] [ instance: 6fcpz3-10wn-3npi-x9cjd-0x7vr ] VM Stopped (Lifecycle Event)
+L963~gs.compute.log.41_2019-09-05_17:41:00 24328 INFO gs.openapi.server [ req-8mkw-6nub-ws0mh-jfinu-wst3yd ] Creating event network-vif-plugged: for instance
+L964~gs.compute.log.68_2019-09-03_14:02:00 83237 INFO gs.api.openapi.compute.wsgi [ req-ubec-3poj-mfwd6j ] Creating event network-vif-plugged: for instance
+L965~gs.api.log.20.Sep 05, 2019_10:50 26377 INFO gs.resource.resource_tracker [ req-659m7-51oy-gyb4k-iejl9-khe4zp ] Base or swap file too young to remove: /var/lib/gs/instances/_base/6purm-u50a-wzp4ad-xdt1u-ufxz
+L966~gs.api.log.29_Sep 03, 2019_22:26:00 97625 INFO gs.openapi.wsgi.server [ req-x2rl-7vse1y-lxad0 ] "POST /v2/n2h9v4tlf1azi0dj/servers/details HTTP/1.1" status: 204 len: 1980 time: 0.5917592
+L967~gs.api.log.70_2019-09-13_22:02:00 24569 INFO gs.openapi.server [ req-9y6vnd-hfujap-5v7pe0-ylvs ] [ instance: k9ewd-y8zx-j6zsi ] Total memory limit not specified, defaulting to unlimited
+L968~gs.compute.log.31.14-09-2019_12:22 PM 63534 INFO gs.api.openstack.compute.wsgi [ req-e8uxd-4cz1n-92h5 ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 6644 time: 0.0844084
+L969~gs.compute.log.20_2019-09-11_06:55:00 7527 INFO gs.openstack.server [ req-iz71-4cz1n-3q0vo-lem3a ] Creating event network-vif-plugged: for instance
+L970~gs.api.log.87_Sep 06, 2019_13:05:00 47047 INFO gs.openstack.server [ req-659m7-51oy-gyb4k-iejl9-khe4zp ] [ instance: seht-snx5kr-rj0zcy ] vcpu limit not specified, default to unlimited
+L971~gs.api.log.36_09-09-2019_07:57 16135 INFO gs.compute.manager [ req-0v4wr-kd1q-8sa2 ] HTTP exception thrown: No entry found for any event
+L972~gs.api.compute.log.77.01-09-2019_11:48 PM 80902 INFO gs.resource.resource_tracker [ req-kqijyd-1eq4-jd74zt-seht ] [ instance: kyum-z210-cnklvu-o20nek-yn78p ] VM Paused (Lifecycle Event)
+L973~gs.compute.log.37_2019-09-10_04:05:00 45688 INFO gs.openstack.wsgi.server [ req-3oh07-iz71-ufwp ] Creating event network-vif-plugged: for instance
+L974~gs.compute.log.61.13-09-2019_03:59 AM 21863 INFO gs.compute.manager [ req-e9f1-9bc6-9q2us-gbocui-p5ek ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 3131 time: 0.0454045
+L975~gs.compute.log.39.06-09-2019_22:48 76827 INFO gs.openapi.wsgi.server [ req-ufxz-lctxos-ogc53-l89bg ] Total usable vgpus: 39, total allocated vgpus: 1
+L976~gs.api.log.91_10-09-2019_17:59 40433 INFO gs.resource.claims [ req-rsjok9-7kwbx-qi4yxm ] HTTP exception thrown: No instances found for any event
+L977~gs.api.log.71_Sep 09, 2019_09:19:00 91352 INFO gs.resource.claims [ req-ywof1-snx5kr-1d4h3-bql5g-d7bus ] "POST /v2/mkrbsalhvq43e5itxnf0wo1jdpcu2y79/servers/details HTTP/1.1" status: 404 len: 9132 time: 0.6439644
+L978~gs.api.log.70_Sep 11, 2019_06:56:00 18889 INFO gs.api.openstack.compute.wsgi [ req-nhwlbg-hg2m1-8t9m-37c9b-7gtvf9 ] "DELETE /v2/re4bvathc17lw5k3yg8j29xf/servers/details HTTP/1.1" status: 200 len: 7403 time: 0.0289029
+L979~gs.compute.log.82_2019-09-14_04:05:00 13909 INFO gs.resource.claims [ req-n3zb-lcj1d-epdv4-t8i3f ] Creating event network-vif-plugged: for instance
+L980~gs.api.log.53_Sep 09, 2019_21:06:00 93447 INFO gs.resource.resource_tracker [ req-cz92j4-ugkq-bztu59 ] [ instance: kixja-37c9b-1yaqrz ] vcpu limit not specified, default to unlimited
+L981~gs.compute.log.62.2019-09-13_14:31:00 11242 INFO gs.api.openapi.compute.wsgi [ req-9top1-6arqu-wst3yd-w4q2-ws0mh ] [ instance: 6ot1r-gm59z-gbocui ] Takes 8116 seconds to build the instance
+L982~gs.api.log.76_Sep 06, 2019_10:43:00 7211 INFO gs.resource.claims [ req-n7w9u-tn296-gmw3 ] "POST /v2/awg9mzlq3ki4r0ud/servers/details HTTP/1.1" status: 404 len: 7740 time: 0.4110411
+L983~gs.api.log.38.2019-09-15_01:57 AM 31170 INFO gs.openapi.wsgi.server [ req-9fqgh-e1ajgn-hliy2-51oy ] [ instance: 6czg50-cz92j4-op4ryu-njros0-qi4yxm ] swap instance creation successfully
+L984~gs.api.log.28_2019-09-03_00:12:00 20286 INFO gs.api.openstack.compute.wsgi [ req-uxnq-qvrlz-4dsm6h-251u ] [ instance: 251u-ntaj-92h5-tnxuz ] Total memory limit not specified, defaulting to unlimited
+L985~gs.compute.log.15.03-09-2019_01:58 67556 INFO gs.resource.claims [ req-2pz8-nv1ui-y5tj ] "GET /v2/2019-09-06 meta_data.json HTTP/1.1" status: 404 len: 9404 time: 0.6135614
+L986~gs.api.log.80.2019-09-08_01:27 PM 29845 INFO gs.api.openstack.compute.wsgi [ req-nv1ui-awy8e3-gmw3 ] [ instance: wrcp-8aqge-z7ugl6 ] Instance Destroyed Successfully
+L987~gs.api.log.84.2019-09-02_03:04 AM 55580 INFO gs.api.openstack.compute.wsgi [ req-x2rl-7vse1y-lxad0 ] [ instance: 6nub-ydp4fa-l0ieb-d5fmv ] Instance spawned correctly
+L988~gs.api.log.73.Sep 08, 2019_13:22:00 5151 INFO gs.openapi.server [ req-qmk5g9-7nxq-6od5mc ] Base or swap file too young to remove: /var/lib/gs/instances/_base/57sy1o-nv8jct-bql5g-lx5g-6fcpz3
+L989~gs.api.compute.log.65.14-09-2019_11:05 PM 2784 INFO gs.compute.resource_tracker [ req-guc3-uol7ef-wrcp-64ugji-nji3 ] [ instance: z210-cb8v-dr2nm-rpa9o-10wn ] VM Paused (Lifecycle Event)
+L990~gs.compute.log.24.2019-09-10_10:17:00 92275 INFO gs.resource.manager [ req-50frl-jd74zt-w4q2 ] [ instance: i4k31-vleiy-voa1 ] Took 3253 seconds to destroy the instance on the hypervisor
+L991~gs.api.log.88.2019-09-13_10:08 PM 54393 INFO gs.openapi.server [ req-ywof1-rbdla-2aque-8t26-95ewzi ] [ instance: 6fcpz3-10wn-3npi-x9cjd-0x7vr ] Instance spawned correctly
+L992~gs.api.log.22_15-09-2019_13:18 83297 INFO gs.openapi.wsgi.server [ req-l8ejk-mvdb8-uab0iz ] HTTP exception thrown: No entry found for any event
+L993~gs.api.log.48.15-09-2019_10:07 59517 INFO gs.resource.resource_tracker [ req-7uy6-g195y-q89b-cn6d-vwctu ] Removable base files: /var/lib/gs/instances/_base/z210-n80j6-1ygsj-cmhkf9-s2ft
+L994~gs.compute.log.31.Sep 13, 2019_21:27 17587 INFO gs.resource.resource_tracker [ req-vwypum-voi178-2soxl-rma8-vpog ] "GET /v2/2019-09-12 meta_data.json HTTP/1.1" status: 201 len: 3755 time: 0.4272427
+L995~gs.api.log.42.2019-09-08_01:44 AM 32814 INFO gs.resource.claims [ req-iz71-4cz1n-3q0vo-lem3a ] [ instance: 4fsdei-1zaf04-ufxz-iv6no ] swap instance creation successfully
+L996~gs.api.log.38_Sep 10, 2019_01:21:00 71413 INFO gs.openstack.wsgi.server [ req-8qoj-gbdq0k-nhwlbg-vla0s-x3fz ] [ instance: 8vpj-vxb0tn-5zery ] Total memory limit not specified, defaulting to unlimited
+L997~gs.api.log.99.2019-09-15_11:52 PM 76076 INFO gs.compute.resource_tracker [ req-7dxu2-4dsm6h-nv8jct-8zl7 ] [ instance: 7jmh-5l1ne-nji3 ] swap instance creation successfully
+L998~gs.api.log.90_07-09-2019_01:47 47901 INFO gs.resource.resource_tracker [ req-2pz8-nv1ui-y5tj ] HTTP exception thrown: No instances found for any event
+L999~gs.api.log.84_Sep 07, 2019_07:23:00 80993 INFO gs.resource.resource_tracker [ req-gyb4k-4nbsil-1ygsj-nji3 ] "GET /v2/a5jxuv2onqzf6r4y7i9clspd1kb0t3me/servers/details HTTP/1.1" status: 200 len: 4347 time: 0.2725273
+L1000~gs.compute.log.38.03-09-2019_11:53 80376 INFO gs.resource.manager [ req-4uz8-ubec-rytxe8-8v3qyr ] Total usable disk: 38GB, total allocated disk: 4GB
+L1001~gs.api.log.72_Sep 03, 2019_13:28:00 21765 INFO gs.openstack.wsgi.server [ req-az74cj-28du-6fcpz3-tn296-il7e ] [ instance: ywof1-rbdla-2aque-8t26-95ewzi ] VM limit not defined, defaulting to max
+L1002~gs.compute.log.14.01-09-2019_15:13 89407 INFO gs.compute.resource_tracker [ req-0e1x4b-07c3-vhgtcd ] "GET /v2/2019-09-10 user_data.json HTTP/1.1" status: 404 len: 6032 time: 0.069507
+L1003~gs.compute.log.61.09-09-2019_03:20 PM 92151 INFO gs.api.openapi.compute.wsgi [ req-6exg9o-9q2us-b3yovi-78jxq ] [ instance: 30s6i-8cqjwp-92zvgh-10wn ] Takes 1995 seconds to deallocate network for instance
+L1004~gs.compute.log.16.03-09-2019_11:04 AM 79076 INFO gs.openapi.server [ req-0n37-ovjcx-sy65tl-g195y-9fqgh ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 404 len: 5627 time: 0.0847085
+L1005~gs.compute.log.83.Sep 11, 2019_01:01 29925 INFO gs.resource.claims [ req-37c9b-h0m2-h0kd-lf8pr1-ndrl ] "GET /v2/2019-09-13 vendor_data.json HTTP/1.1" status: 201 len: 6661 time: 0.2130213
+L1006~gs.api.log.17.Sep 15, 2019_21:18:00 86615 INFO gs.openapi.wsgi.server [ req-ydp4fa-1ht782-wst3yd-wud8m ] Removing base or swap file: /var/lib/gs/instances/_base/n3zb-lcj1d-epdv4-t8i3f
+L1007~gs.api.log.60_Sep 13, 2019_04:57:00 88051 INFO gs.resource.resource_tracker [ req-wbsqd-1m82u-znquk-34nme6-n80j6 ] "POST /v2/6qjr71p32obxckvnu4g0talm/servers/details HTTP/1.1" status: 200 len: 5728 time: 0.4828483
+L1008~gs.api.log.21_2019-09-15_04:51:00 59592 INFO gs.compute.resource_tracker [ req-vz2nx-rj0zcy-lem3a-hg2m1-j6zsi ] [ instance: sqwbf0-fns8p-guc3-x52i0-m826 ] Total memory limit not specified, defaulting to unlimited
+L1009~gs.api.log.34_Sep 06, 2019_03:14:00 76075 INFO gs.resource.resource_tracker [ req-o20nek-lx5g-9bc6 ] "POST /v2/fvxnk51ce3aomju8/servers/details HTTP/1.1" status: 404 len: 9569 time: 0.5844584
+L1010~gs.api.log.69_Sep 15, 2019_04:17:00 11312 INFO gs.resource.claims [ req-vleiy-st19-07b8k3-h4bjn-r60qt4 ] "DELETE /v2/x95scyv8obj3dua4m7i2kptegfhwq1lr/servers/details HTTP/1.1" status: 200 len: 7623 time: 0.8093809
+L1011~gs.compute.log.39.01-09-2019_11:54 PM 64882 INFO gs.resource.resource_tracker [ req-cm93ef-voi178-m23xr-cn6d-kixja ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 176 time: 0.7960796
+L1012~gs.api.log.67_2019-09-15_04:54:00 82278 INFO gs.resource.manager [ req-659m7-51oy-gyb4k-iejl9-khe4zp ] [ instance: n7w9u-lp7ie4-6od5mc-8vpj ] Total disk upper-limit not defined, defaulting to unlimited
+L1013~gs.api.log.27_Sep 08, 2019_14:55:00 26351 INFO gs.compute.manager [ req-3poj-1gbn-mvdb8-yafw5-voi178 ] "POST /v2/dm8qwy56zhvap2kujft3xcr9/servers/details HTTP/1.1" status: 202 len: 3819 time: 0.9553955
+L1014~gs.compute.log.89_2019-09-01_02:27:00 92203 INFO gs.resource.manager [ req-en3g-6do12x-vhgtcd-dw0s-5v7pe0 ] Creating event network-vif-plugged: for instance
+L1015~gs.compute.log.91.Sep 08, 2019_23:17 12611 INFO gs.openapi.server [ req-az74cj-5v7pe0-tdskc-glde-pg4e ] "GET /v2/2019-09-01 meta_data.json HTTP/1.1" status: 201 len: 8483 time: 0.0694069
+L1016~gs.api.log.82.Sep 05, 2019_02:12 PM 24537 INFO gs.openstack.wsgi.server [ req-n80j6-er9xy-e6ba-l89bg-8sa2 ] Removing base or swap file: /var/lib/gs/instances/_base/qmk5g9-gd4ks-9zi0wg-fw0lc-8ohnb
+L1017~gs.api.compute.log.27.2019-09-12_05:48 PM 36326 INFO gs.openapi.wsgi.server [ req-cm93ef-4yrq2-er9xy-4nbsil-gm59z ] [ instance: ved5la-nhwlbg-o9uw ] VM Stopped (Lifecycle Event)
+L1018~gs.compute.log.37.Sep 13, 2019_04:45 82370 INFO gs.resource.resource_tracker [ req-uy1al5-2ox7h9-b0u4v ] "GET /v2/2019-09-07 meta_data.json HTTP/1.1" status: 201 len: 5544 time: 0.3705371
+L1019~gs.compute.log.38_2019-09-11_04:57:00 47047 INFO gs.resource.resource_tracker [ req-az74cj-igbe5-yn78p ] Creating event network-vif-plugged: for instance
+L1020~gs.api.log.72.10-09-2019_09:19 AM 10554 INFO gs.compute.resource_tracker [ req-8sa2-moywpf-glde ] Base or swap file too young to remove: /var/lib/gs/instances/_base/6hb83-mn76-i6qn3-cgksh2-1ygsj
+L1021~gs.compute.log.21_2019-09-01_17:16:00 21778 INFO gs.openapi.server [ req-a9oemu-1pje6m-4v2d-6do12x ] Creating event network-vif-plugged: for instance
+L1022~gs.compute.log.46.10-09-2019_12:43 AM 31038 INFO gs.api.openstack.compute.wsgi [ req-hfujap-voa1-cnklvu ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 754 time: 0.8013801
+L1023~gs.api.compute.log.11.08-09-2019_02:14 AM 24874 INFO gs.openapi.wsgi.server [ req-amlkt-l8ejk-cn6d-l89bg ] [ instance: wxf6-ezvs7-mqz98h-znquk ] VM Paused (Lifecycle Event)
+L1024~gs.compute.log.21_2019-09-01_08:01:00 6575 INFO gs.compute.manager [ req-2pz8-ansf0b-1khtw-za7m ] Creating event network-vif-plugged: for instance
+L1025~gs.api.compute.log.74.Sep 09, 2019_05:34 PM 89228 INFO gs.openapi.server [ req-dr2nm-n7w9u-7gtvf9-vhgtcd-2i1w ] [ instance: ydp4fa-1ht782-wst3yd-wud8m ] VM Started (Lifecycle Event)
+L1026~gs.api.log.11.01-09-2019_10:06 33343 INFO gs.api.openstack.compute.wsgi [ req-51oy-fw0lc-j602eg-jlb62-rpa9o ] Base or swap file too young to remove: /var/lib/gs/instances/_base/r60qt4-jr7s2-uol7ef-29jnpm
+L1027~gs.compute.log.17_2019-09-12_10:17:00 97834 INFO gs.compute.manager [ req-xms9j-8cqjwp-h0m2-9i57s-mn76 ] Creating event network-vif-plugged: for instance
+L1028~gs.api.log.79.02-09-2019_07:31 43250 INFO gs.openstack.server [ req-n3zb-lcj1d-epdv4-t8i3f ] Active base files: /var/lib/gs/instances/_base/n3zb-lcj1d-epdv4-t8i3f
+L1029~gs.api.compute.log.48.2019-09-08_10:32 AM 85577 INFO gs.openapi.wsgi.server [ req-7dxu2-1khtw-4t85u ] [ instance: snx5kr-4fsdei-vwctu-lf8pr1-1gbn ] VM Stopped (Lifecycle Event)
+L1030~gs.compute.log.24.07-09-2019_15:02 98101 INFO gs.resource.manager [ req-z210-cb8v-dr2nm-rpa9o-10wn ] Total usable memory: 24GB, total allocated memory: 8GB
+L1031~gs.compute.log.65.12-09-2019_17:25 71147 INFO gs.openapi.server [ req-07b8k3-9zi0wg-p5tb ]
+L1032~gs.api.log.96_Sep 15, 2019_07:25:00 36496 INFO gs.compute.manager [ req-sy65tl-vxb0tn-wxf6-yp0io-h0m2 ] "DELETE /v2/yd1zpqu3en0avtbogk2j65wlrx479h8c/servers/details HTTP/1.1" status: 204 len: 9556 time: 0.1869187
+L1033~gs.compute.log.44.01-09-2019_02:18 PM 70051 INFO gs.api.openapi.compute.wsgi [ req-awy8e3-v47k-z210-0n37 ] [ instance: 53ijn-e7bt8n-8zl7-7blvs ] Took 1260 seconds to spawn the instance on the hypervisor
+L1034~gs.compute.log.35.12-09-2019_05:54 PM 71470 INFO gs.openstack.wsgi.server [ req-y9mjwk-n1yj-6wl35r-nhwlbg ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 404 len: 8525 time: 0.440244
+L1035~gs.compute.log.60_2019-09-13_06:15:00 59938 INFO gs.compute.resource_tracker [ req-ved5la-nhwlbg-o9uw ] Creating event network-vif-plugged: for instance
+L1036~gs.api.log.49_Sep 12, 2019_19:12:00 59342 INFO gs.openapi.server [ req-vl723r-ansf0b-3fmy ] [ instance: 2bi3-51oy-86olmf-6arqu ] vcpu limit not specified, default to unlimited
+L1037~gs.compute.log.93_2019-09-10_13:50:00 28843 INFO gs.compute.resource_tracker [ req-cm93ef-4yrq2-er9xy-4nbsil-gm59z ] Creating event network-vif-plugged: for instance
+L1038~gs.api.log.53_Sep 15, 2019_01:30:00 46712 INFO gs.compute.resource_tracker [ req-dw0s-4vtbmc-vhgtcd-vz2nx-xkf8 ] "POST /v2/qnjgfpzk2r7dulao/servers/details HTTP/1.1" status: 202 len: 3821 time: 0.0539054
+L1039~gs.api.log.11.2019-09-09_08:17 PM 28966 INFO gs.openapi.wsgi.server [ req-n7w9u-tn296-gmw3 ] [ instance: ovjcx-l89bg-guc3 ] Instance Destroyed Successfully
+L1040~gs.api.log.41.10-09-2019_17:04:00 49011 INFO gs.compute.resource_tracker [ req-kyum-kd1q-xu6th ] Removing base or swap file: /var/lib/gs/instances/_base/pkgfom-nhwlbg-78jxq-p2860
+L1041~gs.compute.log.53.15-09-2019_04:41 69612 INFO gs.openstack.server [ req-2aque-d7zuw6-1yaqrz ] Total usable vgpus: 53, total allocated vgpus: 6
+L1042~gs.compute.log.24.Sep 10, 2019_13:13 65185 INFO gs.resource.resource_tracker [ req-guc3-za7m-1k8xh-072ft ] "GET /v2/2019-09-11 meta_data.json HTTP/1.1" status: 201 len: 1338 time: 0.4063406
+L1043~gs.api.log.98_06-09-2019_17:20 53124 INFO gs.openstack.wsgi.server [ req-lx5g-f1zgu-4agu-u5qri ] HTTP exception thrown: No entry found for any event
+L1044~gs.api.log.14_01-09-2019_16:34 71749 INFO gs.compute.manager [ req-y9mjwk-6do12x-5eva8-gqds-64ugji ] HTTP exception thrown: No entry found for any event
+L1045~gs.api.log.72.Sep 13, 2019_17:57 81087 INFO gs.api.openstack.compute.wsgi [ req-4d8fin-cmhkf9-9y6vnd-hjnbup-enwlc ] Unknown base file: /var/lib/gs/instances/_base/y9mjwk-6do12x-5eva8-gqds-64ugji
+L1046~gs.compute.log.60.04-09-2019_02:35 PM 12774 INFO gs.openstack.wsgi.server [ req-4nbsil-xms9j-fysr ] "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 404 len: 7888 time: 0.9418942
+L1047~gs.api.log.54.2019-09-08_09:13 PM 45575 INFO gs.openapi.wsgi.server [ req-2aque-d7zuw6-1yaqrz ] [ instance: wud8m-ydjr7v-10wn ] Instance spawned correctly
+L1048~gs.api.log.79.Sep 02, 2019_17:55 23366 INFO gs.compute.manager [ req-l8ejk-wrcp-cnrhos ] Unknown base file: /var/lib/gs/instances/_base/lem3a-xd16-2bi3-7nxq-rhezju
+L1049~gs.compute.log.39.14-09-2019_05:14 PM 74431 INFO gs.openapi.server [ req-amlkt-l8ejk-cn6d-l89bg ] "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 9622 time: 0.419842
