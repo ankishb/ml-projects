@@ -1,7 +1,7 @@
 # ml-projects
 This reposatry contains my DS and ML-contest's projects, along with my personal fun project. I have dealt with diverse set of problem/data/metrics. Following is the summary of each project, which contains the `type of dataset`, `type of problem` and `my-approach` to handle that(all in very brief). More details can be found in each subdirectory.
 
-### Flipkart Object Detection
+### [Flipkart Object Detection](https://github.com/ankishb/ml-projects/tree/master/conditional-object-detection)
 - DataSet:
     + Image
 - Type:
@@ -13,7 +13,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
     + Focal Loss with `YOLO` and `SSD`
 
 
-### Amazon Product Review classification
+### [Amazon Product Review classification](https://github.com/ankishb/ml-projects/tree/master/amazon-ml)
 - DataSet:
     + Text
 - Type:
@@ -26,7 +26,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
     + Ensemble
 
 
-### HDFC Risk Prediction
+### [HDFC Risk Prediction](https://github.com/ankishb/ml-projects/tree/master/hdfc-ml)
 - DataSet:
     + `2500` unknown predictors
 - Type:
@@ -39,7 +39,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
     + statistical model to understand the feature importance using `p-values`
 
 
-### Hike Friend Recommendation
+### [Hike Friend Recommendation](https://github.com/ankishb/ml-projects/tree/master/hike-friend-recommendation)
 - DataSet:
     + Relation Feature
     + Very big Dataset(45M observation)
@@ -54,7 +54,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
     + Also tried `Deep learning approach` (Graph Embedding), but couldn't handle at that time properly
 
 
-### Club Mahindra Hotel Room Price Prediction
+### [Club Mahindra Hotel Room Price Prediction](https://github.com/ankishb/ml-projects/tree/master/club-mahindra)
 - DataSet:
     + Category
     + Numerical
@@ -70,7 +70,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
     + Ensemble using different set of `tranformed` target space
 
 
-### Cifar-10 Classification using Conditional Feature
+### [Cifar-10 Classification using Conditional Feature](https://github.com/ankishb/ml-projects/tree/master/cifar-10-resnet)
 - DataSet:
     + Image
 - Type:
@@ -83,7 +83,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
     + Improved score by `1.37%` over `Resnet`
 
 
-### Facenet 
+### [Facenet](https://github.com/ankishb/ml-projects/tree/master/facenet)
 - DataSet:
     + Image
 - Type:
@@ -96,7 +96,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
     + Achieved `93%` accuracy
 
 
-### Few Shot Learning(Prototype Network)
+### [Few Shot Learning(Prototype Network)](https://github.com/ankishb/ml-projects/tree/master/few-shot-classification)
 - DataSet:
     + Image
 - Type:
@@ -106,7 +106,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
     + There is more to this(will update in future)
 
 
-### JP.Morgan House Price Prediction
+### [JP.Morgan House Price Prediction](https://github.com/ankishb/ml-projects/tree/master/jp-morgan)
 - DataSet:
     + Category
     + Numerical
@@ -119,7 +119,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
     + `out of fold prediction` to generate `Meta feature` for `ensemble`
 
 
-### Hackerearth Platform Recommendation System
+### [Hackerearth Platform Recommendation System](https://github.com/ankishb/ml-projects/tree/master/recommendation-system)
 - DataSet:
     + Text
 - Type:
@@ -134,7 +134,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
         6. And many more?
 
 
-### LTFS Loan Status prediction
+### [LTFS Loan Status prediction](https://github.com/ankishb/ml-projects/tree/master/ltfs-loan-prediction)
 - DataSet:
     + Category
     + Numerical
@@ -144,7 +144,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
     + 
 
 
-### Segmentation
+### [Segmentation](https://github.com/ankishb/ml-projects/tree/master/segmentation)
 - DataSet:
     + Image
 - Type:
@@ -153,7 +153,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
     + 
 
 
-### Future sale Prediction
+### [Future sale Prediction](https://github.com/ankishb/ml-projects/tree/master/small-fun-project/future-sale-pred)
 - DataSet:
     + Relational feature
     + Time Feature
@@ -165,7 +165,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
     + 
 
 
-### Gartner Retention Status Prediction
+### [Gartner Retention Status Prediction](https://github.com/ankishb/ml-projects/tree/master/small-fun-project/gartner)
 - DataSet:
     + Image
 - Type:
@@ -175,7 +175,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
     + Feature Engineering
 
 
-### Stock Prediction
+### [Stock Prediction](https://github.com/ankishb/ml-projects/tree/master/small-fun-project/collect-imp-tensor-spyder/time-series-prediction)
 - DataSet:
     + Time Series stock prices
 - Type:
