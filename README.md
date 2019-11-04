@@ -4,7 +4,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
 ### [Flipkart Object Detection](https://github.com/ankishb/ml-projects/tree/master/conditional-object-detection)
 - DataSet:
     + Image
-- Type:
+- Objective:
     + Bounding Box prediction
 - My Approach:
     + Designed a visual feature pipeline with attention on the object in image
@@ -16,20 +16,20 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
 ### [Amazon Product Review classification](https://github.com/ankishb/ml-projects/tree/master/amazon-ml)
 - DataSet:
     + Text
-- Type:
+- Objective:
     + Classification
 - My Approach:
     + Data Cleaning/feature enginnering
     + Linear/Non-Linear Model
-    + Deep Learning Attention based Model
-    + Pretrained Bert Model
+    + `Deep Learning Attention Model`
+    + `Pretrained Bert Model`
     + Ensemble
 
 
 ### [HDFC Risk Prediction](https://github.com/ankishb/ml-projects/tree/master/hdfc-ml)
 - DataSet:
     + `2500` unknown predictors
-- Type:
+- Objective:
     + Classification 
 - My Approach:
     + Feature Understanding(`EDA`)
@@ -41,9 +41,10 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
 
 ### [Hike Friend Recommendation](https://github.com/ankishb/ml-projects/tree/master/hike-friend-recommendation)
 - DataSet:
-    + Relation Feature
-    + Very big Dataset(45M observation)
-- Type:
+    + Very big Dataset(45M observation, graph edge-representation)
+    + Relational Feature
+    + Category + Numerical
+- Objective:
     + Link Prediction
 - My Approach:
     + Graph Based features such as (`adamic-adar`, `common-resource-allocation`,...)
@@ -56,73 +57,70 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
 
 ### [Club Mahindra Hotel Room Price Prediction](https://github.com/ankishb/ml-projects/tree/master/club-mahindra)
 - DataSet:
-    + Category
-    + Numerical
+    + Category + Numerical
     + Relational Dataset
-- Type:
+- Objective:
     + Regression
-    + Hotel-Room Price Prediction 
 - My Approach:
     + Feature engineering
-        1. date-time based feature
-        2. Aggregation based feature
-        3. Relational Features
+        1. `date-time` based feature
+        2. `Aggregation` based feature
+        3. `Relational` Features
     + Ensemble using different set of `tranformed` target space
 
 
 ### [Cifar-10 Classification using Conditional Feature](https://github.com/ankishb/ml-projects/tree/master/cifar-10-resnet)
 - DataSet:
     + Image
-- Type:
-    + Classification
+- Objective:
     + Comparison between ResNet and my modified feature pipeline
+    + Classification
 - My Approach:
-    + Developed a weighted feature pipeline using global and local feature.
-    + Global feature put constrained on local feature, to specifically focused on features of object in image
-    + Better attention map around object, which reflect its learned feature.
+    + Developed a `weighted feature pipeline using global and local feature`.
+    + `Global feature put constrained on local feature, to specifically focused on features of object` in image
+    + `Better attention map around object`, which reflect its learned feature.
     + Improved score by `1.37%` over `Resnet`
 
 
 ### [Facenet](https://github.com/ankishb/ml-projects/tree/master/facenet)
 - DataSet:
     + Image
-- Type:
+- Objective:
     + Face Verification
 - My Approach:
-    + Matching Network Approach
-    + Built a Student-Attentdance hardware using arduino
-    + Hard Mining Approach(generate all permutation between classes to handle small dataset)
-    + network-in-network approach to handle overfitting as i have very small dataset.
+    + `Matching Network Approach`
+    + Build a `Student-Attentdance hardware using arduino`
+    + `Hard Mining Approach`(generate all permutation between classes to handle small dataset)
+    + `network-in-network` approach to handle overfitting as i have very small dataset.
     + Achieved `93%` accuracy
 
 
 ### [Few Shot Learning(Prototype Network)](https://github.com/ankishb/ml-projects/tree/master/few-shot-classification)
 - DataSet:
     + Image
-- Type:
-    + Classification using small set of data
+- Objective:
+    + Classification (training on very small dataset)
 - My Approach:
-    + Prototype Algorithm implementation
+    + `Prototype Algorithm` implementation
     + There is more to this(will update in future)
 
 
 ### [JP.Morgan House Price Prediction](https://github.com/ankishb/ml-projects/tree/master/jp-morgan)
 - DataSet:
-    + Category
-    + Numerical
-- Type:
-    + Regression (House prices prediction)
+    + Category + Numerical
+- Objective:
+    + Regression 
 - My Approach:
     + Date based feature and Dummy feature
-    + Interaction based feature 
-    + Bayesian optimization
+    + `Interaction based feature` 
+    + `Bayesian optimization`
     + `out of fold prediction` to generate `Meta feature` for `ensemble`
 
 
 ### [Hackerearth Platform Recommendation System](https://github.com/ankishb/ml-projects/tree/master/recommendation-system)
 - DataSet:
     + Text
-- Type:
+- Objective:
     + User-Problem Rating Prediction
 - My Approach:
     + My main concerns was to handle following question carefully:
@@ -136,9 +134,8 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
 
 ### [LTFS Loan Status prediction](https://github.com/ankishb/ml-projects/tree/master/ltfs-loan-prediction)
 - DataSet:
-    + Category
-    + Numerical
-- Type:
+    + Category + Numerical
+- Objective:
     + Classification
 - My Approach:
     + 
@@ -147,7 +144,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
 ### [Segmentation](https://github.com/ankishb/ml-projects/tree/master/segmentation)
 - DataSet:
     + Image
-- Type:
+- Objective:
     + Segmentation
 - My Approach:
     + 
@@ -156,10 +153,9 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
 ### [Future sale Prediction](https://github.com/ankishb/ml-projects/tree/master/small-fun-project/future-sale-pred)
 - DataSet:
     + Relational feature
-    + Time Feature
-    + Categorical
-    + Numerical
-- Type:
+    + Time-Series Feature
+    + Categorical + Numerical
+- Objective:
     + Future Sales Prediction for different store in different cities
 - My Approach:
     + 
@@ -168,7 +164,7 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
 ### [Gartner Retention Status Prediction](https://github.com/ankishb/ml-projects/tree/master/small-fun-project/gartner)
 - DataSet:
     + Image
-- Type:
+- Objective:
     + Classification 
 - My Approach:
     + EDA
@@ -177,8 +173,8 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
 
 ### [Stock Prediction](https://github.com/ankishb/ml-projects/tree/master/small-fun-project/collect-imp-tensor-spyder/time-series-prediction)
 - DataSet:
-    + Time Series stock prices
-- Type:
+    + Time-Series stock prices
+- Objective:
     + Future price prediction
     + Regression
 - My Approach:
