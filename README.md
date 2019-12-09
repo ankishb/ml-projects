@@ -1,6 +1,8 @@
 # ml-projects
 This reposatry contains my DS and ML-contest's projects, along with my personal fun project. I have dealt with diverse set of problem/data/metrics. Following is the summary of each project, which contains the `type of dataset`, `type of problem` and `my-approach` to handle that(all in very brief). More details can be found in each subdirectory.
 
+> If you want to look the following text in a table format, [click here](https://github.com/ankishb/ml-projects/blob/master/README2.md)
+ 
 
 ### [Flipkart Object Detection](https://github.com/ankishb/ml-projects/tree/master/conditional-object-detection)
 - DataSet:
