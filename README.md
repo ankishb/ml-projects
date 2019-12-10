@@ -150,7 +150,9 @@ This reposatry contains my DS and ML-contest's projects, along with my personal 
 - Objective:
     + Segmentation
 - My Approach:
-    + 
+    + Implemented an U-Net architecture on blood cell Dataset.
+    + fully convolutional network on traffic-street dataset.
+    + Finally experimented with generative adverserial network for better generalization in the presence of limited dataset.
 
 
 ### [Future sale Prediction](https://github.com/ankishb/ml-projects/tree/master/small-fun-project/future-sale-pred)
