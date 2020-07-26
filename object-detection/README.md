@@ -1,10 +1,12 @@
+## Ref:
+https://github.com/experiencor/keras-yolo2
 
-
-To run my code, you need following package
-
+## Requirements
 1. keras 2
 2. tensorflow
 3. imgaug
+4. cv2
+5. 
 
 After installing all required package, follows the `preprocessing.ipnb` files block by block, where you need to pay attention to specific points to run it successfully.
 
